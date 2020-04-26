@@ -1,0 +1,41 @@
+languagesystem arab dflt;
+languagesystem arab FAR;
+languagesystem arab KSH;
+languagesystem arab SND;
+
+include(gdef.fea);
+
+include(mark-classes.fea);
+
+lookup DoNothing {
+    lookupflag IgnoreMarks;
+    # Original source: 23
+    sub space by space;
+} DoNothing;
+
+include(lookups-spacers.fea);
+
+# GSUB
+
+include(ccmp-decompose-dots.fea);
+include(ccmp-small-and-enclosed-numerals.fea);
+include(ccmp-localisation.fea);
+
+include(init-medi-fina.fea);
+
+include(rlig-lam-alef.fea);
+include(rlig-divine-name.fea);
+include(rlig-yeh-barree-prep.fea);
+include(rlig-connecting-forms.fea);
+# include(rlig-yeh-barree-handling.fea);
+include(rlig-kaf-gaf.fea);
+include(rlig-spacers.fea);
+# #include(rlig-misc.fea);
+# include(rlig-delete-marks-and-spacers.fea);
+
+# GPOS
+
+include(curs-cursive-positioning.fea);
+include(curs-kerning.fea);
+include(mark.fea);
+include(mkmk.fea);

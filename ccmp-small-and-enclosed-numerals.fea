@@ -1,0 +1,109 @@
+lookup BaseNumPlusSmallNumerals {
+    # Original source: 154
+    sub ZeroArabic by baseNum ZeroArabic.small;
+    sub OneArabic by baseNum OneArabic.small;
+    sub TwoArabic by baseNum TwoArabic.small;
+    sub ThreeArabic by baseNum ThreeArabic.small;
+    sub FourArabic by baseNum FourArabic.small;
+    sub FiveArabic by baseNum FiveArabic.small;
+    sub SixArabic by baseNum SixArabic.small;
+    sub SevenArabic by baseNum SevenArabic.small;
+    sub EightArabic by baseNum EightArabic.small;
+    sub NineArabic by baseNum NineArabic.small;
+    sub FourFarsi by baseNum FourFarsi.small;
+    sub FiveFarsi by baseNum FiveFarsi.small;
+    sub SixFarsi by baseNum SixFarsi.small;
+    sub FourUrdu by baseNum FourUrdu.small;
+    sub SevenUrdu by baseNum SevenUrdu.small;
+    sub ZeroFarsi by baseNum ZeroArabic.small;
+    sub OneFarsi by baseNum OneArabic.small;
+    sub TwoFarsi by baseNum TwoArabic.small;
+    sub ThreeFarsi by baseNum ThreeArabic.small;
+    sub SevenFarsi by baseNum SevenArabic.small;
+    sub EightFarsi by baseNum EightArabic.small;
+    sub NineFarsi by baseNum NineArabic.small;
+    sub zero by baseNum zero.small;
+    sub one by baseNum one.small;
+    sub two by baseNum two.small;
+    sub three by baseNum three.small;
+    sub four by baseNum four.small;
+    sub five by baseNum five.small;
+    sub six by baseNum six.small;
+    sub seven by baseNum seven.small;
+    sub eight by baseNum eight.small;
+    sub nine by baseNum nine.small;
+} BaseNumPlusSmallNumerals;
+
+lookup BaseNumPlusEnclosedNumerals {
+    # Original source: 155 
+    sub ZeroArabic by baseNum ZeroArabic.encl;
+    sub OneArabic by baseNum OneArabic.encl;
+    sub TwoArabic by baseNum TwoArabic.encl;
+    sub ThreeArabic by baseNum ThreeArabic.encl;
+    sub FourArabic by baseNum FourArabic.encl;
+    sub FiveArabic by baseNum FiveArabic.encl;
+    sub SixArabic by baseNum SixArabic.encl;
+    sub SevenArabic by baseNum SevenArabic.encl;
+    sub EightArabic by baseNum EightArabic.encl;
+    sub NineArabic by baseNum NineArabic.encl;
+    sub FourFarsi by baseNum FourFarsi.encl;
+    sub FiveFarsi by baseNum FiveFarsi.encl;
+    sub SixFarsi by baseNum SixFarsi.encl;
+    sub FourUrdu by baseNum FourUrdu.encl;
+    sub SevenUrdu by baseNum SevenUrdu.encl;
+    sub ZeroFarsi by baseNum ZeroArabic.encl;
+    sub OneFarsi by baseNum OneArabic.encl;
+    sub TwoFarsi by baseNum TwoArabic.encl;
+    sub ThreeFarsi by baseNum ThreeArabic.encl;
+    sub SevenFarsi by baseNum SevenArabic.encl;
+    sub EightFarsi by baseNum EightArabic.encl;
+    sub NineFarsi by baseNum NineArabic.encl;
+    sub zero by baseNum zero.encl;
+    sub one by baseNum one.encl;
+    sub two by baseNum two.encl;
+    sub three by baseNum three.encl;
+    sub four by baseNum four.encl;
+    sub five by baseNum five.encl;
+    sub six by baseNum six.encl;
+    sub seven by baseNum seven.encl;
+    sub eight by baseNum eight.encl;
+    sub nine by baseNum nine.encl;
+} BaseNumPlusEnclosedNumerals;
+
+lookup EnclosedNumerals {
+    # Original source: 153
+    sub [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine] by [ZeroArabic.encl OneArabic.encl TwoArabic.encl ThreeArabic.encl FourArabic.encl FiveArabic.encl SixArabic.encl SevenArabic.encl EightArabic.encl NineArabic.encl FourFarsi.encl FiveFarsi.encl SixFarsi.encl FourUrdu.encl SevenUrdu.encl ZeroArabic.encl OneArabic.encl TwoArabic.encl ThreeArabic.encl SevenArabic.encl EightArabic.encl NineArabic.encl zero.encl one.encl two.encl three.encl four.encl five.encl six.encl seven.encl eight.encl nine.encl];
+} EnclosedNumerals;
+
+lookup SmallNumerals {
+    # Original source: 152
+    sub [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine] by [ZeroArabic.small OneArabic.small TwoArabic.small ThreeArabic.small FourArabic.small FiveArabic.small SixArabic.small SevenArabic.small EightArabic.small NineArabic.small FourFarsi.small FiveFarsi.small SixFarsi.small FourUrdu.small SevenUrdu.small ZeroArabic.small OneArabic.small TwoArabic.small ThreeArabic.small SevenArabic.small EightArabic.small NineArabic.small zero.small one.small two.small three.small four.small five.small six.small seven.small eight.small nine.small];
+} SmallNumerals;
+
+feature ccmp {
+    lookupflag 0;
+    # Original source: 156
+    sub [Sanah Footnote Safhah NumberSign Samvat]' [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup SmallNumerals [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup BaseNumPlusSmallNumerals;
+    sub [Sanah Footnote Safhah NumberSign Samvat]' [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup SmallNumerals;
+    sub [ZeroArabic.small OneArabic.small TwoArabic.small ThreeArabic.small FourArabic.small FiveArabic.small SixArabic.small SevenArabic.small EightArabic.small NineArabic.small FourFarsi.small FiveFarsi.small SixFarsi.small FourUrdu.small SevenUrdu.small zero.small one.small two.small three.small four.small five.small six.small seven.small eight.small nine.small] [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup BaseNumPlusSmallNumerals;
+    sub [ZeroArabic.encl OneArabic.encl TwoArabic.encl ThreeArabic.encl FourArabic.encl FiveArabic.encl SixArabic.encl SevenArabic.encl EightArabic.encl NineArabic.encl FourFarsi.encl FiveFarsi.encl SixFarsi.encl FourUrdu.encl SevenUrdu.encl zero.encl one.encl two.encl three.encl four.encl five.encl six.encl seven.encl eight.encl nine.encl] [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup BaseNumPlusEnclosedNumerals;
+    sub AyahEnd' [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup EnclosedNumerals [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup BaseNumPlusEnclosedNumerals;
+    sub AyahEnd' [ZeroArabic OneArabic TwoArabic ThreeArabic FourArabic FiveArabic SixArabic SevenArabic EightArabic NineArabic FourFarsi FiveFarsi SixFarsi FourUrdu SevenUrdu ZeroFarsi OneFarsi TwoFarsi ThreeFarsi SevenFarsi EightFarsi NineFarsi zero one two three four five six seven eight nine]' lookup EnclosedNumerals;
+
+    lookupflag IgnoreMarks;
+    # Original source: 157
+    sub Sanah baseNum baseNum baseNum by Sanah.alt4;
+    sub Sanah baseNum baseNum by Sanah.alt3;
+    sub Sanah baseNum by Sanah.alt2;
+    sub Footnote baseNum baseNum by Footnote.alt3;
+    sub Footnote baseNum by Footnote.alt2;
+    sub Safhah baseNum baseNum by Safhah.alt3;
+    sub Safhah baseNum by Safhah.alt2;
+    sub NumberSign baseNum baseNum by NumberSign.alt3;
+    sub NumberSign baseNum by NumberSign.alt2;
+    sub AyahEnd baseNum baseNum by AyahEnd.alt3;
+    sub AyahEnd baseNum by AyahEnd.alt2;
+    sub Samvat baseNum baseNum baseNum by Samvat.alt4;
+    sub Samvat baseNum baseNum by Samvat.alt3;
+    sub Samvat baseNum by Samvat.alt2;
+} ccmp;

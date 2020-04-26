@@ -1,0 +1,49 @@
+feature ccmp {
+    script arab;
+    language ARA;
+    # Original source: 11
+    sub HamzaAboveNS by HamzaAboveAF_NS;
+    sub HamzaBelowNS by HamzaBelowAF_NS;
+    sub SukunJazmNS by SukunNS;
+
+    script arab;
+    language FAR;
+    # Original source: 10
+    sub FourUrdu by FourFarsi;
+    sub SixUrdu by SixFarsi;
+    sub SevenUrdu by SevenFarsi;
+    sub DecimalPointArabic by DecimalPointFarsi;
+
+    script arab;
+    language FAR;
+    # Original source: 11
+    sub HamzaAboveNS by HamzaAboveAF_NS;
+    sub HamzaBelowNS by HamzaBelowAF_NS;
+    sub SukunJazmNS by SukunNS;
+
+    script arab;
+    language KSH;
+    # Original source: 11
+    sub HamzaAboveNS by HamzaAboveAF_NS;
+    sub HamzaBelowNS by HamzaBelowAF_NS;
+    sub SukunJazmNS by SukunNS;
+
+    script arab;
+    language KSH;
+    # Original source: 12
+    sub NoonGhunnaMarkNS by NoonGhunnaMarkKshmrNS;
+
+    script arab;
+    language SND;
+    # Original source: 9
+    sub SixUrdu by SixArabic;
+    sub SevenUrdu by SevenFarsi;
+
+    script arab;
+    language SND;
+    # Original source: 11
+    sub HamzaAboveNS by HamzaAboveAF_NS;
+    sub HamzaBelowNS by HamzaBelowAF_NS;
+    sub SukunJazmNS by SukunNS;
+
+} ccmp;

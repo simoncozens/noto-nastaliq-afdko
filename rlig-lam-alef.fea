@@ -1,0 +1,13 @@
+lookup ReplaceLamAlef {
+    # Original source: 8
+    sub AlefFin by AlefSep.LA;
+    sub LamIni by LamSep.LA;
+    sub LamMed by LamFin.LA;
+} ReplaceLamAlef;
+
+feature rlig {
+  lookupflag IgnoreMarks;
+  # Original source: 7
+  sub LamIni' lookup ReplaceLamAlef AlefFin' lookup ReplaceLamAlef;
+  sub LamMed' lookup ReplaceLamAlef AlefFin' lookup ReplaceLamAlef;
+} rlig;

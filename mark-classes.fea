@@ -61,7 +61,7 @@
     markClass TahDotAboveAltNS <anchor 0 925> @Anchor21;
     markClass ShortVwlAltNS <anchor 30 804> @Anchor21;
     markClass [Small2AboveAltNS Small3AboveAltNS Small4UrduAboveAltNS] <anchor 0 560> @Anchor21;
-    markClass [Small2AboveNS Small3AboveNS] <anchor 144 852> @Anchor21;
+    # markClass [Small2AboveNS Small3AboveNS] <anchor 144 852> @Anchor21;
     markClass TwoDotsVertAboveAltNS <anchor 118 106> @Anchor21;
     markClass ZwarakayAltNS <anchor 0 988> @Anchor21;
     markClass DammaRevAltNS <anchor 10 958> @Anchor21;

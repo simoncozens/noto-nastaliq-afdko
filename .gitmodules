@@ -1,0 +1,8 @@
+[submodule "fontFeatures"]
+	path = fontFeatures
+	url = https://www.github.com/simoncozens/fontFeatures
+	branch = master
+[submodule "fonttools"]
+	path = fonttools
+	url = https://www.github.com/simoncozens/fonttools
+	branch = fealib-multiple-lookups

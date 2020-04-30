@@ -5,15 +5,14 @@ languagesystem arab SND;
 
 include(gdef.fea);
 
+include(glyph-classes.fea);
 include(mark-classes.fea);
 
-lookup DoNothing {
+# Do Nothing
+lookup lookup_23 {
     lookupflag IgnoreMarks;
-    # Original source: 23
     sub space by space;
-} DoNothing;
-
-include(lookups-spacers.fea);
+} lookup_23;
 
 # GSUB
 
@@ -27,11 +26,11 @@ include(rlig-lam-alef.fea);
 include(rlig-divine-name.fea);
 include(rlig-yeh-barree-prep.fea);
 include(rlig-connecting-forms.fea);
-# include(rlig-yeh-barree-handling.fea);
+include(rlig-yeh-barree-handling.fea);
+include(rlig-stuff.fea);
 include(rlig-kaf-gaf.fea);
-include(rlig-spacers.fea);
-# #include(rlig-misc.fea);
-# include(rlig-delete-marks-and-spacers.fea);
+# include(rlig-yeh-barree-finalization.fea);
+include(rlig-stuff-2.fea);
 
 # GPOS
 

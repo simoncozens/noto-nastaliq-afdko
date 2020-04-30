@@ -1,49 +1,31 @@
 feature ccmp {
+
     script arab;
     language ARA;
-    # Original source: 11
-    sub HamzaAboveNS by HamzaAboveAF_NS;
-    sub HamzaBelowNS by HamzaBelowAF_NS;
-    sub SukunJazmNS by SukunNS;
+    sub [HamzaAboveNS HamzaBelowNS SukunJazmNS] by [HamzaAboveAF_NS HamzaBelowAF_NS SukunNS];
 
     script arab;
     language FAR;
-    # Original source: 10
-    sub FourUrdu by FourFarsi;
-    sub SixUrdu by SixFarsi;
-    sub SevenUrdu by SevenFarsi;
-    sub DecimalPointArabic by DecimalPointFarsi;
+    sub [FourUrdu SixUrdu SevenUrdu DecimalPointArabic] by [FourFarsi SixFarsi SevenFarsi DecimalPointFarsi];
 
     script arab;
     language FAR;
-    # Original source: 11
-    sub HamzaAboveNS by HamzaAboveAF_NS;
-    sub HamzaBelowNS by HamzaBelowAF_NS;
-    sub SukunJazmNS by SukunNS;
+    sub [HamzaAboveNS HamzaBelowNS SukunJazmNS] by [HamzaAboveAF_NS HamzaBelowAF_NS SukunNS];
+
+    script arab;
+    language SND;
+    sub [SixUrdu SevenUrdu] by [SixArabic SevenFarsi];
+
+    script arab;
+    language SND;
+    sub [HamzaAboveNS HamzaBelowNS SukunJazmNS] by [HamzaAboveAF_NS HamzaBelowAF_NS SukunNS];
 
     script arab;
     language KSH;
-    # Original source: 11
-    sub HamzaAboveNS by HamzaAboveAF_NS;
-    sub HamzaBelowNS by HamzaBelowAF_NS;
-    sub SukunJazmNS by SukunNS;
+    sub [HamzaAboveNS HamzaBelowNS SukunJazmNS] by [HamzaAboveAF_NS HamzaBelowAF_NS SukunNS];
 
     script arab;
     language KSH;
-    # Original source: 12
     sub NoonGhunnaMarkNS by NoonGhunnaMarkKshmrNS;
-
-    script arab;
-    language SND;
-    # Original source: 9
-    sub SixUrdu by SixArabic;
-    sub SevenUrdu by SevenFarsi;
-
-    script arab;
-    language SND;
-    # Original source: 11
-    sub HamzaAboveNS by HamzaAboveAF_NS;
-    sub HamzaBelowNS by HamzaBelowAF_NS;
-    sub SukunJazmNS by SukunNS;
 
 } ccmp;

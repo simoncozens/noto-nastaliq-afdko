@@ -1,13 +1,13 @@
-lookup ReplaceLamAlef {
-    # Original source: 8
-    sub AlefFin by AlefSep.LA;
-    sub LamIni by LamSep.LA;
-    sub LamMed by LamFin.LA;
-} ReplaceLamAlef;
+lookup lookup_8 {
+  sub AlefFin by AlefSep.LA;
+  sub LamIni by LamSep.LA;
+  sub LamMed by LamFin.LA;
+} lookup_8;
 
 feature rlig {
-  lookupflag IgnoreMarks;
-  # Original source: 7
-  sub LamIni' lookup ReplaceLamAlef AlefFin' lookup ReplaceLamAlef;
-  sub LamMed' lookup ReplaceLamAlef AlefFin' lookup ReplaceLamAlef;
+  lookup lookup_7 {
+    lookupflag IgnoreMarks;
+    sub LamIni' lookup lookup_8 AlefFin' lookup lookup_8;
+    sub LamMed' lookup lookup_8 AlefFin' lookup lookup_8;
+  } lookup_7;
 } rlig;

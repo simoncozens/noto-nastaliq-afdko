@@ -1,6 +1,6 @@
-feature rlig {
 
-            # Original source: 181 
+feature rlig {
+    lookup lookup_181 {
         sub TatweelNS TatweelNS by TatweelNS;
         sub ybMk sp1 by sp1;
         sub ybMk sp10 by sp10;
@@ -17,8 +17,9 @@ feature rlig {
         sub ybMk sp7 by sp7;
         sub ybMk sp8 by sp8;
         sub ybMk sp9 by sp9;
+    } lookup_181;
 
-            # Original source: 182 
+    lookup lookup_182 {
         sub sp0 sp0 by sp0;
         sub sp0 sp1 by sp1;
         sub sp0 sp10 by sp10;
@@ -275,5 +276,5 @@ feature rlig {
         sub sp15 sp7 by sp15;
         sub sp15 sp8 by sp15;
         sub sp15 sp9 by sp15;
-
+      } lookup_182;
 } rlig;

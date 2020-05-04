@@ -1,1 +1,1 @@
-PYTHONPATH=./fonttools/Lib:./fontFeatures python3 -m fontTools.feaLib -o NotoNastaliqUrdu.ttf NotoNastaliq.fea NotoNastaliqUrdu-Dummy.ttf
+PYTHONPATH=./fonttools/Lib:./fontFeatures fontmake -g NotoNastaliqUrdu.glyphs --master-dir .

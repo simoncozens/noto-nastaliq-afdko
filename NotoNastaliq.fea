@@ -6,7 +6,6 @@ languagesystem arab SND;
 include(gdef.fea);
 
 include(glyph-classes.fea);
-include(mark-classes.fea);
 
 # Do Nothing
 lookup lookup_23 {
@@ -26,7 +25,7 @@ include(rlig-lam-alef.fea);
 include(rlig-divine-name.fea);
 include(rlig-yeh-barree-prep.fea);
 include(rlig-connecting-forms.fea);
-include(rlig-yeh-barree-handling.fea);
+# include(rlig-yeh-barree-handling.fea);
 include(rlig-stuff.fea);
 include(rlig-kaf-gaf.fea);
 # include(rlig-yeh-barree-finalization.fea);
@@ -36,5 +35,4 @@ include(rlig-stuff-2.fea);
 
 include(curs-cursive-positioning.fea);
 include(curs-kerning.fea);
-include(mark.fea);
-include(mkmk.fea);
+include(anchors.fea);

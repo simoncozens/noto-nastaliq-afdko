@@ -1,0 +1,4080 @@
+Anchors uni25CC {
+	DotsAbove_BS <391 646>
+	DotsAboveAlt_BS <408 655>
+	DotsBelow_BS <391 -57>
+	DotsBelowAlt_BS <408 -65>
+	CrossBarAndRing_BS <303 646>
+	MiddleDot_BS <391 295>
+	MiddleRightDot_BS <391 277>
+};
+Anchors FehxIni.outT2N {
+	DotsAbove_BS <153 772>
+	DotsBelow_BS <106 -462>
+};
+Anchors AlefSep {
+	DotsAbove_BS <211 997>
+	DotsAboveAlt_BS <186 1059>
+	DotsBelow_BS <103 -59>
+};
+Anchors AlefFin {
+	DotsAbove_BS <207 952>
+	DotsAboveAlt_BS <206 1059>
+	DotsBelow_BS <151 -176>
+};
+Anchors BehxSep {
+	DotsAbove_BS <595 603>
+	DotsBelow_BS <576 -256>
+	CrossBarAndRing_BS <527 -46>
+};
+Anchors BehxFin {
+	DotsAbove_BS <593 601>
+	DotsBelow_BS <573 -257>
+	CrossBarAndRing_BS <527 -46>
+};
+Anchors NoonxSep {
+	DotsAbove_BS <413 712>
+	DotsBelow_BS <312 -576>
+	CrossBarAndRing_BS <342 -376>
+	MiddleDot_BS <397 216>
+};
+Anchors NoonxFin {
+	DotsAbove_BS <412 712>
+	DotsBelow_BS <312 -576>
+	CrossBarAndRing_BS <342 -376>
+	MiddleDot_BS <396 215>
+};
+Anchors HahSep {
+	DotsAbove_BS <421 1018>
+	DotsBelow_BS <366 -576>
+	MiddleDot_BS <449 217>
+};
+Anchors DalSep {
+	DotsAbove_BS <132 671>
+	DotsBelow_BS <146 -262>
+	CrossBarAndRing_BS <205 -22>
+};
+Anchors DalFin {
+	DotsAbove_BS <278 689>
+	DotsAboveAlt_BS <219 624>
+	DotsBelow_BS <153 -265>
+	CrossBarAndRing_BS <183 -27>
+};
+Anchors RehSep {
+	DotsAbove_BS <314 645>
+	DotsAboveAlt_BS <192 646>
+	DotsBelow_BS <229 -249>
+	CrossBarAndRing_BS <175 -21>
+	MiscMark_BS <119 267>
+	SmallDotsBelow_BS <281 -36>
+};
+Anchors SeenSep {
+	DotsAbove_BS <849 851>
+	DotsBelow_BS <928 32>
+};
+Anchors SeenFin {
+	DotsAbove_BS <855 849>
+	DotsBelow_BS <910 32>
+};
+Anchors SadSep {
+	DotsAbove_BS <952 866>
+	DotsBelow_BS <312 -576>
+	DotsBelowAlt_BS <972 32>
+};
+Anchors TahSep {
+	DotsAbove_BS <362 982>
+	DotsAboveAlt_BS <363 876>
+	DotsBelow_BS <373 -292>
+	MiddleDot_BS <555 696>
+	MiddleRightDot_BS <485 621>
+};
+Anchors AinSep {
+	DotsAbove_BS <320 1000>
+	DotsBelow_BS <362 -576>
+	MiddleDot_BS <362 153>
+};
+Anchors AinFin {
+	DotsAbove_BS <232 826>
+	DotsBelow_BS <362 -576>
+	MiddleDot_BS <327 153>
+};
+Anchors FehxSep {
+	DotsAbove_BS <949 849>
+	DotsBelow_BS <574 -256>
+};
+Anchors FehxFin {
+	DotsAbove_BS <1002 789>
+	DotsBelow_BS <574 -257>
+};
+Anchors QafxSep {
+	DotsAbove_BS <600 728>
+	DotsBelow_BS <298 -576>
+};
+Anchors WawSep {
+	DotsAbove_BS <216 631>
+	DotsAboveAlt_BS <206 690>
+	DotsBelow_BS <164 -200>
+	CrossBarAndRing_BS <124 49>
+};
+Anchors KafSep {
+	DotsAbove_BS <350 741>
+	DotsBelow_BS <471 -267>
+	CrossBarAndRing_BS <1238 1005>
+	CurlyKafDotsAbove_BS <832 1040>
+	MiddleDot_BS <481 553>
+};
+Anchors LamSep {
+	DotsAbove_BS <444 1056>
+	DotsBelow_BS <344 -577>
+	CrossBarAndRing_BS <747 810>
+};
+Anchors LamFin {
+	DotsAbove_BS <442 1061>
+	DotsBelow_BS <340 -575>
+	CrossBarAndRing_BS <747 974>
+};
+Anchors MeemSep {
+	DotsAbove_BS <340 883>
+	DotsBelow_BS <301 -308>
+};
+Anchors YehBarreeSep {
+	DotsAbove_BS <144 545>
+	DotsBelow_BS <486 -252>
+};
+Anchors YehBarreeFin {
+	DotsAbove_BS <118 463>
+	DotsBelow_BS <74 -188>
+};
+Anchors YehBarreeFin_5 {
+	DotsAbove_BS <118 463>
+	DotsAboveAlt_BS <966 -154>
+	DotsBelow_BS <87 -400>
+	DotsBelowAlt_BS <659 -291>
+	SmallDotsBelow_BS <1274 -247>
+};
+Anchors YehBarreeFin_4 {
+	DotsAbove_BS <118 463>
+	DotsAboveAlt_BS <1098 -159>
+	DotsBelow_BS <74 -188>
+	DotsBelowAlt_BS <764 -282>
+};
+Anchors YehBarreeFin_3 {
+	DotsAbove_BS <118 463>
+	DotsBelow_BS <87 -400>
+	DotsBelowAlt_BS <764 -282>
+};
+Anchors BehxFin.soft {
+	DotsAbove_BS <595 603>
+	DotsBelow_BS <574 -257>
+	CrossBarAndRing_BS <527 -46>
+};
+Anchors SeenIni.r {
+	DotsAbove_BS <208 589>
+	DotsBelow_BS <226 -179>
+};
+Anchors AlefFin.narrow {
+	DotsAbove_BS <208 966>
+	DotsAboveAlt_BS <206 1059>
+	DotsBelow_BS <204 -176>
+	DotsBelowAlt_BS <116 -396>
+};
+Anchors SeenMed.SWinBoutT2 {
+	DotsAbove_BS <276 500>
+	DotsBelow_BS <315 -238>
+};
+Anchors SeenMed.SWinDoutT2 {
+	DotsAbove_BS <306 493>
+	DotsBelow_BS <301 -282>
+};
+Anchors SeenMed.SWinFFoutT2 {
+	DotsAbove_BS <296 494>
+	DotsBelow_BS <305 -254>
+};
+Anchors FehxIni.outD2 {
+	DotsAbove_BS <291 780>
+	DotsBelow_BS <328 -220>
+	DotsBelowAlt_BS <454 -218>
+};
+Anchors FehxIni.outD2YB {
+	DotsAbove_BS <291 780>
+	DotsBelow_BS <324 -420>
+};
+Anchors SeenFin.2 {
+	DotsAbove_BS <855 849>
+	DotsBelow_BS <910 32>
+};
+Anchors SeenMed.SWinAoutT2 {
+	DotsAbove_BS <234 475>
+	DotsBelow_BS <305 -256>
+};
+Anchors LamSep.LA {
+	DotsAbove_BS <128 1017>
+	DotsAboveAlt_BS <128 1145>
+	DotsBelow_BS <65 -170>
+	DotsBelowAlt_BS <61 -365>
+	CrossBarAndRing_BS <87 625>
+};
+Anchors LamFin.LA {
+	DotsAbove_BS <129 1017>
+	DotsAboveAlt_BS <120 1144>
+	DotsBelow_BS <82 -142>
+	DotsBelowAlt_BS <90 -438>
+	CrossBarAndRing_BS <87 625>
+};
+Anchors LamIni.HRlow {
+	DotsAbove_BS <388 1255>
+	DotsBelow_BS <150 -172>
+	CrossBarAndRing_BS <202 476>
+};
+Anchors LamMed.HRlow {
+	DotsAbove_BS <375 1255>
+	DotsBelow_BS <191 -93>
+	DotsBelowAlt_BS <197 -433>
+	CrossBarAndRing_BS <202 476>
+};
+Anchors LamIni.lowKN {
+	DotsAbove_BS <255 920>
+	DotsBelow_BS <72 -207>
+	CrossBarAndRing_BS <184 415>
+};
+Anchors LamMed.lowKN {
+	DotsAbove_BS <255 920>
+	DotsBelow_BS <72 -207>
+	CrossBarAndRing_BS <184 450>
+};
+Anchors YehxSep {
+	DotsAbove_BS <274 566>
+	DotsBelow_BS <277 -516>
+	MiscMark_BS <217 354>
+};
+Anchors HehDoSep {
+	DotsAbove_BS <415 661>
+	DotsBelow_BS <351 -260>
+};
+Anchors YehxFin {
+	DotsAbove_BS <274 565>
+	DotsBelow_BS <276 -516>
+	MiscMark_BS <217 354>
+};
+Anchors HehDoIni {
+	DotsAbove_BS <330 745>
+	DotsBelow_BS <307 -211>
+};
+Anchors HehFin {
+	DotsAbove_BS <91 353>
+	DotsBelow_BS <67 -242>
+};
+Anchors HehSep {
+	DotsAbove_BS <159 674>
+	DotsBelow_BS <155 -250>
+};
+Anchors AlefSep.LA {
+	DotsAbove_BS <176 905>
+	DotsAboveAlt_BS <174 1008>
+	DotsBelow_BS <107 -284>
+};
+Anchors MeemFin {
+	DotsAbove_BS <193 743>
+	DotsBelow_BS <303 -309>
+};
+Anchors BehxIni {
+	DotsAbove_BS <147 514>
+	DotsAboveAlt_BS <178 442>
+	DotsBelow_BS <73 -264>
+	DotsBelowAlt_BS <241 -176>
+	CrossBarAndRing_BS <96 -11>
+};
+Anchors BehxIni.A {
+	DotsAbove_BS <147 514>
+	DotsAboveAlt_BS <178 442>
+	DotsBelow_BS <73 -264>
+	DotsBelowAlt_BS <118 -176>
+	CrossBarAndRing_BS <96 -11>
+};
+Anchors MeemIni.r {
+	DotsAbove_BS <75 618>
+	DotsBelow_BS <38 -378>
+};
+Anchors FehxIni.outT2 {
+	DotsAbove_BS <88 692>
+	DotsAboveAlt_BS <188 732>
+	DotsBelow_BS <89 -185>
+	DotsBelowAlt_BS <238 -134>
+};
+Anchors SeenMed.SWinFoutT2 {
+	DotsAbove_BS <268 468>
+	DotsBelow_BS <309 -256>
+};
+Anchors RehFin {
+	DotsAbove_BS <167 406>
+	DotsBelow_BS <36 -461>
+	CrossBarAndRing_BS <123 -180>
+	MiscMark_BS <-36 -21>
+	SmallDotsBelow_BS <195 -228>
+};
+Anchors HahFin {
+	DotsAbove_BS <208 1017>
+	DotsBelow_BS <366 -462>
+	MiddleDot_BS <450 215>
+};
+Anchors TahFin {
+	DotsAbove_BS <360 983>
+	DotsAboveAlt_BS <362 876>
+	DotsBelow_BS <374 -293>
+	MiddleDot_BS <555 696>
+	MiddleRightDot_BS <485 621>
+};
+Anchors SadFin {
+	DotsAbove_BS <892 866>
+	DotsBelow_BS <312 -576>
+};
+Anchors YehBarreeFin.2 {
+	DotsAbove_BS <41 591>
+	DotsBelow_BS <74 -188>
+};
+Anchors YehBarreeFin.2_5 {
+	DotsAbove_BS <41 591>
+	DotsAboveAlt_BS <1001 -154>
+	DotsBelow_BS <87 -400>
+	DotsBelowAlt_BS <694 -291>
+	SmallDotsBelow_BS <1309 -247>
+};
+Anchors YehBarreeFin.2_4 {
+	DotsAbove_BS <41 591>
+	DotsAboveAlt_BS <1098 -159>
+	DotsBelow_BS <74 -188>
+	DotsBelowAlt_BS <764 -282>
+};
+Anchors YehBarreeFin.2_3 {
+	DotsAbove_BS <41 591>
+	DotsBelow_BS <87 -400>
+	DotsBelowAlt_BS <764 -282>
+};
+Anchors QafxFin {
+	DotsAbove_BS <650 829>
+	DotsBelow_BS <298 -574>
+};
+Anchors WawFin {
+	DotsAbove_BS <177 631>
+	DotsBelow_BS <129 -200>
+	CrossBarAndRing_BS <124 49>
+};
+Anchors SeenMed.r {
+	DotsAbove_BS <177 574>
+	DotsBelow_BS <198 -223>
+};
+Anchors KafIni.k {
+	DotsAbove_BS <357 1125>
+	DotsAboveAlt_BS <423 1448>
+	DotsBelow_BS <114 -266>
+	DotsBelowAlt_BS <230 -261>
+	CrossBarAndRing_BS <315 741>
+	CurlyKafDotsAbove_BS <155 917>
+};
+Anchors SeenMed.SWinCoutT2 {
+	DotsAbove_BS <189 419>
+	DotsBelow_BS <258 -248>
+};
+Anchors SeenMed.SWinGoutT2 {
+	DotsAbove_BS <282 423>
+	DotsBelow_BS <305 -259>
+};
+Anchors HehFin.wide {
+	DotsAbove_BS <203 423>
+	DotsAboveAlt_BS <115 423>
+	DotsBelow_BS <183 -231>
+};
+Anchors BehxIni.outT2 {
+	DotsAbove_BS <101 400>
+	DotsAboveAlt_BS <206 532>
+	DotsBelow_BS <127 -250>
+	DotsBelowAlt_BS <232 -162>
+	CrossBarAndRing_BS <87 -14>
+};
+Anchors BehxIni.outT2B {
+	DotsAbove_BS <-21 439>
+	DotsBelow_BS <-24 -339>
+	CrossBarAndRing_BS <87 -14>
+};
+Anchors BehxIni.outT2K {
+	DotsAbove_BS <101 303>
+	DotsAboveAlt_BS <162 425>
+	DotsBelow_BS <142 -221>
+	CrossBarAndRing_BS <87 -14>
+};
+Anchors FehxIni {
+	DotsAbove_BS <182 654>
+	DotsAboveAlt_BS <181 741>
+	DotsBelow_BS <153 -198>
+	DotsBelowAlt_BS <199 -123>
+};
+Anchors TahMed.inD1outS1 {
+	DotsAbove_BS <168 1070>
+	DotsAboveAlt_BS <168 964>
+	DotsBelow_BS <211 -218>
+	MiddleDot_BS <370 786>
+	MiddleRightDot_BS <291 715>
+};
+Anchors TahIni {
+	DotsAbove_BS <267 1045>
+	DotsBelow_BS <297 -190>
+	MiddleDot_BS <411 798>
+	MiddleRightDot_BS <333 726>
+};
+Anchors MeemIni {
+	DotsAbove_BS <155 482>
+	DotsAboveAlt_BS <220 430>
+	DotsBelow_BS <71 -134>
+	DotsBelowAlt_BS <182 -114>
+};
+Anchors BehxIni.outT2tall {
+	DotsAbove_BS <139 639>
+	DotsBelow_BS <41 -300>
+	DotsBelowAlt_BS <181 -203>
+	CrossBarAndRing_BS <113 17>
+};
+Anchors BehxIni.outT2N {
+	DotsAbove_BS <146 528>
+	DotsBelow_BS <67 -557>
+	CrossBarAndRing_BS <107 -23>
+};
+Anchors BehxIni.outT3 {
+	DotsAbove_BS <226 648>
+	DotsBelow_BS <151 -139>
+	DotsBelowAlt_BS <256 -121>
+	CrossBarAndRing_BS <151 14>
+};
+Anchors BehxIni.outT3En {
+	DotsAbove_BS <226 648>
+	DotsBelow_BS <151 -139>
+	DotsBelowAlt_BS <255 -741>
+	CrossBarAndRing_BS <151 14>
+};
+Anchors FehxIni.outT3 {
+	DotsAbove_BS <231 781>
+	DotsBelow_BS <204 -215>
+	DotsBelowAlt_BS <314 -108>
+};
+Anchors HamzaSep {
+	DotsAbove_BS <196 703>
+	DotsBelow_BS <294 -104>
+};
+Anchors AinFin.2 {
+	DotsAbove_BS <291 900>
+	DotsBelow_BS <363 -576>
+	MiddleDot_BS <326 153>
+};
+Anchors BehxIni.outT3F {
+	DotsAbove_BS <284 700>
+	DotsBelow_BS <182 -232>
+	CrossBarAndRing_BS <151 -11>
+};
+Anchors BehxIni.outS1 {
+	DotsAbove_BS <174 512>
+	DotsAboveAlt_BS <222 416>
+	DotsBelow_BS <151 -253>
+	DotsBelowAlt_BS <236 -166>
+	CrossBarAndRing_BS <136 9>
+};
+Anchors FehxIni.outS1 {
+	DotsAbove_BS <191 776>
+	DotsBelow_BS <184 -283>
+	DotsBelowAlt_BS <270 -196>
+};
+Anchors HehDoFin {
+	DotsAbove_BS <294 574>
+	DotsBelow_BS <353 -255>
+};
+Anchors MeemIni.outD2 {
+	DotsAbove_BS <349 611>
+	DotsBelow_BS <383 -157>
+};
+Anchors MeemIni.outD2YB {
+	DotsAbove_BS <349 611>
+	DotsBelow_BS <383 -438>
+};
+Anchors MeemIni.outD2Y {
+	DotsAbove_BS <275 753>
+	DotsBelow_BS <356 -129>
+};
+Anchors FehxIni.outD2Y {
+	DotsAbove_BS <67 731>
+	DotsBelow_BS <82 -759>
+};
+Anchors YehxFin.inD2alt {
+	DotsAbove_BS <257 565>
+	DotsBelow_BS <277 -515>
+	MiscMark_BS <217 354>
+};
+Anchors BehxIni.outD2D {
+	DotsAbove_BS <182 473>
+	DotsBelow_BS <244 -385>
+	CrossBarAndRing_BS <190 84>
+};
+Anchors BehxIni.outD2H {
+	DotsAbove_BS <372 551>
+	DotsBelow_BS <478 -206>
+	CrossBarAndRing_BS <305 121>
+};
+Anchors BehxIni.outD2Y {
+	DotsAbove_BS <-29 661>
+	DotsBelow_BS <183 -674>
+	CrossBarAndRing_BS <123 93>
+};
+Anchors BehxIni.outD2WQ {
+	DotsAbove_BS <112 610>
+	DotsBelow_BS <108 -519>
+	CrossBarAndRing_BS <132 66>
+};
+Anchors FehxIni.outD2WQ {
+	DotsAbove_BS <185 791>
+	DotsBelow_BS <229 -350>
+};
+Anchors RehFin.inD4B {
+	DotsAbove_BS <270 609>
+	DotsAboveAlt_BS <164 609>
+	DotsBelow_BS <143 -187>
+	CrossBarAndRing_BS <191 -15>
+	MiscMark_BS <80 242>
+	SmallDotsBelow_BS <208 -104>
+};
+Anchors BehxIni.outD2M {
+	DotsAbove_BS <186 580>
+	DotsBelow_BS <226 -430>
+	CrossBarAndRing_BS <211 119>
+};
+Anchors BehxIni.outD2YB {
+	DotsAbove_BS <46 542>
+	DotsBelow_BS <116 -669>
+	CrossBarAndRing_BS <126 58>
+};
+Anchors RehFin.inD3 {
+	DotsAbove_BS <208 462>
+	DotsBelow_BS <45 -457>
+	CrossBarAndRing_BS <131 -180>
+	MiscMark_BS <-31 -30>
+	SmallDotsBelow_BS <195 -228>
+};
+Anchors SadIni.r {
+	DotsAbove_BS <230 616>
+	DotsBelow_BS <183 -322>
+};
+Anchors HehIni.r {
+	DotsAbove_BS <124 585>
+	DotsBelow_BS <57 -82>
+};
+Anchors FehxIni.outD4 {
+	DotsAbove_BS <-49 578>
+	DotsBelow_BS <-32 -525>
+};
+Anchors BehxIni.outD5 {
+	DotsAbove_BS <175 521>
+	DotsBelow_BS <185 -197>
+	CrossBarAndRing_BS <89 40>
+};
+Anchors RehFin.postHeh {
+	DotsAbove_BS <151 370>
+	DotsBelow_BS <17 -460>
+	CrossBarAndRing_BS <128 -180>
+	MiscMark_BS <-31 -21>
+	SmallDotsBelow_BS <195 -228>
+};
+Anchors RehFin.inD4 {
+	DotsAbove_BS <158 478>
+	DotsBelow_BS <150 -190>
+	CrossBarAndRing_BS <217 -15>
+	MiscMark_BS <94 232>
+	SmallDotsBelow_BS <267 -84>
+};
+Anchors SeenIni.SWoutT2 {
+	DotsAbove_BS <328 511>
+	DotsBelow_BS <346 -182>
+};
+Anchors FehxIni.outD5 {
+	DotsAbove_BS <72 743>
+	DotsBelow_BS <178 -200>
+};
+Anchors MeemIni.outD5 {
+	DotsAbove_BS <208 687>
+	DotsBelow_BS <187 -198>
+};
+Anchors RehFin.inD3MM {
+	DotsAbove_BS <175 366>
+	DotsBelow_BS <26 -478>
+	CrossBarAndRing_BS <128 -180>
+	MiscMark_BS <-31 -21>
+	SmallDotsBelow_BS <195 -228>
+};
+Anchors KafIni.HRlow {
+	DotsAbove_BS <710 1361>
+	DotsBelow_BS <176 -172>
+	CrossBarAndRing_BS <552 829>
+	CurlyKafDotsAbove_BS <529 1121>
+};
+Anchors KafIni.HRk {
+	DotsAbove_BS <397 907>
+	DotsBelow_BS <41 -264>
+	DotsBelowAlt_BS <229 -259>
+	CrossBarAndRing_BS <340 592>
+	CurlyKafDotsAbove_BS <148 767>
+};
+Anchors GafIni.HRk {
+	DotsAbove_BS <386 958>
+	DotsBelow_BS <41 -265>
+	DotsBelowAlt_BS <230 -258>
+	CrossBarAndRing_BS <352 592>
+	CurlyKafDotsAbove_BS <151 802>
+};
+Anchors TahIni.outT2 {
+	DotsAbove_BS <177 924>
+	DotsBelow_BS <244 -156>
+	MiddleDot_BS <377 752>
+	MiddleRightDot_BS <302 680>
+};
+Anchors HehIni.outD2H {
+	DotsAbove_BS <539 628>
+	DotsBelow_BS <515 51>
+};
+Anchors TahIni.outT3 {
+	DotsAbove_BS <331 1055>
+	DotsAboveAlt_BS <333 950>
+	DotsBelow_BS <373 -178>
+	MiddleDot_BS <530 769>
+	MiddleRightDot_BS <455 696>
+};
+Anchors TahIni.outD2 {
+	DotsAbove_BS <307 1016>
+	DotsAboveAlt_BS <305 1122>
+	DotsBelow_BS <375 -451>
+	MiddleDot_BS <506 836>
+	MiddleRightDot_BS <428 765>
+};
+Anchors TahIni.outD2YB {
+	DotsAbove_BS <307 1016>
+	DotsAboveAlt_BS <305 1122>
+	DotsBelow_BS <375 -451>
+	MiddleDot_BS <506 836>
+	MiddleRightDot_BS <428 765>
+};
+Anchors HahIni.outD3 {
+	DotsAbove_BS <160 620>
+	DotsBelow_BS <166 -208>
+};
+Anchors TahIni.outD3 {
+	DotsAbove_BS <128 1053>
+	DotsAboveAlt_BS <127 947>
+	DotsBelow_BS <166 -196>
+	MiddleDot_BS <328 767>
+	MiddleRightDot_BS <251 695>
+};
+Anchors BehxIni.outD2MM {
+	DotsAbove_BS <163 542>
+	DotsBelow_BS <242 -271>
+	CrossBarAndRing_BS <125 110>
+};
+Anchors FehxIni.outD2MM {
+	DotsAbove_BS <32 728>
+	DotsBelow_BS <145 -325>
+};
+Anchors MeemIni.outD2MM {
+	DotsAbove_BS <181 696>
+	DotsBelow_BS <283 -130>
+};
+Anchors MeemMed.inD2outD2Y {
+	DotsAbove_BS <8 577>
+	DotsBelow_BS <239 -582>
+};
+Anchors HehMed.inD5outD2H {
+	DotsAbove_BS <449 639>
+	DotsBelow_BS <435 -142>
+};
+Anchors WawFin.cut {
+	DotsAbove_BS <191 631>
+	DotsBelow_BS <129 -200>
+	CrossBarAndRing_BS <124 49>
+};
+Anchors WawFin.inD2 {
+	DotsAbove_BS <191 631>
+	DotsBelow_BS <129 -200>
+	CrossBarAndRing_BS <124 49>
+};
+Anchors BehxMed.inT1outS1 {
+	DotsAbove_BS <188 629>
+	DotsAboveAlt_BS <188 802>
+	DotsBelow_BS <246 -233>
+	DotsBelowAlt_BS <258 -409>
+	CrossBarAndRing_BS <200 81>
+};
+Anchors BehxMed.inT2outT1 {
+	DotsAbove_BS <187 509>
+	DotsAboveAlt_BS <213 636>
+	DotsBelow_BS <211 -183>
+	DotsBelowAlt_BS <324 -183>
+	CrossBarAndRing_BS <198 115>
+};
+Anchors BehxMed.inT1outT3 {
+	DotsAbove_BS <230 704>
+	DotsAboveAlt_BS <191 790>
+	DotsBelow_BS <239 -251>
+	DotsBelowAlt_BS <226 -409>
+	CrossBarAndRing_BS <165 20>
+};
+Anchors BehxMed.inT2outT2 {
+	DotsAbove_BS <59 547>
+	DotsBelow_BS <250 -199>
+	CrossBarAndRing_BS <230 106>
+};
+Anchors BehxMed.inT2outT2K {
+	DotsAbove_BS <154 389>
+	DotsBelow_BS <118 -229>
+	CrossBarAndRing_BS <230 106>
+};
+Anchors HahIni {
+	DotsAbove_BS <238 697>
+	DotsAboveAlt_BS <258 739>
+	DotsBelow_BS <324 -162>
+};
+Anchors SeenIni {
+	DotsAbove_BS <330 573>
+	DotsBelow_BS <353 -157>
+};
+Anchors GafMed.V {
+	DotsAbove_BS <365 1441>
+	DotsBelow_BS <199 -188>
+	CrossBarAndRing_BS <552 1119>
+	CurlyKafDotsAbove_BS <138 1154>
+};
+Anchors BehxMed.inT1outT2 {
+	DotsAbove_BS <127 541>
+	DotsAboveAlt_BS <101 714>
+	DotsBelow_BS <219 -260>
+	DotsBelowAlt_BS <231 -436>
+	CrossBarAndRing_BS <125 49>
+};
+Anchors BehxMed.inT1outT2N {
+	DotsAbove_BS <56 577>
+	DotsAboveAlt_BS <63 539>
+	DotsBelow_BS <132 -522>
+	DotsBelowAlt_BS <-7 -600>
+	CrossBarAndRing_BS <109 3>
+};
+Anchors BehxMed.inT2outS1 {
+	DotsAbove_BS <178 534>
+	DotsAboveAlt_BS <90 534>
+	DotsBelow_BS <244 -196>
+	DotsBelowAlt_BS <244 -125>
+	CrossBarAndRing_BS <221 119>
+};
+Anchors BehxMed.inT1outT2wide {
+	DotsAbove_BS <115 676>
+	DotsAboveAlt_BS <80 775>
+	DotsBelow_BS <166 -232>
+	DotsBelowAlt_BS <263 -425>
+	CrossBarAndRing_BS <151 63>
+};
+Anchors BehxMed.inT1outT2SeenWide {
+	DotsAbove_BS <106 624>
+	DotsAboveAlt_BS <106 802>
+	DotsBelow_BS <175 -285>
+	DotsBelowAlt_BS <173 -477>
+	CrossBarAndRing_BS <114 31>
+};
+Anchors BehxMed.inT1outT2Nwide {
+	DotsAbove_BS <111 538>
+	DotsBelow_BS <132 -435>
+	CrossBarAndRing_BS <116 6>
+};
+Anchors BehxMed.inT1outT2Seen {
+	DotsAbove_BS <85 572>
+	DotsAboveAlt_BS <81 661>
+	DotsBelow_BS <136 -275>
+	DotsBelowAlt_BS <173 -477>
+	CrossBarAndRing_BS <105 35>
+};
+Anchors BehxMed.inS1outS1 {
+	DotsAbove_BS <7 522>
+	DotsBelow_BS <50 -330>
+	CrossBarAndRing_BS <45 -48>
+};
+Anchors BehxMed.inT2outD2WQ {
+	DotsAbove_BS <195 535>
+	DotsAboveAlt_BS <107 623>
+	DotsBelow_BS <284 -230>
+	CrossBarAndRing_BS <261 141>
+};
+Anchors BehxMed.inT2outD2Y {
+	DotsAbove_BS <65 428>
+	DotsAboveAlt_BS <65 516>
+	DotsBelow_BS <245 -586>
+	CrossBarAndRing_BS <199 58>
+};
+Anchors BehxMed.inT2outD2M {
+	DotsAbove_BS <140 543>
+	DotsBelow_BS <225 -432>
+	CrossBarAndRing_BS <256 145>
+};
+Anchors WawFin.inD2alt {
+	DotsAbove_BS <204 646>
+	DotsAboveAlt_BS <137 645>
+	DotsBelow_BS <182 -288>
+	CrossBarAndRing_BS <124 49>
+};
+Anchors QafxFin.cut {
+	DotsAbove_BS <518 724>
+	DotsBelow_BS <297 -574>
+};
+Anchors QafxFin.inD2alt {
+	DotsAbove_BS <545 721>
+	DotsBelow_BS <296 -575>
+};
+Anchors QafxFin.inD2 {
+	DotsAbove_BS <558 763>
+	DotsBelow_BS <296 -576>
+};
+Anchors BehxMed.inT2outD2YB {
+	DotsAbove_BS <-16 415>
+	DotsBelow_BS <20 -568>
+	CrossBarAndRing_BS <87 35>
+};
+Anchors BehxMed {
+	DotsAbove_BS <191 759>
+	DotsBelow_BS <199 -196>
+	CrossBarAndRing_BS <131 79>
+};
+Anchors BehxMed.inT2outT3 {
+	DotsAbove_BS <222 528>
+	DotsBelow_BS <229 -188>
+	CrossBarAndRing_BS <233 100>
+};
+Anchors SeenIni.outD1 {
+	DotsAbove_BS <687 675>
+	DotsBelow_BS <730 -78>
+};
+Anchors TahIni.outD1 {
+	DotsAbove_BS <611 1133>
+	DotsAboveAlt_BS <612 1026>
+	DotsBelow_BS <628 -127>
+	MiddleDot_BS <813 841>
+	MiddleRightDot_BS <736 769>
+};
+Anchors FehxIni.outD1 {
+	DotsAbove_BS <534 753>
+	DotsBelow_BS <529 -156>
+};
+Anchors BehxMed.inT2outD1 {
+	DotsAbove_BS <518 603>
+	DotsAboveAlt_BS <426 664>
+	DotsBelow_BS <578 -124>
+	CrossBarAndRing_BS <554 188>
+};
+Anchors BehxMed.inT2outD11 {
+	DotsAbove_BS <391 534>
+	DotsBelow_BS <417 -221>
+	CrossBarAndRing_BS <446 139>
+};
+Anchors BehxMed.inT2outD11wide {
+	DotsAbove_BS <416 544>
+	DotsBelow_BS <578 -124>
+	CrossBarAndRing_BS <554 188>
+};
+Anchors SeenIni.outD2MM {
+	DotsAbove_BS <311 598>
+	DotsBelow_BS <318 -117>
+};
+Anchors BehxMed.inT2outD2D {
+	DotsAbove_BS <175 419>
+	DotsAboveAlt_BS <149 491>
+	DotsBelow_BS <213 -414>
+	CrossBarAndRing_BS <232 65>
+};
+Anchors BehxMed.inT2outD2MM {
+	DotsAbove_BS <38 547>
+	DotsBelow_BS <173 -337>
+	CrossBarAndRing_BS <159 101>
+};
+Anchors BehxMed.inT2outD2H {
+	DotsAbove_BS <217 495>
+	DotsAboveAlt_BS <217 583>
+	DotsBelow_BS <392 -371>
+	DotsBelowAlt_BS <489 -693>
+	CrossBarAndRing_BS <308 109>
+};
+Anchors BehxMed.inT2outD2HF {
+	DotsAbove_BS <217 495>
+	DotsAboveAlt_BS <217 583>
+	DotsBelow_BS <375 -333>
+	DotsBelowAlt_BS <666 -932>
+	CrossBarAndRing_BS <308 109>
+};
+Anchors BehxMed.inT2outD2HS {
+	DotsAbove_BS <217 495>
+	DotsAboveAlt_BS <331 583>
+	DotsBelow_BS <489 -429>
+	DotsBelowAlt_BS <490 -871>
+	CrossBarAndRing_BS <308 109>
+};
+Anchors BehxMed.inT2outD2Hwide {
+	DotsAbove_BS <303 604>
+	DotsBelow_BS <343 -296>
+	DotsBelowAlt_BS <341 -620>
+	CrossBarAndRing_BS <343 136>
+};
+Anchors BehxMed.inT2outT1wide {
+	DotsAbove_BS <141 553>
+	DotsAboveAlt_BS <243 582>
+	DotsBelow_BS <262 -171>
+	DotsBelowAlt_BS <238 -196>
+	CrossBarAndRing_BS <222 151>
+};
+Anchors SeenMed {
+	DotsAbove_BS <311 564>
+	DotsBelow_BS <352 -157>
+};
+Anchors BehxMed.inT2outD5 {
+	DotsAbove_BS <76 475>
+	DotsBelow_BS <135 -276>
+	CrossBarAndRing_BS <126 42>
+};
+Anchors MeemMed {
+	DotsAbove_BS <124 481>
+	DotsAboveAlt_BS <124 760>
+	DotsBelow_BS <240 -53>
+	DotsBelowAlt_BS <265 -218>
+};
+Anchors AinMed.inT3outD2MM {
+	DotsAbove_BS <128 713>
+	DotsBelow_BS <267 -136>
+	DotsBelowAlt_BS <353 -312>
+};
+Anchors LamIni.outT2 {
+	DotsAbove_BS <185 1034>
+	DotsAboveAlt_BS <184 929>
+	DotsBelow_BS <72 -207>
+	DotsBelowAlt_BS <205 -132>
+	CrossBarAndRing_BS <158 608>
+};
+Anchors LamIni {
+	DotsAbove_BS <243 1114>
+	DotsAboveAlt_BS <244 1008>
+	DotsBelow_BS <132 -171>
+	DotsBelowAlt_BS <266 -79>
+	CrossBarAndRing_BS <210 643>
+};
+Anchors LamIni.outT3 {
+	DotsAbove_BS <279 1025>
+	DotsAboveAlt_BS <276 966>
+	DotsBelow_BS <156 -275>
+	DotsBelowAlt_BS <257 -150>
+	CrossBarAndRing_BS <246 582>
+};
+Anchors LamIni.outD2 {
+	DotsAbove_BS <129 835>
+	DotsAboveAlt_BS <129 773>
+	DotsBelow_BS <157 -417>
+	CrossBarAndRing_BS <96 423>
+};
+Anchors LamIni.outD2YB {
+	DotsAbove_BS <129 835>
+	DotsAboveAlt_BS <129 773>
+	DotsBelow_BS <95 -672>
+	CrossBarAndRing_BS <96 423>
+};
+Anchors LamIni.outD11 {
+	DotsAbove_BS <566 1083>
+	DotsBelow_BS <386 -193>
+	CrossBarAndRing_BS <474 608>
+};
+Anchors LamMed.outD11 {
+	DotsAbove_BS <567 1082>
+	DotsBelow_BS <416 -217>
+	CrossBarAndRing_BS <492 608>
+};
+Anchors KafIni.outD2 {
+	DotsAbove_BS <395 1108>
+	DotsBelow_BS <61 -325>
+	CrossBarAndRing_BS <491 855>
+	CurlyKafDotsAbove_BS <67 891>
+};
+Anchors KafIni.outD2YB {
+	DotsAbove_BS <395 1108>
+	DotsBelow_BS <74 -671>
+	CrossBarAndRing_BS <491 855>
+	CurlyKafDotsAbove_BS <67 891>
+};
+Anchors KafMed.k {
+	DotsAbove_BS <357 1125>
+	DotsAboveAlt_BS <423 1448>
+	DotsBelow_BS <114 -266>
+	DotsBelowAlt_BS <81 -416>
+	CrossBarAndRing_BS <315 741>
+	CurlyKafDotsAbove_BS <155 917>
+};
+Anchors KafMed.V {
+	DotsAbove_BS <354 1355>
+	DotsBelow_BS <199 -187>
+	CrossBarAndRing_BS <552 1119>
+	CurlyKafDotsAbove_BS <138 1154>
+};
+Anchors KafMed.Vlow {
+	DotsAbove_BS <377 1362>
+	DotsBelow_BS <160 -219>
+	DotsBelowAlt_BS <227 -351>
+	CrossBarAndRing_BS <567 1093>
+	CurlyKafDotsAbove_BS <146 1066>
+};
+Anchors KafIni.HRoutD2 {
+	DotsAbove_BS <245 1025>
+	DotsBelow_BS <141 -253>
+	CrossBarAndRing_BS <491 741>
+	CurlyKafDotsAbove_BS <120 785>
+};
+Anchors GafSep {
+	DotsAbove_BS <449 585>
+	DotsBelow_BS <490 -182>
+	CrossBarAndRing_BS <1238 1005>
+	CurlyKafDotsAbove_BS <779 1052>
+};
+Anchors GafIni.HRoutD2 {
+	DotsAbove_BS <269 1014>
+	DotsBelow_BS <158 -416>
+	CrossBarAndRing_BS <67 785>
+	CurlyKafDotsAbove_BS <491 741>
+};
+Anchors GafIni.outD2 {
+	DotsAbove_BS <247 1144>
+	DotsBelow_BS <61 -325>
+	CrossBarAndRing_BS <491 855>
+	CurlyKafDotsAbove_BS <50 899>
+};
+Anchors GafIni.outD2YB {
+	DotsAbove_BS <247 1144>
+	DotsBelow_BS <78 -674>
+	CrossBarAndRing_BS <491 855>
+	CurlyKafDotsAbove_BS <50 899>
+};
+Anchors GafMed.Vlow {
+	DotsAbove_BS <326 1337>
+	DotsBelow_BS <160 -219>
+	DotsBelowAlt_BS <218 -296>
+	CrossBarAndRing_BS <567 1093>
+	CurlyKafDotsAbove_BS <146 1066>
+};
+Anchors LamIni.outT2N {
+	DotsAbove_BS <230 1034>
+	DotsAboveAlt_BS <230 929>
+	DotsBelow_BS <105 -462>
+	CrossBarAndRing_BS <202 582>
+};
+Anchors LamIni.outS1 {
+	DotsAbove_BS <277 1113>
+	DotsAboveAlt_BS <279 1007>
+	DotsBelow_BS <239 -147>
+	CrossBarAndRing_BS <246 590>
+};
+Anchors LamIni.outD2Y {
+	DotsAbove_BS <115 898>
+	DotsAboveAlt_BS <116 792>
+	DotsBelow_BS <183 -678>
+	CrossBarAndRing_BS <79 441>
+};
+Anchors LamIni.outD2H {
+	DotsAbove_BS <375 1059>
+	DotsAboveAlt_BS <378 951>
+	DotsBelow_BS <479 -204>
+	CrossBarAndRing_BS <351 599>
+};
+Anchors LamIni.outD1 {
+	DotsAbove_BS <614 1096>
+	DotsAboveAlt_BS <616 988>
+	DotsBelow_BS <500 -138>
+	CrossBarAndRing_BS <580 608>
+};
+Anchors LamIni.outD5 {
+	DotsAbove_BS <183 975>
+	DotsAboveAlt_BS <183 869>
+	DotsBelow_BS <171 -186>
+	CrossBarAndRing_BS <145 494>
+};
+Anchors LamIni.outD2MM {
+	DotsAbove_BS <76 838>
+	DotsAboveAlt_BS <77 731>
+	DotsBelow_BS <152 -276>
+	CrossBarAndRing_BS <52 388>
+};
+Anchors LamIni.low {
+	DotsAbove_BS <385 1379>
+	DotsBelow_BS <141 -171>
+	CrossBarAndRing_BS <202 573>
+};
+Anchors LamMed {
+	DotsAbove_BS <255 1127>
+	DotsAboveAlt_BS <256 1021>
+	DotsBelow_BS <198 -89>
+	DotsBelowAlt_BS <261 -604>
+	CrossBarAndRing_BS <219 643>
+};
+Anchors LamMed.outT2 {
+	DotsAbove_BS <238 1100>
+	DotsAboveAlt_BS <239 995>
+	DotsBelow_BS <181 -116>
+	DotsBelowAlt_BS <256 -633>
+	CrossBarAndRing_BS <202 634>
+};
+Anchors LamMed.outT3 {
+	DotsAbove_BS <289 1125>
+	DotsAboveAlt_BS <291 1019>
+	DotsBelow_BS <230 -186>
+	CrossBarAndRing_BS <254 661>
+};
+Anchors LamMed.outS1 {
+	DotsAbove_BS <291 1125>
+	DotsAboveAlt_BS <293 1019>
+	DotsBelow_BS <197 -186>
+	DotsBelowAlt_BS <148 -137>
+	CrossBarAndRing_BS <254 661>
+};
+Anchors LamMed.outD1 {
+	DotsAbove_BS <621 1028>
+	DotsBelow_BS <531 -327>
+	CrossBarAndRing_BS <580 573>
+};
+Anchors LamMed.outD2WQ {
+	DotsAbove_BS <261 1049>
+	DotsAboveAlt_BS <262 942>
+	DotsBelow_BS <205 -264>
+	CrossBarAndRing_BS <219 582>
+};
+Anchors LamMed.outD2MD {
+	DotsAbove_BS <369 1017>
+	DotsAboveAlt_BS <369 909>
+	DotsBelow_BS <313 -299>
+	CrossBarAndRing_BS <333 564>
+};
+Anchors LamMed.outD2H {
+	DotsAbove_BS <464 1084>
+	DotsAboveAlt_BS <466 978>
+	DotsBelow_BS <329 -266>
+	CrossBarAndRing_BS <430 599>
+};
+Anchors LamMed.outD2HYB {
+	DotsAbove_BS <464 1084>
+	DotsAboveAlt_BS <466 978>
+	DotsBelow_BS <305 -380>
+	CrossBarAndRing_BS <430 599>
+};
+Anchors LamMed.outD5 {
+	DotsAbove_BS <207 1011>
+	DotsAboveAlt_BS <208 902>
+	DotsBelow_BS <150 -417>
+	CrossBarAndRing_BS <166 546>
+};
+Anchors LamMed.outD2MM {
+	DotsAbove_BS <145 1109>
+	DotsAboveAlt_BS <146 1001>
+	DotsBelow_BS <145 -259>
+	CrossBarAndRing_BS <105 652>
+};
+Anchors LamMed.low {
+	DotsAbove_BS <388 1378>
+	DotsBelow_BS <188 -92>
+	DotsBelowAlt_BS <197 -433>
+	CrossBarAndRing_BS <210 590>
+};
+Anchors LamMed.outD2Y {
+	DotsAbove_BS <156 1022>
+	DotsAboveAlt_BS <156 916>
+	DotsBelow_BS <92 -751>
+	CrossBarAndRing_BS <114 582>
+};
+Anchors LamMed.outD4 {
+	DotsAbove_BS <153 994>
+	DotsAboveAlt_BS <154 885>
+	DotsBelow_BS <95 -407>
+	CrossBarAndRing_BS <114 573>
+};
+Anchors GafMed.VoutD5 {
+	DotsAbove_BS <243 1254>
+	DotsBelow_BS <151 -303>
+	CrossBarAndRing_BS <541 1052>
+	CurlyKafDotsAbove_BS <81 1008>
+};
+Anchors GafMed.outS1 {
+	DotsAbove_BS <354 1308>
+	DotsBelow_BS <235 -188>
+	CrossBarAndRing_BS <640 1093>
+	CurlyKafDotsAbove_BS <164 1084>
+};
+Anchors SadIni.outT2 {
+	DotsAbove_BS <475 762>
+	DotsBelow_BS <415 -114>
+};
+Anchors HehDoMed {
+	DotsAbove_BS <197 736>
+	DotsBelow_BS <307 -211>
+};
+Anchors MeemIni.outS1 {
+	DotsAbove_BS <384 717>
+	DotsBelow_BS <347 -81>
+};
+Anchors FehxMed {
+	DotsAbove_BS <152 698>
+	DotsAboveAlt_BS <152 760>
+	DotsBelow_BS <165 -187>
+	DotsBelowAlt_BS <234 -341>
+};
+Anchors TahIni.low {
+	DotsAbove_BS <193 927>
+	DotsBelow_BS <277 -174>
+	MiddleDot_BS <402 714>
+	MiddleRightDot_BS <325 645>
+};
+Anchors GafMed.outT2 {
+	DotsAbove_BS <404 1407>
+	DotsBelow_BS <230 -181>
+	DotsBelowAlt_BS <230 -605>
+	CrossBarAndRing_BS <605 1084>
+	CurlyKafDotsAbove_BS <146 1093>
+};
+Anchors SeenIni.outT2 {
+	DotsAbove_BS <366 649>
+	DotsBelow_BS <404 -114>
+};
+Anchors GafMed.outD11 {
+	DotsAbove_BS <639 1370>
+	DotsBelow_BS <417 -216>
+	CrossBarAndRing_BS <871 1066>
+	CurlyKafDotsAbove_BS <428 1093>
+};
+Anchors HehDoIni.outT2 {
+	DotsAbove_BS <293 706>
+	DotsBelow_BS <283 -204>
+};
+Anchors GafMed.outD2MM {
+	DotsAbove_BS <253 1364>
+	DotsBelow_BS <145 -258>
+	CrossBarAndRing_BS <491 1066>
+	CurlyKafDotsAbove_BS <39 1084>
+};
+Anchors HehIni.outT2 {
+	DotsAbove_BS <373 654>
+	DotsBelow_BS <333 68>
+};
+Anchors GafMed.outD2Y {
+	DotsAbove_BS <262 1278>
+	DotsBelow_BS <93 -751>
+	CrossBarAndRing_BS <500 979>
+	CurlyKafDotsAbove_BS <67 1005>
+};
+Anchors GafMed.outD4 {
+	DotsAbove_BS <278 1250>
+	DotsBelow_BS <96 -408>
+	CrossBarAndRing_BS <516 970>
+	CurlyKafDotsAbove_BS <101 996>
+};
+Anchors GafIni.HRlow {
+	DotsAbove_BS <710 1459>
+	DotsBelow_BS <176 -172>
+	CrossBarAndRing_BS <631 899>
+	CurlyKafDotsAbove_BS <529 1219>
+};
+Anchors GafMed.HRoutT3 {
+	DotsAbove_BS <385 1243>
+	DotsBelow_BS <232 -188>
+	CrossBarAndRing_BS <623 943>
+	CurlyKafDotsAbove_BS <182 970>
+};
+Anchors GafMed.HRoutD2MD {
+	DotsAbove_BS <465 1132>
+	DotsBelow_BS <312 -297>
+	CrossBarAndRing_BS <712 847>
+	CurlyKafDotsAbove_BS <270 873>
+};
+Anchors GafMed.HRoutD2HYB {
+	DotsAbove_BS <543 1187>
+	DotsBelow_BS <461 -283>
+	DotsBelowAlt_BS <403 -470>
+	CrossBarAndRing_BS <816 917>
+	CurlyKafDotsAbove_BS <347 935>
+};
+Anchors MeemIni.outT2 {
+	DotsAbove_BS <382 696>
+	DotsBelow_BS <344 -108>
+};
+Anchors GafMed.HRoutD5 {
+	DotsAbove_BS <304 1126>
+	DotsBelow_BS <149 -303>
+	CrossBarAndRing_BS <542 829>
+	CurlyKafDotsAbove_BS <126 882>
+};
+Anchors MeemIni.outT3 {
+	DotsAbove_BS <326 687>
+	DotsBelow_BS <334 -81>
+};
+Anchors GafMed.VoutT2 {
+	DotsAbove_BS <290 1356>
+	DotsBelow_BS <179 -213>
+	DotsBelowAlt_BS <230 -448>
+	CrossBarAndRing_BS <552 1119>
+	CurlyKafDotsAbove_BS <109 1066>
+};
+Anchors GafFin.HR {
+	DotsAbove_BS <479 578>
+	DotsBelow_BS <474 -232>
+	CrossBarAndRing_BS <1273 935>
+	CurlyKafDotsAbove_BS <814 979>
+};
+Anchors GafMed.VoutD2HYB {
+	DotsAbove_BS <512 1360>
+	DotsBelow_BS <460 -380>
+	CrossBarAndRing_BS <791 1110>
+	CurlyKafDotsAbove_BS <349 1075>
+};
+Anchors GafMed.HRk {
+	DotsAbove_BS <386 958>
+	DotsBelow_BS <41 -265>
+	CrossBarAndRing_BS <352 592>
+	CurlyKafDotsAbove_BS <151 802>
+};
+Anchors GafMed.VoutD2WQ {
+	DotsAbove_BS <350 1381>
+	DotsBelow_BS <204 -262>
+	CrossBarAndRing_BS <623 1119>
+	CurlyKafDotsAbove_BS <153 1066>
+};
+Anchors SadIni {
+	DotsAbove_BS <475 762>
+	DotsBelow_BS <432 -115>
+};
+Anchors GafMed.VoutD1 {
+	DotsAbove_BS <708 1357>
+	DotsBelow_BS <531 -328>
+	CrossBarAndRing_BS <496 1040>
+};
+Anchors HehDoMed.inD2outD3 {
+	DotsAbove_BS <114 744>
+	DotsBelow_BS <137 -196>
+};
+Anchors HehDoIni.outD3 {
+	DotsAbove_BS <115 744>
+	DotsBelow_BS <139 -198>
+};
+Anchors GafIni.HRoutT3 {
+	DotsAbove_BS <380 1152>
+	DotsBelow_BS <155 -274>
+	DotsBelowAlt_BS <254 -102>
+	CrossBarAndRing_BS <623 864>
+	CurlyKafDotsAbove_BS <145 803>
+};
+Anchors TahIni.outD5 {
+	DotsAbove_BS <239 1101>
+	DotsAboveAlt_BS <239 997>
+	DotsBelow_BS <267 -110>
+	MiddleDot_BS <440 809>
+	MiddleRightDot_BS <363 738>
+};
+Anchors SadIni.outT3 {
+	DotsAbove_BS <513 715>
+	DotsBelow_BS <467 -159>
+	DotsBelowAlt_BS <612 -128>
+};
+Anchors HehDoIni.outT2wide {
+	DotsAbove_BS <375 722>
+	DotsBelow_BS <368 -189>
+	DotsBelowAlt_BS <312 -692>
+};
+Anchors HehDoIni.outD2 {
+	DotsAbove_BS <472 719>
+	DotsBelow_BS <460 -107>
+};
+Anchors HehDoIni.outD2YB {
+	DotsAbove_BS <472 719>
+	DotsBelow_BS <460 -423>
+};
+Anchors HahIni.outT2 {
+	DotsAbove_BS <242 648>
+	DotsBelow_BS <331 -92>
+	DotsBelowAlt_BS <249 -297>
+};
+Anchors HehDoMed.inD2outS1 {
+	DotsAbove_BS <230 758>
+	DotsBelow_BS <253 -180>
+};
+Anchors HehDoIni.outS1 {
+	DotsAbove_BS <344 731>
+	DotsBelow_BS <336 -181>
+};
+Anchors FehxMed.inT3outD2 {
+	DotsAbove_BS <219 753>
+	DotsBelow_BS <240 -352>
+};
+Anchors SeenMed.inT2outD2M {
+	DotsAbove_BS <472 646>
+	DotsBelow_BS <477 -148>
+};
+Anchors GafIni.outD5 {
+	DotsAbove_BS <301 1240>
+	DotsBelow_BS <169 -182>
+	CrossBarAndRing_BS <550 952>
+	CurlyKafDotsAbove_BS <94 970>
+};
+Anchors GafMed.low {
+	DotsAbove_BS <369 1298>
+	DotsBelow_BS <159 -219>
+	DotsBelowAlt_BS <248 -203>
+	CrossBarAndRing_BS <589 1005>
+	CurlyKafDotsAbove_BS <138 1022>
+};
+Anchors GafMed.HRlow {
+	DotsAbove_BS <710 1459>
+	DotsBelow_BS <160 -221>
+	DotsBelowAlt_BS <205 -355>
+	CrossBarAndRing_BS <623 899>
+	CurlyKafDotsAbove_BS <529 1219>
+};
+Anchors HahIni.outT3 {
+	DotsAbove_BS <274 698>
+	DotsBelow_BS <312 -107>
+};
+Anchors GafMed.outD1 {
+	DotsAbove_BS <727 1285>
+	DotsBelow_BS <530 -326>
+	CrossBarAndRing_BS <994 1014>
+	CurlyKafDotsAbove_BS <524 1040>
+};
+Anchors GafMed.outD2WQ {
+	DotsAbove_BS <371 1305>
+	DotsBelow_BS <203 -265>
+	CrossBarAndRing_BS <612 1014>
+	CurlyKafDotsAbove_BS <160 1040>
+};
+Anchors GafIni.HRoutD1 {
+	DotsAbove_BS <730 1205>
+	DotsBelow_BS <499 -141>
+	CrossBarAndRing_BS <992 935>
+	CurlyKafDotsAbove_BS <551 979>
+};
+Anchors GafMed.HRoutT2 {
+	DotsAbove_BS <334 1216>
+	DotsBelow_BS <182 -214>
+	DotsBelowAlt_BS <231 -448>
+	CrossBarAndRing_BS <589 935>
+	CurlyKafDotsAbove_BS <138 952>
+};
+Anchors SeenIni.outT3 {
+	DotsAbove_BS <372 601>
+	DotsBelow_BS <408 -152>
+	DotsBelowAlt_BS <314 -108>
+};
+Anchors GafMed.VoutT3 {
+	DotsAbove_BS <379 1458>
+	DotsBelow_BS <230 -188>
+	CrossBarAndRing_BS <587 1128>
+	CurlyKafDotsAbove_BS <145 1075>
+};
+Anchors GafMed.VoutD2MD {
+	DotsAbove_BS <458 1350>
+	DotsBelow_BS <312 -297>
+	CrossBarAndRing_BS <680 1031>
+	CurlyKafDotsAbove_BS <246 1040>
+};
+Anchors GafMed.VoutD2Y {
+	DotsAbove_BS <243 1354>
+	DotsBelow_BS <93 -752>
+	CrossBarAndRing_BS <523 1102>
+	CurlyKafDotsAbove_BS <54 1049>
+};
+Anchors HehIni.outT3 {
+	DotsAbove_BS <320 552>
+	DotsBelow_BS <340 90>
+	DotsBelowAlt_BS <341 72>
+};
+Anchors HehIni.outT3En {
+	DotsAbove_BS <320 552>
+	DotsBelow_BS <340 90>
+	DotsBelowAlt_BS <275 -722>
+};
+Anchors GafFin {
+	DotsAbove_BS <410 607>
+	DotsBelow_BS <471 -232>
+	CrossBarAndRing_BS <1229 1022>
+	CurlyKafDotsAbove_BS <779 1058>
+};
+Anchors GafFin.V {
+	DotsAbove_BS <390 592>
+	DotsBelow_BS <471 -232>
+	CrossBarAndRing_BS <1247 1128>
+	CurlyKafDotsAbove_BS <779 1102>
+};
+Anchors GafIni.HRoutT2N {
+	DotsAbove_BS <341 1143>
+	DotsBelow_BS <105 -462>
+	CrossBarAndRing_BS <587 858>
+	CurlyKafDotsAbove_BS <109 832>
+};
+Anchors HehDoIni.outT3 {
+	DotsAbove_BS <492 746>
+	DotsBelow_BS <317 -108>
+};
+Anchors SeenIni.outS1 {
+	DotsAbove_BS <369 623>
+	DotsBelow_BS <394 -130>
+};
+Anchors SadIni.outS1 {
+	DotsAbove_BS <496 761>
+	DotsBelow_BS <456 -116>
+};
+Anchors HahIni.outS1 {
+	DotsAbove_BS <287 721>
+	DotsBelow_BS <349 -186>
+};
+Anchors HehIni.outS1 {
+	DotsAbove_BS <441 709>
+	DotsBelow_BS <345 123>
+};
+Anchors AinIni.outS1 {
+	DotsAbove_BS <313 765>
+	DotsBelow_BS <384 -63>
+};
+Anchors TahIni.outD2H {
+	DotsAbove_BS <412 1121>
+	DotsAboveAlt_BS <412 1017>
+	DotsBelow_BS <499 -111>
+	MiddleDot_BS <614 826>
+	MiddleRightDot_BS <536 754>
+};
+Anchors TahIni.outD2M {
+	DotsAbove_BS <362 1153>
+	DotsAboveAlt_BS <364 1047>
+	DotsBelow_BS <393 -61>
+	MiddleDot_BS <564 858>
+	MiddleRightDot_BS <485 787>
+};
+Anchors HahIni.outD2 {
+	DotsAbove_BS <296 533>
+	DotsBelow_BS <423 -131>
+};
+Anchors HahIni.outD2YB {
+	DotsAbove_BS <296 533>
+	DotsBelow_BS <362 -421>
+};
+Anchors HahIni.outD2D {
+	DotsAbove_BS <296 533>
+	DotsBelow_BS <423 -131>
+};
+Anchors HahIni.outD2H {
+	DotsAbove_BS <296 533>
+	DotsBelow_BS <550 -96>
+};
+Anchors HahIni.outD2Y {
+	DotsAbove_BS <261 599>
+	DotsBelow_BS <367 -122>
+};
+Anchors HehDoIni.outD2Y {
+	DotsAbove_BS <401 768>
+	DotsBelow_BS <393 -142>
+};
+Anchors SadIni.outD2YB {
+	DotsAbove_BS <364 581>
+	DotsBelow_BS <329 -675>
+};
+Anchors HehIni.outD2YB {
+	DotsAbove_BS <200 354>
+	DotsBelow_BS <88 -566>
+};
+Anchors SeenIni.outD2YB {
+	DotsAbove_BS <262 480>
+	DotsBelow_BS <312 -669>
+};
+Anchors HehDoMed.inD2outT3 {
+	DotsAbove_BS <375 778>
+	DotsBelow_BS <313 -108>
+};
+Anchors HehDoMed.inD2outD2 {
+	DotsAbove_BS <356 835>
+	DotsBelow_BS <383 -106>
+};
+Anchors HehDoMed.inD2outD2YB {
+	DotsAbove_BS <356 835>
+	DotsBelow_BS <318 -414>
+};
+Anchors HehDoMed.inD2outD2Y {
+	DotsAbove_BS <289 798>
+	DotsBelow_BS <310 -455>
+};
+Anchors HehDoMed.inD2outT2 {
+	DotsAbove_BS <181 740>
+	DotsBelow_BS <204 -202>
+	DotsBelowAlt_BS <283 -204>
+};
+Anchors MeemIni.outT2B {
+	DotsAbove_BS <343 672>
+	DotsBelow_BS <306 -130>
+};
+Anchors HehDoMed.inD2outD1 {
+	DotsAbove_BS <604 806>
+	DotsAboveAlt_BS <618 846>
+	DotsBelow_BS <626 -137>
+};
+Anchors HehDoIni.outD1 {
+	DotsAbove_BS <716 773>
+	DotsBelow_BS <706 -137>
+};
+Anchors BehxIni.outD1 {
+	DotsAbove_BS <586 760>
+	DotsAboveAlt_BS <617 812>
+	DotsBelow_BS <500 -141>
+	CrossBarAndRing_BS <512 104>
+};
+Anchors HahIni.outD1 {
+	DotsAbove_BS <630 837>
+	DotsBelow_BS <612 -42>
+};
+Anchors SadIni.outD1 {
+	DotsAbove_BS <778 742>
+	DotsBelow_BS <714 -129>
+};
+Anchors AinIni.outD1 {
+	DotsAbove_BS <638 849>
+	DotsBelow_BS <680 -21>
+};
+Anchors MeemIni.outD1 {
+	DotsAbove_BS <707 848>
+	DotsBelow_BS <673 -29>
+};
+Anchors HehIni.outD1 {
+	DotsAbove_BS <753 774>
+	DotsBelow_BS <653 187>
+};
+Anchors BehxIni.outD11 {
+	DotsAbove_BS <483 652>
+	DotsBelow_BS <338 -160>
+	CrossBarAndRing_BS <386 60>
+};
+Anchors HahIni.outD11 {
+	DotsAbove_BS <514 774>
+	DotsBelow_BS <512 -59>
+};
+Anchors SeenIni.outD11 {
+	DotsAbove_BS <602 635>
+	DotsBelow_BS <629 -90>
+};
+Anchors SadIni.outD11 {
+	DotsAbove_BS <674 714>
+	DotsBelow_BS <630 -161>
+};
+Anchors AinIni.outD11 {
+	DotsAbove_BS <539 814>
+	DotsBelow_BS <581 -57>
+};
+Anchors MeemIni.outD11 {
+	DotsAbove_BS <585 737>
+	DotsBelow_BS <547 -64>
+};
+Anchors HehIni.outD11 {
+	DotsAbove_BS <604 658>
+	DotsBelow_BS <525 143>
+};
+Anchors HehDoIni.outD11 {
+	DotsAbove_BS <595 767>
+	DotsBelow_BS <588 -145>
+};
+Anchors FehxMed.inT3outS1 {
+	DotsAbove_BS <187 694>
+	DotsBelow_BS <229 -215>
+};
+Anchors AinMed.inT3outS1 {
+	DotsAbove_BS <173 709>
+	DotsBelow_BS <229 -215>
+};
+Anchors FehxMed.inT3outT3 {
+	DotsAbove_BS <266 709>
+	DotsBelow_BS <316 -110>
+};
+Anchors AinMed {
+	DotsAbove_BS <188 628>
+	DotsBelow_BS <208 -165>
+	DotsBelowAlt_BS <232 -341>
+};
+Anchors FehxMed.inT3outT2 {
+	DotsAbove_BS <233 711>
+	DotsBelow_BS <278 -171>
+};
+Anchors AinMed.inT3outT2 {
+	DotsAbove_BS <204 696>
+	DotsBelow_BS <258 -185>
+	DotsBelowAlt_BS <286 -266>
+};
+Anchors AinMed.inT3outT3 {
+	DotsAbove_BS <246 696>
+	DotsBelow_BS <314 -108>
+};
+Anchors AinMed.inT3outD3 {
+	DotsAbove_BS <34 625>
+	DotsBelow_BS <90 -249>
+};
+Anchors FehxMed.inT3outD3 {
+	DotsAbove_BS <18 629>
+	DotsBelow_BS <63 -253>
+};
+Anchors AinMed.inT3outD1 {
+	DotsAbove_BS <593 734>
+	DotsAboveAlt_BS <617 846>
+	DotsBelow_BS <613 -62>
+};
+Anchors FehxMed.inT3outD1 {
+	DotsAbove_BS <576 766>
+	DotsAboveAlt_BS <618 847>
+	DotsBelow_BS <620 -101>
+};
+Anchors FehxMed.inT3outD11 {
+	DotsAbove_BS <463 681>
+	DotsBelow_BS <455 -167>
+};
+Anchors AinMed.inT3outD11 {
+	DotsAbove_BS <455 592>
+	DotsBelow_BS <454 -167>
+};
+Anchors AinMed.inT3outD2Y {
+	DotsAbove_BS <68 524>
+	DotsBelow_BS <179 -658>
+};
+Anchors FehxMed.inT3outD2Y {
+	DotsAbove_BS <129 671>
+	DotsBelow_BS <176 -658>
+};
+Anchors AinMed.inT3outD2 {
+	DotsAbove_BS <204 731>
+	DotsBelow_BS <200 -377>
+};
+Anchors FehxMed.inT3outD2YB {
+	DotsAbove_BS <272 761>
+	DotsBelow_BS <318 -424>
+};
+Anchors AinMed.inT3outD2YB {
+	DotsAbove_BS <219 615>
+	DotsBelow_BS <318 -416>
+};
+Anchors AinIni.outT3WQ {
+	DotsAbove_BS <317 839>
+	DotsBelow_BS <383 -70>
+};
+Anchors AinIni {
+	DotsAbove_BS <202 677>
+	DotsAboveAlt_BS <224 707>
+	DotsBelow_BS <213 -90>
+};
+Anchors AinIni.outT2 {
+	DotsAbove_BS <286 741>
+	DotsBelow_BS <286 -147>
+};
+Anchors AinIni.outT3 {
+	DotsAbove_BS <350 766>
+	DotsBelow_BS <335 -131>
+};
+Anchors AinIni.tall {
+	DotsAbove_BS <212 712>
+	DotsBelow_BS <269 -188>
+};
+Anchors AinIni.outD2 {
+	DotsAbove_BS <260 709>
+	DotsBelow_BS <394 -42>
+};
+Anchors AinIni.outD2YB {
+	DotsAbove_BS <260 709>
+	DotsBelow_BS <394 -464>
+};
+Anchors AinIni.outD2long {
+	DotsAbove_BS <318 803>
+	DotsBelow_BS <419 -21>
+	DotsBelowAlt_BS <549 20>
+};
+Anchors AinIni.outD3 {
+	DotsAbove_BS <77 634>
+	DotsBelow_BS <125 -226>
+};
+Anchors SeenIni.outD2M {
+	DotsAbove_BS <462 639>
+	DotsBelow_BS <498 -98>
+};
+Anchors SadMed.r {
+	DotsAbove_BS <230 616>
+	DotsBelow_BS <187 -323>
+};
+Anchors SeenIni.outD2H {
+	DotsAbove_BS <500 586>
+	DotsBelow_BS <517 -142>
+};
+Anchors HehIniAF.outD2YB {
+	DotsAbove_BS <288 674>
+	DotsBelow_BS <386 -422>
+};
+Anchors SeenIni.outD2D {
+	DotsAbove_BS <435 545>
+	DotsBelow_BS <452 -191>
+};
+Anchors SeenIni.outD2Y {
+	DotsAbove_BS <387 538>
+	DotsBelow_BS <401 -205>
+};
+Anchors SadIni.outD2H {
+	DotsAbove_BS <592 744>
+	DotsBelow_BS <550 -130>
+};
+Anchors SadIni.outD2M {
+	DotsAbove_BS <573 788>
+	DotsBelow_BS <531 -87>
+};
+Anchors HahMed.inD2outT2 {
+	DotsAbove_BS <116 764>
+	DotsAboveAlt_BS <240 827>
+	DotsBelow_BS <196 -183>
+	DotsBelowAlt_BS <246 -297>
+};
+Anchors SadIni.outD2MM {
+	DotsAbove_BS <403 729>
+	DotsBelow_BS <358 -146>
+};
+Anchors SadIni.outD2D {
+	DotsAbove_BS <529 693>
+	DotsBelow_BS <486 -181>
+};
+Anchors HahMed {
+	DotsAbove_BS <177 718>
+	DotsAboveAlt_BS <109 819>
+	DotsBelow_BS <333 -152>
+};
+Anchors SadIni.outD2Y {
+	DotsAbove_BS <479 686>
+	DotsBelow_BS <436 -190>
+};
+Anchors SeenMed.inT2outT2 {
+	DotsAbove_BS <355 630>
+	DotsBelow_BS <382 -167>
+};
+Anchors HahMed.inD2outT3 {
+	DotsAbove_BS <172 804>
+	DotsAboveAlt_BS <166 922>
+	DotsBelow_BS <239 -190>
+};
+Anchors SeenMed.inT2outT3 {
+	DotsAbove_BS <363 593>
+	DotsBelow_BS <437 -154>
+	DotsBelowAlt_BS <314 -108>
+};
+Anchors HahMed.inD2outD11 {
+	DotsAbove_BS <417 864>
+	DotsAboveAlt_BS <523 1132>
+	DotsBelow_BS <506 -54>
+	DotsBelowAlt_BS <428 -197>
+};
+Anchors SeenMed.inT2outS1 {
+	DotsAbove_BS <342 590>
+	DotsBelow_BS <375 -134>
+};
+Anchors HahMed.inD2outD2 {
+	DotsAbove_BS <193 706>
+	DotsBelow_BS <313 -256>
+};
+Anchors SeenMed.inT2outD1 {
+	DotsAbove_BS <685 667>
+	DotsBelow_BS <699 -97>
+};
+Anchors HahMed.inD2outD2Y {
+	DotsAbove_BS <194 708>
+	DotsAboveAlt_BS <181 844>
+	DotsBelow_BS <365 -139>
+	DotsBelowAlt_BS <343 -403>
+};
+Anchors SeenMed.inT2outD11 {
+	DotsAbove_BS <601 637>
+	DotsBelow_BS <604 -142>
+};
+Anchors HehIniAF.outD2MM {
+	DotsAbove_BS <291 786>
+	DotsBelow_BS <274 -117>
+};
+Anchors SeenMed.inT2outD2H {
+	DotsAbove_BS <471 606>
+	DotsBelow_BS <478 -172>
+};
+Anchors SadMed.inD1outD5 {
+	DotsAbove_BS <292 622>
+	DotsBelow_BS <345 -203>
+};
+Anchors SadIni.outD5 {
+	DotsAbove_BS <384 674>
+	DotsBelow_BS <340 -197>
+};
+Anchors SeenMed.inT2outD2MM {
+	DotsAbove_BS <296 589>
+	DotsBelow_BS <356 -160>
+};
+Anchors HehMed.inD5outD1 {
+	DotsAbove_BS <589 714>
+	DotsBelow_BS <577 -62>
+};
+Anchors SeenMed.inT2outD2D {
+	DotsAbove_BS <437 556>
+	DotsBelow_BS <432 -198>
+};
+Anchors SeenMed.inT2outD2Y {
+	DotsAbove_BS <384 561>
+	DotsBelow_BS <379 -207>
+};
+Anchors SeenMed.inT2outD2YB {
+	DotsAbove_BS <271 479>
+	DotsBelow_BS <22 -636>
+};
+Anchors AinMed.inT3outD5 {
+	DotsAbove_BS <103 731>
+	DotsBelow_BS <173 -160>
+};
+Anchors SadMed {
+	DotsAbove_BS <375 713>
+	DotsBelow_BS <429 -112>
+};
+Anchors SadMed.inD1outT2 {
+	DotsAbove_BS <378 713>
+	DotsBelow_BS <414 -112>
+};
+Anchors SadMed.inD1outT3 {
+	DotsAbove_BS <414 667>
+	DotsBelow_BS <468 -160>
+	DotsBelowAlt_BS <314 -108>
+};
+Anchors SadMed.inD1outS1 {
+	DotsAbove_BS <401 708>
+	DotsBelow_BS <457 -111>
+};
+Anchors SadMed.inD1outD1 {
+	DotsAbove_BS <679 696>
+	DotsBelow_BS <714 -133>
+};
+Anchors SadMed.inD1outD11 {
+	DotsAbove_BS <577 663>
+	DotsBelow_BS <629 -164>
+};
+Anchors SadMed.inD1outD2H {
+	DotsAbove_BS <494 694>
+	DotsBelow_BS <547 -133>
+};
+Anchors SadMed.inD1outD2M {
+	DotsAbove_BS <475 741>
+	DotsBelow_BS <531 -89>
+};
+Anchors SadMed.inD1outD2MM {
+	DotsAbove_BS <310 678>
+	DotsBelow_BS <362 -146>
+};
+Anchors SadMed.inD1outD2D {
+	DotsAbove_BS <432 643>
+	DotsBelow_BS <483 -176>
+};
+Anchors SadMed.inD1outD2Y {
+	DotsAbove_BS <380 634>
+	DotsBelow_BS <433 -190>
+};
+Anchors SadMed.inD1outD2YB {
+	DotsAbove_BS <269 569>
+	DotsBelow_BS <23 -635>
+};
+Anchors TahMed {
+	DotsAbove_BS <209 976>
+	DotsBelow_BS <281 -210>
+	MiddleDot_BS <409 799>
+	MiddleRightDot_BS <333 727>
+};
+Anchors TahMed.inD1outT2 {
+	DotsAbove_BS <176 1030>
+	DotsAboveAlt_BS <177 924>
+	DotsBelow_BS <244 -156>
+	MiddleDot_BS <377 752>
+	MiddleRightDot_BS <302 680>
+};
+Anchors TahMed.inD1outT3 {
+	DotsAbove_BS <331 1055>
+	DotsAboveAlt_BS <333 950>
+	DotsBelow_BS <373 -178>
+	MiddleDot_BS <530 769>
+	MiddleRightDot_BS <455 696>
+};
+Anchors TahMed.inD1outD1 {
+	DotsAbove_BS <612 1131>
+	DotsAboveAlt_BS <613 1026>
+	DotsBelow_BS <625 -127>
+	MiddleDot_BS <813 841>
+	MiddleRightDot_BS <737 768>
+};
+Anchors TahMed.inD1outD11 {
+	DotsAbove_BS <561 1108>
+	DotsBelow_BS <509 -143>
+	MiddleDot_BS <696 826>
+	MiddleRightDot_BS <619 753>
+};
+Anchors TahIni.outD11 {
+	DotsAbove_BS <562 1109>
+	DotsBelow_BS <510 -145>
+	MiddleDot_BS <696 826>
+	MiddleRightDot_BS <618 753>
+};
+Anchors TahMed.inD1outD2 {
+	DotsAbove_BS <305 1122>
+	DotsAboveAlt_BS <307 1016>
+	DotsBelow_BS <375 -108>
+	MiddleDot_BS <506 836>
+	MiddleRightDot_BS <428 765>
+};
+Anchors TahMed.inD1outD2YB {
+	DotsAbove_BS <305 1122>
+	DotsAboveAlt_BS <307 1016>
+	DotsBelow_BS <309 -420>
+	MiddleDot_BS <506 836>
+	MiddleRightDot_BS <428 765>
+};
+Anchors TahMed.inD1outD2H {
+	DotsAbove_BS <411 1122>
+	DotsAboveAlt_BS <412 1016>
+	DotsBelow_BS <500 -112>
+	MiddleDot_BS <613 828>
+	MiddleRightDot_BS <536 755>
+};
+Anchors TahMed.inD1outD2M {
+	DotsAbove_BS <361 1153>
+	DotsAboveAlt_BS <362 1047>
+	DotsBelow_BS <381 -64>
+	MiddleDot_BS <563 859>
+	MiddleRightDot_BS <485 787>
+};
+Anchors HahMed.inD2outD3 {
+	DotsAbove_BS <41 687>
+	DotsAboveAlt_BS <25 824>
+	DotsBelow_BS <91 -291>
+};
+Anchors TahMed.inD1outD3 {
+	DotsAbove_BS <128 1053>
+	DotsAboveAlt_BS <127 947>
+	DotsBelow_BS <166 -196>
+	MiddleDot_BS <328 767>
+	MiddleRightDot_BS <251 695>
+};
+Anchors MeemMed.inD2outD2H {
+	DotsAbove_BS <197 806>
+	DotsBelow_BS <480 -205>
+	DotsBelowAlt_BS <513 -375>
+	CrossBarAndRing_BS <396 -213>
+};
+Anchors HehIni.outD2M {
+	DotsAbove_BS <450 607>
+	DotsBelow_BS <372 28>
+};
+Anchors HehMed {
+	DotsAbove_BS <119 495>
+	DotsBelow_BS <266 -79>
+};
+Anchors HahIni.outD5 {
+	DotsAbove_BS <175 678>
+	DotsBelow_BS <267 -59>
+};
+Anchors HehDoIni.outD5 {
+	DotsAbove_BS <344 784>
+	DotsBelow_BS <330 -125>
+};
+Anchors HehIniAF.outT3 {
+	DotsAbove_BS <389 749>
+	DotsBelow_BS <314 -111>
+};
+Anchors HahIni.outD2MM {
+	DotsAbove_BS <224 678>
+	DotsBelow_BS <307 -88>
+};
+Anchors AinIni.outD2MM {
+	DotsAbove_BS <191 766>
+	DotsBelow_BS <301 -70>
+};
+Anchors HehDoIni.outD2MM {
+	DotsAbove_BS <311 791>
+	DotsBelow_BS <301 -121>
+	DotsBelowAlt_BS <353 -312>
+};
+Anchors HehIni.outD2MM {
+	DotsAbove_BS <295 645>
+	DotsBelow_BS <238 8>
+};
+Anchors HehDoMed.inD2outD2MM {
+	DotsAbove_BS <194 822>
+	DotsBelow_BS <299 -119>
+	DotsBelowAlt_BS <356 -358>
+};
+Anchors FehxMed.inT3outD2MM {
+	DotsAbove_BS <172 746>
+	DotsBelow_BS <259 -148>
+	DotsBelowAlt_BS <352 -313>
+};
+Anchors HahMed.inD2outS1 {
+	DotsAbove_BS <196 811>
+	DotsAboveAlt_BS <144 949>
+	DotsBelow_BS <314 -150>
+};
+Anchors HahMed.inD2outD1 {
+	DotsAbove_BS <508 863>
+	DotsAboveAlt_BS <640 973>
+	DotsBelow_BS <639 -79>
+};
+Anchors HehDoMed.inD2outT2wide {
+	DotsAbove_BS <262 754>
+	DotsBelow_BS <384 -134>
+	DotsBelowAlt_BS <310 -693>
+};
+Anchors SeenMed.inT2outD5 {
+	DotsAbove_BS <296 532>
+	DotsBelow_BS <289 -215>
+};
+Anchors SeenMed.inT2outT2short {
+	DotsAbove_BS <270 540>
+	DotsBelow_BS <251 -255>
+};
+Anchors SeenIni.outD5 {
+	DotsAbove_BS <286 539>
+	DotsBelow_BS <315 -211>
+};
+Anchors KafMed.HRlow {
+	DotsAbove_BS <710 1361>
+	DotsBelow_BS <160 -221>
+	DotsBelowAlt_BS <205 -355>
+	CrossBarAndRing_BS <623 899>
+	CurlyKafDotsAbove_BS <529 1121>
+};
+Anchors HehMed.inD5outD11 {
+	DotsAbove_BS <455 661>
+	DotsBelow_BS <448 -106>
+};
+Anchors HehMed.inD5outD3R {
+	DotsAbove_BS <67 515>
+	DotsAboveAlt_BS <-63 621>
+	DotsBelow_BS <54 -263>
+};
+Anchors HehMed.inD5outT2 {
+	DotsAbove_BS <260 654>
+	DotsBelow_BS <248 -122>
+};
+Anchors HehMed.inD5outT3 {
+	DotsAbove_BS <311 642>
+	DotsBelow_BS <304 -125>
+};
+Anchors HehMed.inD5outS1 {
+	DotsAbove_BS <328 690>
+	DotsBelow_BS <321 -77>
+};
+Anchors HehMed.inD5outD2 {
+	DotsAbove_BS <358 656>
+	DotsBelow_BS <348 -119>
+};
+Anchors HehMed.inD5outD2Y {
+	DotsAbove_BS <298 573>
+	DotsBelow_BS <286 -204>
+};
+Anchors HehMed.inD5outD2YB {
+	DotsAbove_BS <47 490>
+	DotsBelow_BS <17 -621>
+};
+Anchors HehIni.outD5 {
+	DotsAbove_BS <261 562>
+	DotsBelow_BS <204 -75>
+};
+Anchors HehIni.outD2Y {
+	DotsAbove_BS <389 564>
+	DotsBelow_BS <332 -63>
+};
+Anchors HahMed.inD2outD5 {
+	DotsAbove_BS <43 749>
+	DotsAboveAlt_BS <29 886>
+	DotsBelow_BS <174 -210>
+};
+Anchors AinIni.outD5 {
+	DotsAbove_BS <185 781>
+	DotsBelow_BS <267 -60>
+};
+Anchors FehxMed.inT3outD5 {
+	DotsAbove_BS <107 747>
+	DotsBelow_BS <175 -154>
+};
+Anchors HehDoMed.inD2outD5 {
+	DotsAbove_BS <233 815>
+	DotsBelow_BS <257 -123>
+};
+Anchors HehIniAF.outD5 {
+	DotsAbove_BS <233 787>
+	DotsBelow_BS <217 -114>
+};
+Anchors HehIniAF.outS1 {
+	DotsAbove_BS <323 740>
+	DotsBelow_BS <302 -164>
+};
+Anchors HehIniAF {
+	DotsAbove_BS <248 655>
+	DotsBelow_BS <264 -98>
+};
+Anchors HehIniAF.outT2 {
+	DotsAbove_BS <343 732>
+	DotsBelow_BS <326 -169>
+};
+Anchors HehIniAF.outD3 {
+	DotsAbove_BS <141 662>
+	DotsBelow_BS <123 -237>
+};
+Anchors HehIniAF.outD1 {
+	DotsAbove_BS <690 805>
+	DotsBelow_BS <671 -95>
+};
+Anchors HehIniAF.outD11 {
+	DotsAbove_BS <556 797>
+	DotsBelow_BS <538 -102>
+};
+Anchors HehIniAF.outD2Y {
+	DotsAbove_BS <258 718>
+	DotsBelow_BS <176 -662>
+};
+Anchors HehIniAF.outD2 {
+	DotsAbove_BS <342 791>
+	DotsBelow_BS <383 -139>
+};
+Anchors HehMed.inD5outD2MM {
+	DotsAbove_BS <221 598>
+	DotsBelow_BS <213 -168>
+};
+Anchors HahIni.outT3short {
+	DotsAbove_BS <237 712>
+	DotsBelow_BS <333 -136>
+};
+Anchors TahIni.outD2MM {
+	DotsAbove_BS <239 1118>
+	DotsAboveAlt_BS <240 1015>
+	DotsBelow_BS <299 -98>
+	MiddleDot_BS <441 825>
+	MiddleRightDot_BS <364 752>
+};
+Anchors TahMed.inD1outD2MM {
+	DotsAbove_BS <239 1118>
+	DotsAboveAlt_BS <240 1013>
+	DotsBelow_BS <299 -96>
+	MiddleDot_BS <441 825>
+	MiddleRightDot_BS <364 753>
+};
+Anchors HahMed.inD2outD2MM {
+	DotsAbove_BS <125 776>
+	DotsAboveAlt_BS <151 709>
+	DotsBelow_BS <243 -188>
+};
+Anchors HehDoMed.inD2outD11 {
+	DotsAbove_BS <504 758>
+	DotsBelow_BS <511 -143>
+};
+Anchors MeemMed.inD2outT2 {
+	DotsAbove_BS <107 529>
+	DotsBelow_BS <252 -172>
+};
+Anchors MeemMed.inD2outT3 {
+	DotsAbove_BS <154 539>
+	DotsBelow_BS <203 -171>
+};
+Anchors MeemMed.inD2outS1 {
+	DotsAbove_BS <148 595>
+	DotsBelow_BS <248 -229>
+};
+Anchors MeemMed.inD2outD1 {
+	DotsAbove_BS <578 788>
+	DotsAboveAlt_BS <416 1013>
+	DotsBelow_BS <552 -84>
+};
+Anchors MeemMed.inD2outD11 {
+	DotsAbove_BS <523 791>
+	DotsAboveAlt_BS <510 1422>
+	DotsBelow_BS <411 -129>
+};
+Anchors MeemMed.inD2outD2MM {
+	DotsAbove_BS <-17 866>
+	DotsBelow_BS <138 -301>
+};
+Anchors MeemMed.inD2outD2 {
+	DotsAbove_BS <94 619>
+	DotsBelow_BS <259 -341>
+};
+Anchors MeemMed.inD2outD5 {
+	DotsAbove_BS <-2 712>
+	DotsAboveAlt_BS <-84 963>
+	DotsBelow_BS <177 -215>
+	DotsBelowAlt_BS <190 -464>
+};
+Anchors MeemMed.inD2outD2YB {
+	DotsAbove_BS <239 770>
+	DotsBelow_BS <318 -417>
+};
+Anchors MeemMed.inD2outD3 {
+	DotsAbove_BS <-117 675>
+	DotsBelow_BS <-30 -452>
+};
+Anchors TahIni.HRlow {
+	DotsAbove_BS <364 1261>
+	DotsBelow_BS <280 -178>
+	MiddleDot_BS <398 673>
+	MiddleRightDot_BS <321 601>
+};
+Anchors KafFin.HR {
+	DotsAbove_BS <404 545>
+	DotsBelow_BS <470 -232>
+	CrossBarAndRing_BS <1273 935>
+	CurlyKafDotsAbove_BS <902 979>
+};
+Anchors KafMed.HR {
+	DotsAbove_BS <665 1279>
+	DotsBelow_BS <197 -185>
+	CrossBarAndRing_BS <570 935>
+	CurlyKafDotsAbove_BS <435 1104>
+};
+Anchors KafIni.HRoutD1 {
+	DotsAbove_BS <756 1159>
+	DotsBelow_BS <499 -140>
+	CrossBarAndRing_BS <992 935>
+	CurlyKafDotsAbove_BS <612 979>
+};
+Anchors KafIni.HRoutD5 {
+	DotsAbove_BS <379 1096>
+	DotsBelow_BS <168 -184>
+	CrossBarAndRing_BS <579 882>
+	CurlyKafDotsAbove_BS <173 908>
+};
+Anchors KafMed.HRoutT3 {
+	DotsAbove_BS <413 1196>
+	DotsBelow_BS <231 -189>
+	CrossBarAndRing_BS <623 943>
+	CurlyKafDotsAbove_BS <208 970>
+};
+Anchors KafMed.outD2Y {
+	DotsAbove_BS <290 1232>
+	DotsBelow_BS <92 -751>
+	CrossBarAndRing_BS <500 979>
+	CurlyKafDotsAbove_BS <85 1005>
+};
+Anchors KafMed.outD2MD {
+	DotsAbove_BS <504 1227>
+	DotsBelow_BS <312 -297>
+	CrossBarAndRing_BS <714 979>
+	CurlyKafDotsAbove_BS <299 1005>
+};
+Anchors BehxIni.outD4 {
+	DotsAbove_BS <52 398>
+	DotsBelow_BS <12 -412>
+	CrossBarAndRing_BS <-12 -103>
+};
+Anchors KafMed.outD4 {
+	DotsAbove_BS <285 1204>
+	DotsBelow_BS <94 -407>
+	CrossBarAndRing_BS <516 970>
+	CurlyKafDotsAbove_BS <101 996>
+};
+Anchors SeenIni.outT2short {
+	DotsAbove_BS <253 533>
+	DotsBelow_BS <270 -203>
+};
+Anchors KafFin {
+	DotsAbove_BS <318 753>
+	DotsBelow_BS <475 -231>
+	CrossBarAndRing_BS <1229 1022>
+	CurlyKafDotsAbove_BS <823 1058>
+	MiddleDot_BS <479 579>
+};
+Anchors KafFin.V {
+	DotsAbove_BS <324 701>
+	DotsBelow_BS <471 -232>
+	CrossBarAndRing_BS <1247 1128>
+	CurlyKafDotsAbove_BS <806 1102>
+	MiddleDot_BS <479 579>
+};
+Anchors KafIni {
+	DotsAbove_BS <387 1333>
+	DotsBelow_BS <133 -171>
+	DotsBelowAlt_BS <220 -77>
+	CrossBarAndRing_BS <623 1102>
+	CurlyKafDotsAbove_BS <146 1093>
+};
+Anchors KafIni.outD2H {
+	DotsAbove_BS <522 1274>
+	DotsBelow_BS <453 -58>
+	CrossBarAndRing_BS <781 1075>
+	CurlyKafDotsAbove_BS <305 1066>
+};
+Anchors KafIni.outT2 {
+	DotsAbove_BS <327 1254>
+	DotsBelow_BS <225 -109>
+	DotsBelowAlt_BS <72 -207>
+	CrossBarAndRing_BS <561 1022>
+	CurlyKafDotsAbove_BS <85 1014>
+};
+Anchors KafIni.outT2N {
+	DotsAbove_BS <374 1253>
+	DotsBelow_BS <105 -460>
+	CrossBarAndRing_BS <622 1040>
+	CurlyKafDotsAbove_BS <146 1031>
+};
+Anchors KafIni.outT3 {
+	DotsAbove_BS <422 1242>
+	DotsBelow_BS <156 -274>
+	DotsBelowAlt_BS <254 -103>
+	CrossBarAndRing_BS <658 1014>
+	CurlyKafDotsAbove_BS <182 1005>
+};
+Anchors KafIni.outS1 {
+	DotsAbove_BS <421 1331>
+	DotsBelow_BS <239 -147>
+	CrossBarAndRing_BS <623 1075>
+	CurlyKafDotsAbove_BS <146 1066>
+};
+Anchors KafIni.outD2Y {
+	DotsAbove_BS <261 1116>
+	DotsBelow_BS <182 -677>
+	CrossBarAndRing_BS <485 882>
+	CurlyKafDotsAbove_BS <20 882>
+};
+Anchors KafMed {
+	DotsAbove_BS <389 1336>
+	DotsBelow_BS <244 -163>
+	DotsBelowAlt_BS <241 -594>
+	CrossBarAndRing_BS <614 1102>
+	CurlyKafDotsAbove_BS <138 1093>
+};
+Anchors KafMed.outT2 {
+	DotsAbove_BS <373 1310>
+	DotsBelow_BS <230 -180>
+	DotsBelowAlt_BS <230 -605>
+	CrossBarAndRing_BS <605 1084>
+	CurlyKafDotsAbove_BS <146 1093>
+};
+Anchors KafMed.outT3 {
+	DotsAbove_BS <423 1336>
+	DotsBelow_BS <233 -187>
+	DotsBelowAlt_BS <184 -100>
+	CrossBarAndRing_BS <640 1093>
+	CurlyKafDotsAbove_BS <164 1084>
+};
+Anchors KafMed.outS1 {
+	DotsAbove_BS <426 1337>
+	DotsBelow_BS <199 -188>
+	CrossBarAndRing_BS <640 1093>
+	CurlyKafDotsAbove_BS <164 1084>
+};
+Anchors KafMed.outD1 {
+	DotsAbove_BS <825 1253>
+	DotsBelow_BS <530 -328>
+	CrossBarAndRing_BS <994 1014>
+	CurlyKafDotsAbove_BS <560 1040>
+};
+Anchors KafMed.outD11 {
+	DotsAbove_BS <666 1325>
+	DotsBelow_BS <415 -216>
+	CrossBarAndRing_BS <871 1066>
+	CurlyKafDotsAbove_BS <428 1093>
+};
+Anchors KafMed.outD2WQ {
+	DotsAbove_BS <395 1260>
+	DotsBelow_BS <204 -266>
+	CrossBarAndRing_BS <612 1014>
+	CurlyKafDotsAbove_BS <178 1040>
+};
+Anchors KafIni.outD1 {
+	DotsAbove_BS <759 1312>
+	DotsBelow_BS <500 -141>
+	CrossBarAndRing_BS <973 1066>
+	CurlyKafDotsAbove_BS <521 1066>
+};
+Anchors KafIni.outD11 {
+	DotsAbove_BS <645 1279>
+	DotsBelow_BS <384 -193>
+	CrossBarAndRing_BS <850 1023>
+	CurlyKafDotsAbove_BS <416 1050>
+};
+Anchors KafMed.HRoutD1 {
+	DotsAbove_BS <747 1096>
+	DotsBelow_BS <529 -327>
+	CrossBarAndRing_BS <974 864>
+	CurlyKafDotsAbove_BS <540 891>
+};
+Anchors KafMed.HRoutD2MD {
+	DotsAbove_BS <494 1086>
+	DotsBelow_BS <312 -295>
+	CrossBarAndRing_BS <712 847>
+	CurlyKafDotsAbove_BS <278 873>
+};
+Anchors KafMed.VoutD2HYB {
+	DotsAbove_BS <582 1367>
+	DotsBelow_BS <460 -353>
+	CrossBarAndRing_BS <791 1110>
+	CurlyKafDotsAbove_BS <349 1075>
+};
+Anchors KafMed.outD2H {
+	DotsAbove_BS <702 1298>
+	DotsBelow_BS <340 -416>
+	CrossBarAndRing_BS <819 1050>
+	CurlyKafDotsAbove_BS <384 1076>
+};
+Anchors KafMed.outD2HYB {
+	DotsAbove_BS <702 1298>
+	DotsBelow_BS <305 -380>
+	CrossBarAndRing_BS <819 1050>
+	CurlyKafDotsAbove_BS <384 1076>
+};
+Anchors KafMed.outD5 {
+	DotsAbove_BS <439 1240>
+	DotsBelow_BS <165 -416>
+	CrossBarAndRing_BS <589 1005>
+	CurlyKafDotsAbove_BS <138 1022>
+};
+Anchors KafIni.outD2MM {
+	DotsAbove_BS <222 1056>
+	DotsBelow_BS <153 -277>
+	CrossBarAndRing_BS <458 829>
+	CurlyKafDotsAbove_BS <6 847>
+};
+Anchors KafMed.outD2MM {
+	DotsAbove_BS <282 1317>
+	DotsBelow_BS <145 -259>
+	CrossBarAndRing_BS <491 1066>
+	CurlyKafDotsAbove_BS <39 1084>
+};
+Anchors KafMed.low {
+	DotsAbove_BS <463 1246>
+	DotsAboveAlt_BS <350 1496>
+	DotsBelow_BS <159 -218>
+	DotsBelowAlt_BS <205 -355>
+	CrossBarAndRing_BS <589 1005>
+	MiddleDot_BS <138 1022>
+};
+Anchors KafMed.HRoutT2 {
+	DotsAbove_BS <362 1170>
+	DotsBelow_BS <181 -212>
+	DotsBelowAlt_BS <230 -449>
+	CrossBarAndRing_BS <589 935>
+	CurlyKafDotsAbove_BS <138 952>
+};
+Anchors KafMed.VoutD2MD {
+	DotsAbove_BS <485 1302>
+	DotsBelow_BS <313 -297>
+	CrossBarAndRing_BS <680 1031>
+	CurlyKafDotsAbove_BS <246 1040>
+};
+Anchors KafIni.outD5 {
+	DotsAbove_BS <328 1192>
+	DotsBelow_BS <168 -184>
+	CrossBarAndRing_BS <550 952>
+	CurlyKafDotsAbove_BS <94 970>
+};
+Anchors KafMed.HRoutD2MM {
+	DotsAbove_BS <340 1177>
+	DotsBelow_BS <145 -258>
+	CrossBarAndRing_BS <492 938>
+	CurlyKafDotsAbove_BS <40 956>
+};
+Anchors KafMed.HRoutD2HYB {
+	DotsAbove_BS <673 1172>
+	DotsBelow_BS <458 -284>
+	DotsBelowAlt_BS <403 -471>
+	CrossBarAndRing_BS <816 917>
+	CurlyKafDotsAbove_BS <364 935>
+};
+Anchors KafMed.HRoutD2WQ {
+	DotsAbove_BS <487 1130>
+	DotsBelow_BS <205 -264>
+	CrossBarAndRing_BS <649 917>
+	CurlyKafDotsAbove_BS <197 935>
+};
+Anchors KafMed.HRoutD5 {
+	DotsAbove_BS <330 1081>
+	DotsBelow_BS <151 -302>
+	CrossBarAndRing_BS <542 829>
+	CurlyKafDotsAbove_BS <126 882>
+};
+Anchors KafMed.VoutT2 {
+	DotsAbove_BS <354 1386>
+	DotsBelow_BS <182 -212>
+	DotsBelowAlt_BS <232 -448>
+	CrossBarAndRing_BS <552 1119>
+	CurlyKafDotsAbove_BS <109 1066>
+};
+Anchors KafMed.VoutT3 {
+	DotsAbove_BS <406 1410>
+	DotsBelow_BS <231 -188>
+	CrossBarAndRing_BS <587 1128>
+	CurlyKafDotsAbove_BS <145 1075>
+};
+Anchors KafMed.VoutS1 {
+	DotsAbove_BS <407 1412>
+	DotsBelow_BS <235 -187>
+	CrossBarAndRing_BS <587 1119>
+	CurlyKafDotsAbove_BS <145 1066>
+};
+Anchors KafMed.VoutD1 {
+	DotsAbove_BS <754 1314>
+	DotsBelow_BS <530 -327>
+	CrossBarAndRing_BS <992 1110>
+	CurlyKafDotsAbove_BS <522 1040>
+};
+Anchors KafMed.VoutD11 {
+	DotsAbove_BS <645 1398>
+	DotsBelow_BS <417 -218>
+	CrossBarAndRing_BS <869 1154>
+	CurlyKafDotsAbove_BS <426 1102>
+};
+Anchors KafMed.VoutD2MM {
+	DotsAbove_BS <261 1393>
+	DotsBelow_BS <145 -257>
+	CrossBarAndRing_BS <491 1154>
+	CurlyKafDotsAbove_BS <30 1084>
+};
+Anchors KafMed.VoutD2Y {
+	DotsAbove_BS <303 1299>
+	DotsBelow_BS <93 -750>
+	CrossBarAndRing_BS <523 1102>
+	CurlyKafDotsAbove_BS <81 1049>
+};
+Anchors KafMed.VoutD2WQ {
+	DotsAbove_BS <426 1330>
+	DotsBelow_BS <204 -264>
+	CrossBarAndRing_BS <623 1119>
+	CurlyKafDotsAbove_BS <180 1066>
+};
+Anchors KafMed.VoutD4 {
+	DotsAbove_BS <268 1279>
+	DotsBelow_BS <96 -320>
+	CrossBarAndRing_BS <491 1040>
+	CurlyKafDotsAbove_BS <48 987>
+};
+Anchors KafMed.VoutD5 {
+	DotsAbove_BS <324 1295>
+	DotsBelow_BS <150 -302>
+	CrossBarAndRing_BS <541 1052>
+	CurlyKafDotsAbove_BS <98 1000>
+};
+Anchors KafIni.HRoutD2H {
+	DotsAbove_BS <515 1127>
+	DotsBelow_BS <479 -205>
+	CrossBarAndRing_BS <746 899>
+	CurlyKafDotsAbove_BS <232 820>
+};
+Anchors TahMed.low {
+	DotsAbove_BS <206 1126>
+	DotsBelow_BS <281 -178>
+	MiddleDot_BS <403 717>
+	MiddleRightDot_BS <326 645>
+};
+Anchors TahMed.HRlow {
+	DotsAbove_BS <196 1030>
+	DotsBelow_BS <279 -178>
+	MiddleDot_BS <398 673>
+	MiddleRightDot_BS <321 601>
+};
+Anchors KafMed.HRk {
+	DotsAbove_BS <397 907>
+	DotsBelow_BS <41 -264>
+	CrossBarAndRing_BS <340 592>
+	CurlyKafDotsAbove_BS <148 767>
+};
+Anchors KafIni.HRoutT2N {
+	DotsAbove_BS <367 1097>
+	DotsBelow_BS <104 -461>
+	CrossBarAndRing_BS <587 858>
+	CurlyKafDotsAbove_BS <145 832>
+};
+Anchors KafIni.HRoutT3 {
+	DotsAbove_BS <408 1108>
+	DotsBelow_BS <156 -276>
+	DotsBelowAlt_BS <254 -102>
+	CrossBarAndRing_BS <623 864>
+	CurlyKafDotsAbove_BS <145 803>
+};
+Anchors KafIni.HRoutT2 {
+	DotsAbove_BS <322 1103>
+	DotsBelow_BS <72 -208>
+	DotsBelowAlt_BS <228 -156>
+	CrossBarAndRing_BS <552 873>
+	CurlyKafDotsAbove_BS <109 855>
+};
+Anchors GafIni.k {
+	DotsAbove_BS <357 1204>
+	DotsBelow_BS <114 -266>
+	DotsBelowAlt_BS <230 -261>
+	CrossBarAndRing_BS <315 741>
+	CurlyKafDotsAbove_BS <138 1022>
+};
+Anchors GafMed.k {
+	DotsAbove_BS <357 1204>
+	DotsBelow_BS <114 -266>
+	DotsBelowAlt_BS <81 -416>
+	CrossBarAndRing_BS <315 741>
+	CurlyKafDotsAbove_BS <138 1022>
+};
+Anchors GafIni {
+	DotsAbove_BS <362 1379>
+	DotsBelow_BS <132 -172>
+	DotsBelowAlt_BS <266 -79>
+	CrossBarAndRing_BS <623 1102>
+	CurlyKafDotsAbove_BS <146 1093>
+};
+Anchors GafIni.outT2 {
+	DotsAbove_BS <302 1298>
+	DotsBelow_BS <221 -109>
+	DotsBelowAlt_BS <72 -207>
+	CrossBarAndRing_BS <561 1022>
+	CurlyKafDotsAbove_BS <85 1014>
+};
+Anchors GafIni.outT2N {
+	DotsAbove_BS <347 1298>
+	DotsBelow_BS <106 -460>
+	CrossBarAndRing_BS <622 1040>
+	CurlyKafDotsAbove_BS <146 1031>
+};
+Anchors GafIni.outT3 {
+	DotsAbove_BS <397 1291>
+	DotsBelow_BS <153 -275>
+	DotsBelowAlt_BS <253 -102>
+	CrossBarAndRing_BS <658 1014>
+	CurlyKafDotsAbove_BS <182 1005>
+};
+Anchors GafIni.outS1 {
+	DotsAbove_BS <395 1378>
+	DotsBelow_BS <239 -147>
+	CrossBarAndRing_BS <623 1075>
+	CurlyKafDotsAbove_BS <146 1066>
+};
+Anchors GafIni.outD1 {
+	DotsAbove_BS <731 1358>
+	DotsBelow_BS <500 -140>
+	CrossBarAndRing_BS <973 1066>
+	CurlyKafDotsAbove_BS <495 1066>
+};
+Anchors GafIni.outD11 {
+	DotsAbove_BS <661 1331>
+	DotsBelow_BS <387 -194>
+	CrossBarAndRing_BS <850 1023>
+	CurlyKafDotsAbove_BS <390 1050>
+};
+Anchors GafIni.outD2MM {
+	DotsAbove_BS <231 1109>
+	DotsBelow_BS <152 -276>
+	CrossBarAndRing_BS <458 829>
+	CurlyKafDotsAbove_BS <-21 847>
+};
+Anchors GafIni.outD2H {
+	DotsAbove_BS <494 1322>
+	DotsBelow_BS <479 -205>
+	CrossBarAndRing_BS <781 1075>
+	CurlyKafDotsAbove_BS <287 1066>
+};
+Anchors GafIni.outD2Y {
+	DotsAbove_BS <232 1162>
+	DotsBelow_BS <184 -677>
+	CrossBarAndRing_BS <485 882>
+	CurlyKafDotsAbove_BS <-7 882>
+};
+Anchors GafMed {
+	DotsAbove_BS <363 1385>
+	DotsBelow_BS <241 -164>
+	DotsBelowAlt_BS <241 -594>
+	CrossBarAndRing_BS <614 1102>
+	CurlyKafDotsAbove_BS <138 1093>
+};
+Anchors GafMed.HR {
+	DotsAbove_BS <630 1328>
+	DotsBelow_BS <196 -188>
+	CrossBarAndRing_BS <570 935>
+	CurlyKafDotsAbove_BS <400 1152>
+};
+Anchors GafMed.outT3 {
+	DotsAbove_BS <396 1383>
+	DotsBelow_BS <231 -188>
+	DotsBelowAlt_BS <231 -434>
+	CrossBarAndRing_BS <640 1093>
+	CurlyKafDotsAbove_BS <164 1084>
+};
+Anchors GafMed.outD2MD {
+	DotsAbove_BS <477 1274>
+	DotsBelow_BS <312 -297>
+	CrossBarAndRing_BS <714 979>
+	CurlyKafDotsAbove_BS <255 1005>
+};
+Anchors GafMed.outD2H {
+	DotsAbove_BS <642 1347>
+	DotsBelow_BS <340 -416>
+	CrossBarAndRing_BS <819 1050>
+	CurlyKafDotsAbove_BS <349 1076>
+};
+Anchors GafMed.outD2HYB {
+	DotsAbove_BS <642 1347>
+	DotsBelow_BS <299 -382>
+	CrossBarAndRing_BS <819 1050>
+	CurlyKafDotsAbove_BS <349 1076>
+};
+Anchors GafMed.outD5 {
+	DotsAbove_BS <315 1266>
+	DotsBelow_BS <151 -302>
+	CrossBarAndRing_BS <589 1005>
+	CurlyKafDotsAbove_BS <111 1022>
+};
+Anchors GafIni.HRoutD5 {
+	DotsAbove_BS <294 1134>
+	DotsBelow_BS <170 -184>
+	CrossBarAndRing_BS <579 882>
+	CurlyKafDotsAbove_BS <138 908>
+};
+Anchors GafMed.HRoutD1 {
+	DotsAbove_BS <717 1142>
+	DotsBelow_BS <531 -328>
+	CrossBarAndRing_BS <974 864>
+	CurlyKafDotsAbove_BS <505 891>
+};
+Anchors GafMed.HRoutD2MM {
+	DotsAbove_BS <243 1223>
+	DotsBelow_BS <143 -257>
+	CrossBarAndRing_BS <492 938>
+	CurlyKafDotsAbove_BS <40 956>
+};
+Anchors GafMed.HRoutD2WQ {
+	DotsAbove_BS <359 1165>
+	DotsBelow_BS <205 -265>
+	CrossBarAndRing_BS <649 917>
+	CurlyKafDotsAbove_BS <171 935>
+};
+Anchors GafMed.VoutS1 {
+	DotsAbove_BS <382 1458>
+	DotsBelow_BS <235 -188>
+	CrossBarAndRing_BS <587 1119>
+	CurlyKafDotsAbove_BS <145 1066>
+};
+Anchors GafMed.VoutD11 {
+	DotsAbove_BS <620 1445>
+	DotsBelow_BS <415 -216>
+	CrossBarAndRing_BS <869 1154>
+	CurlyKafDotsAbove_BS <399 1102>
+};
+Anchors GafMed.VoutD2MM {
+	DotsAbove_BS <235 1441>
+	DotsBelow_BS <145 -260>
+	CrossBarAndRing_BS <491 1154>
+	CurlyKafDotsAbove_BS <4 1084>
+};
+Anchors GafMed.VoutD4 {
+	DotsAbove_BS <268 1279>
+	DotsBelow_BS <94 -320>
+	CrossBarAndRing_BS <491 1040>
+	CurlyKafDotsAbove_BS <48 987>
+};
+Anchors GafIni.HRoutD2H {
+	DotsAbove_BS <487 1174>
+	DotsBelow_BS <479 -206>
+	CrossBarAndRing_BS <746 899>
+	CurlyKafDotsAbove_BS <232 820>
+};
+Anchors GafIni.HRoutT2 {
+	DotsAbove_BS <296 1150>
+	DotsBelow_BS <72 -207>
+	DotsBelowAlt_BS <226 -109>
+	CrossBarAndRing_BS <552 873>
+	CurlyKafDotsAbove_BS <83 855>
+};
+Anchors HehMed.inD5outD5 {
+	DotsAbove_BS <136 555>
+	DotsBelow_BS <129 -213>
+};
+Anchors AinIni.outD2D {
+	DotsAbove_BS <260 709>
+	DotsBelow_BS <394 -42>
+};
+Anchors FehxIni.outD2D {
+	DotsAbove_BS <291 780>
+	DotsBelow_BS <328 -220>
+	DotsBelowAlt_BS <454 -218>
+};
+Anchors GafIni.outD2D {
+	DotsAbove_BS <247 1144>
+	DotsBelow_BS <61 -325>
+	CrossBarAndRing_BS <491 855>
+	CurlyKafDotsAbove_BS <50 899>
+};
+Anchors HehDoIni.outD2D {
+	DotsAbove_BS <472 719>
+	DotsBelow_BS <460 -107>
+};
+Anchors HehIniAF.outD2D {
+	DotsAbove_BS <342 791>
+	DotsBelow_BS <383 -139>
+};
+Anchors KafIni.outD2D {
+	DotsAbove_BS <395 1108>
+	DotsBelow_BS <109 -374>
+	CrossBarAndRing_BS <491 855>
+	CurlyKafDotsAbove_BS <67 891>
+};
+Anchors LamIni.outD2D {
+	DotsAbove_BS <129 835>
+	DotsAboveAlt_BS <129 773>
+	DotsBelow_BS <157 -417>
+	CrossBarAndRing_BS <96 423>
+};
+Anchors MeemIni.outD2D {
+	DotsAbove_BS <349 611>
+	DotsBelow_BS <383 -157>
+};
+Anchors TahIni.outD2D {
+	DotsAbove_BS <305 1122>
+	DotsAboveAlt_BS <307 1016>
+	DotsBelow_BS <375 -108>
+	MiddleDot_BS <506 836>
+	MiddleRightDot_BS <428 765>
+};
+Anchors AinIni.outD2H {
+	DotsAbove_BS <260 709>
+	DotsBelow_BS <394 -42>
+};
+Anchors FehxIni.outD2H {
+	DotsAbove_BS <291 780>
+	DotsBelow_BS <377 -269>
+	DotsBelowAlt_BS <454 -218>
+};
+Anchors HehDoIni.outD2H {
+	DotsAbove_BS <472 719>
+	DotsBelow_BS <460 -107>
+};
+Anchors HehIniAF.outD2H {
+	DotsAbove_BS <342 791>
+	DotsBelow_BS <383 -139>
+};
+Anchors MeemIni.outD2H {
+	DotsAbove_BS <349 611>
+	DotsBelow_BS <383 -157>
+};
+Anchors HehIni.outD2D {
+	DotsAbove_BS <539 628>
+	DotsBelow_BS <515 51>
+};
+Anchors HehMed.inD5 {
+	DotsAbove_BS <328 690>
+	DotsBelow_BS <321 -77>
+};
+Anchors AinMed.inT3outT1 {
+	DotsAbove_BS <188 628>
+	DotsBelow_BS <208 -165>
+};
+Anchors FehxMed.inT3outT1 {
+	DotsAbove_BS <152 698>
+	DotsAboveAlt_BS <152 760>
+	DotsBelow_BS <165 -187>
+	DotsBelowAlt_BS <234 -341>
+};
+Anchors SadMed.inD1outT1 {
+	DotsAbove_BS <375 713>
+	DotsBelow_BS <429 -112>
+};
+Anchors TahMed.inD1outT1 {
+	DotsAbove_BS <209 976>
+	DotsBelow_BS <281 -210>
+	MiddleDot_BS <409 799>
+	MiddleRightDot_BS <333 727>
+};
+Anchors HahMed.inD2outT1 {
+	DotsAbove_BS <177 718>
+	DotsAboveAlt_BS <134 819>
+	DotsBelow_BS <236 -176>
+};
+Anchors MeemMed.inD2outT1 {
+	DotsAbove_BS <124 481>
+	DotsBelow_BS <265 -218>
+};
+Anchors HehMed.inD5outT1 {
+	DotsAbove_BS <119 495>
+	DotsBelow_BS <266 -79>
+};
+Anchors HehDoMed.inD2outT1 {
+	DotsAbove_BS <197 736>
+	DotsBelow_BS <307 -211>
+};
+Anchors SeenMed.inT2outT1 {
+	DotsAbove_BS <311 564>
+	DotsBelow_BS <352 -157>
+};
+Anchors AinMed.inT3outD2D {
+	DotsAbove_BS <204 731>
+	DotsBelow_BS <200 -377>
+};
+Anchors FehxMed.inT3outD2D {
+	DotsAbove_BS <219 753>
+	DotsBelow_BS <240 -352>
+};
+Anchors HahMed.inD2outD2D {
+	DotsAbove_BS <193 706>
+	DotsBelow_BS <313 -256>
+};
+Anchors HehDoMed.inD2outD2D {
+	DotsAbove_BS <356 835>
+	DotsBelow_BS <383 -106>
+};
+Anchors HehMed.inD5outD2D {
+	DotsAbove_BS <358 656>
+	DotsAboveAlt_BS <232 762>
+	DotsBelow_BS <348 -119>
+};
+Anchors MeemMed.inD2outD2D {
+	DotsAbove_BS <94 619>
+	DotsBelow_BS <259 -341>
+};
+Anchors TahMed.inD1outD2D {
+	DotsAbove_BS <305 1122>
+	DotsAboveAlt_BS <307 1016>
+	DotsBelow_BS <375 -108>
+	MiddleDot_BS <506 836>
+	MiddleRightDot_BS <428 765>
+};
+Anchors AinMed.inT3outD2H {
+	DotsAbove_BS <204 731>
+	DotsBelow_BS <200 -377>
+};
+Anchors FehxMed.inT3outD2H {
+	DotsAbove_BS <219 753>
+	DotsBelow_BS <407 -255>
+};
+Anchors HahMed.inD2outD2H {
+	DotsAbove_BS <193 706>
+	DotsBelow_BS <505 -203>
+};
+Anchors HahMed.inD2outD2YB {
+	DotsAbove_BS <193 706>
+	DotsBelow_BS <322 -416>
+};
+Anchors HehDoMed.inD2outD2H {
+	DotsAbove_BS <356 835>
+	DotsBelow_BS <433 -218>
+};
+Anchors BehxMed.inT1outT1 {
+	DotsAbove_BS <233 639>
+	DotsBelow_BS <243 -148>
+	CrossBarAndRing_BS <169 77>
+};
+Anchors BehxMed.inT1outD2WQ {
+	DotsAbove_BS <241 636>
+	DotsBelow_BS <251 -151>
+	CrossBarAndRing_BS <165 83>
+};
+Anchors BehxMed.inT1outD1 {
+	DotsAbove_BS <505 612>
+	DotsBelow_BS <515 -174>
+	CrossBarAndRing_BS <419 59>
+};
+Anchors YehKashmiriFin {
+	DotsAbove_BS <169 468>
+	DotsBelow_BS <222 -574>
+};
+Anchors YehKashmiriFin.inD2alt {
+	DotsAbove_BS <169 468>
+	DotsBelow_BS <222 -574>
+};
+Anchors YehKashmiriSep {
+	DotsAbove_BS <274 468>
+	DotsBelow_BS <341 -577>
+};
+Anchors BehxMed.inT1outD11 {
+	DotsAbove_BS <403 631>
+	DotsBelow_BS <413 -155>
+	CrossBarAndRing_BS <339 58>
+};
+Anchors Hamza {
+	DotsAbove_BS <196 703>
+	DotsBelow_BS <294 -104>
+};
+Anchors KafIni.N {
+	DotsAbove_BS <367 1021>
+	DotsBelow_BS <133 -171>
+	DotsBelowAlt_BS <264 -77>
+	CrossBarAndRing_BS <542 732>
+	CurlyKafDotsAbove_BS <92 759>
+};
+Anchors KafIni.NoutT2 {
+	DotsAbove_BS <287 915>
+	DotsBelow_BS <72 -207>
+	DotsBelowAlt_BS <225 -109>
+	CrossBarAndRing_BS <498 653>
+	CurlyKafDotsAbove_BS <48 680>
+};
+Anchors KafIni.NoutT3 {
+	DotsAbove_BS <279 1023>
+	DotsBelow_BS <156 -274>
+	DotsBelowAlt_BS <254 -103>
+	CrossBarAndRing_BS <480 757>
+	CurlyKafDotsAbove_BS <30 784>
+};
+Anchors KafIni.NoutD1 {
+	DotsAbove_BS <667 1123>
+	DotsBelow_BS <500 -141>
+	CrossBarAndRing_BS <854 847>
+	CurlyKafDotsAbove_BS <361 847>
+};
+Anchors KafIni.NoutD11 {
+	DotsAbove_BS <553 1089>
+	DotsBelow_BS <384 -193>
+	CrossBarAndRing_BS <762 827>
+	CurlyKafDotsAbove_BS <312 853>
+};
+Anchors KafIni.NoutD2 {
+	DotsAbove_BS <355 879>
+	DotsBelow_BS <158 -416>
+	CrossBarAndRing_BS <563 617>
+	CurlyKafDotsAbove_BS <113 644>
+};
+Anchors KafIni.NoutD2H {
+	DotsAbove_BS <520 976>
+	DotsBelow_BS <479 -207>
+	CrossBarAndRing_BS <674 727>
+	CurlyKafDotsAbove_BS <224 753>
+};
+Anchors KafIni.NoutD2MM {
+	DotsAbove_BS <299 861>
+	DotsBelow_BS <153 -277>
+	CrossBarAndRing_BS <484 583>
+	CurlyKafDotsAbove_BS <34 609>
+};
+Anchors KafMed.NoutT2 {
+	DotsAbove_BS <287 916>
+	DotsBelow_BS <175 -205>
+	DotsBelowAlt_BS <225 -109>
+	CrossBarAndRing_BS <472 636>
+	CurlyKafDotsAbove_BS <21 662>
+};
+Anchors KafMed.NoutT3 {
+	DotsAbove_BS <279 1024>
+	DotsBelow_BS <170 -269>
+	DotsBelowAlt_BS <254 -103>
+	CrossBarAndRing_BS <463 741>
+	CurlyKafDotsAbove_BS <13 768>
+};
+Anchors KafMed.NoutD1 {
+	DotsAbove_BS <667 1123>
+	DotsBelow_BS <500 -141>
+	CrossBarAndRing_BS <850 838>
+	CurlyKafDotsAbove_BS <399 864>
+};
+Anchors KafMed.NoutD11 {
+	DotsAbove_BS <553 1089>
+	DotsBelow_BS <384 -193>
+	CrossBarAndRing_BS <797 851>
+	CurlyKafDotsAbove_BS <347 877>
+};
+Anchors KafMed.NoutD2MD {
+	DotsAbove_BS <355 879>
+	DotsBelow_BS <245 -417>
+	CrossBarAndRing_BS <551 609>
+	CurlyKafDotsAbove_BS <101 636>
+};
+Anchors KafMed.NoutD2HYB {
+	DotsAbove_BS <520 976>
+	DotsBelow_BS <479 -207>
+	CrossBarAndRing_BS <674 732>
+	CurlyKafDotsAbove_BS <224 759>
+};
+Anchors KafMed.NoutD2MM {
+	DotsAbove_BS <299 861>
+	DotsBelow_BS <198 -277>
+	CrossBarAndRing_BS <516 601>
+	CurlyKafDotsAbove_BS <65 627>
+};
+Anchors GafIni.N {
+	DotsAbove_BS <367 1063>
+	DotsBelow_BS <133 -171>
+	DotsBelowAlt_BS <264 -77>
+	CrossBarAndRing_BS <542 732>
+	CurlyKafDotsAbove_BS <92 759>
+};
+Anchors GafIni.NoutT2 {
+	DotsAbove_BS <287 958>
+	DotsBelow_BS <72 -207>
+	DotsBelowAlt_BS <225 -109>
+	CrossBarAndRing_BS <498 653>
+	CurlyKafDotsAbove_BS <21 680>
+};
+Anchors GafIni.NoutT3 {
+	DotsAbove_BS <279 1067>
+	DotsBelow_BS <156 -274>
+	DotsBelowAlt_BS <254 -103>
+	CrossBarAndRing_BS <480 757>
+	CurlyKafDotsAbove_BS <30 784>
+};
+Anchors GafIni.NoutD1 {
+	DotsAbove_BS <667 1167>
+	DotsBelow_BS <500 -141>
+	CrossBarAndRing_BS <854 847>
+	CurlyKafDotsAbove_BS <334 847>
+};
+Anchors GafIni.NoutD11 {
+	DotsAbove_BS <553 1133>
+	DotsBelow_BS <384 -193>
+	CrossBarAndRing_BS <762 827>
+	CurlyKafDotsAbove_BS <285 853>
+};
+Anchors GafIni.NoutD2 {
+	DotsAbove_BS <355 923>
+	DotsBelow_BS <158 -416>
+	CrossBarAndRing_BS <563 617>
+	CurlyKafDotsAbove_BS <60 600>
+};
+Anchors GafIni.NoutD2H {
+	DotsAbove_BS <520 1020>
+	DotsBelow_BS <479 -207>
+	CrossBarAndRing_BS <674 727>
+	CurlyKafDotsAbove_BS <197 727>
+};
+Anchors GafIni.NoutD2MM {
+	DotsAbove_BS <299 905>
+	DotsBelow_BS <153 -277>
+	CrossBarAndRing_BS <484 583>
+	CurlyKafDotsAbove_BS <7 583>
+};
+Anchors GafMed.NoutT2 {
+	DotsAbove_BS <287 958>
+	DotsBelow_BS <175 -205>
+	DotsBelowAlt_BS <225 -109>
+	CrossBarAndRing_BS <472 636>
+	CurlyKafDotsAbove_BS <4 636>
+};
+Anchors GafMed.NoutT3 {
+	DotsAbove_BS <279 1068>
+	DotsBelow_BS <170 -269>
+	DotsBelowAlt_BS <254 -103>
+	CrossBarAndRing_BS <463 741>
+	CurlyKafDotsAbove_BS <-14 741>
+};
+Anchors GafMed.NoutD1 {
+	DotsAbove_BS <667 1167>
+	DotsBelow_BS <500 -141>
+	CrossBarAndRing_BS <850 838>
+	CurlyKafDotsAbove_BS <373 838>
+};
+Anchors GafMed.NoutD11 {
+	DotsAbove_BS <553 1133>
+	DotsBelow_BS <384 -193>
+	CrossBarAndRing_BS <797 851>
+	CurlyKafDotsAbove_BS <268 816>
+};
+Anchors GafMed.NoutD2MD {
+	DotsAbove_BS <355 923>
+	DotsBelow_BS <245 -417>
+	CrossBarAndRing_BS <551 609>
+	CurlyKafDotsAbove_BS <65 601>
+};
+Anchors GafMed.NoutD2HYB {
+	DotsAbove_BS <520 1020>
+	DotsBelow_BS <479 -207>
+	CrossBarAndRing_BS <674 732>
+	CurlyKafDotsAbove_BS <180 715>
+};
+Anchors GafMed.NoutD2MM {
+	DotsAbove_BS <299 905>
+	DotsBelow_BS <198 -277>
+	CrossBarAndRing_BS <516 601>
+	CurlyKafDotsAbove_BS <21 583>
+};
+Anchors HahIni.outD2Hwide {
+	DotsAbove_BS <428 533>
+	DotsBelow_BS <555 -131>
+};
+Anchors HahMed.inD2outD2Hwide {
+	DotsAbove_BS <296 653>
+	DotsBelow_BS <505 -130>
+};
+Anchors HehDoIni.outD2Hwide {
+	DotsAbove_BS <472 719>
+	DotsBelow_BS <460 -107>
+};
+Anchors HehDoMed.inD2outD2Hwide {
+	DotsAbove_BS <433 719>
+	DotsBelow_BS <421 -107>
+};
+Anchors HehIniAF.outD2Hwide {
+	DotsAbove_BS <381 791>
+	DotsBelow_BS <422 -139>
+};
+Anchors FehxIni.outD2Hwide {
+	DotsAbove_BS <321 780>
+	DotsBelow_BS <357 -142>
+};
+Anchors FehxMed.inT3outD2Hwide {
+	DotsAbove_BS <405 724>
+	DotsBelow_BS <357 -142>
+};
+Anchors AinIni.outD2Hwide {
+	DotsAbove_BS <342 691>
+	DotsBelow_BS <392 -99>
+};
+Anchors AinMed.inT3outD2Hwide {
+	DotsAbove_BS <372 591>
+	DotsBelow_BS <388 -99>
+};
+Anchors OneDotAboveNS {
+	DotsAbove_MK <0 920>
+	MarksAboveMKMK_BS <0 1081>
+	MarksAboveMKMK_MK <-5 831>
+};
+Anchors TwoDotsAboveNS {
+	DotsAbove_MK <0 922>
+	MarksAboveMKMK_BS <0 1092>
+	MarksAboveMKMK_MK <0 819>
+};
+Anchors ThreeDotsUpAboveNS {
+	DotsAbove_MK <0 921>
+	MarksAboveMKMK_BS <0 1234>
+	MarksAboveMKMK_MK <0 819>
+};
+Anchors ThreeDotsDownAboveNS {
+	DotsAbove_MK <0 921>
+	MarksAboveMKMK_BS <0 1244>
+	MarksAboveMKMK_MK <-4 832>
+};
+Anchors TwoDotsVertAboveNS {
+	DotsAbove_MK <118 106>
+	MarksAboveMKMK_BS <112 406>
+	MarksAboveMKMK_MK <111 9>
+};
+Anchors FourDotsAboveNS {
+	DotsAbove_MK <130 106>
+	MarksAboveMKMK_BS <130 349>
+	MarksAboveMKMK_MK <130 6>
+};
+Anchors MaddaNS {
+	DotsAbove_MK <0 979>
+	MarksAboveMKMK_BS <0 1148>
+	MarksAboveMKMK_MK <-11 907>
+};
+Anchors Madda.shortNS {
+	DotsAbove_MK <0 979>
+	MarksAboveMKMK_BS <0 1099>
+	MarksAboveMKMK_MK <16 907>
+};
+Anchors Madda.shorterNS {
+	DotsAbove_MK <0 979>
+	MarksAboveMKMK_BS <0 1099>
+	MarksAboveMKMK_MK <27 907>
+};
+Anchors WaslaNS {
+	DotsAbove_MK <0 973>
+	MarksAboveMKMK_BS <0 1117>
+	MarksAboveMKMK_MK <-15 880>
+};
+Anchors HamzaAboveNS {
+	DotsAbove_MK <0 940>
+	MarksAboveMKMK_BS <0 1090>
+	MarksAboveMKMK_MK <0 855>
+};
+Anchors HamzaAboveAF_NS {
+	DotsAbove_MK <0 917>
+	MarksAboveMKMK_BS <0 1098>
+	MarksAboveMKMK_MK <0 834>
+};
+Anchors AlayhissalamNS {
+	DotsAbove_MK <0 918>
+	MarksAboveMKMK_BS <0 1202>
+	MarksAboveMKMK_MK <0 826>
+};
+Anchors AlefSuperiorNS {
+	DotsAbove_MK <0 950>
+	MarksAboveMKMK_BS <0 1181>
+	MarksAboveMKMK_MK <-6 850>
+};
+Anchors DammaNS {
+	DotsAbove_MK <-2 958>
+	MarksAboveMKMK_BS <0 1172>
+	MarksAboveMKMK_MK <0 926>
+};
+Anchors UltapeshNS {
+	DotsAbove_MK <-18 958>
+	MarksAboveMKMK_BS <0 1119>
+	MarksAboveMKMK_MK <0 864>
+};
+Anchors DammatanNS {
+	DotsAbove_MK <0 967>
+	MarksAboveMKMK_BS <0 1140>
+	MarksAboveMKMK_MK <0 864>
+};
+Anchors FathaNS {
+	DotsAbove_MK <0 958>
+	MarksAboveMKMK_BS <0 1093>
+	MarksAboveMKMK_MK <0 926>
+};
+Anchors FathatanNS {
+	DotsAbove_MK <0 958>
+	MarksAboveMKMK_BS <0 1192>
+	MarksAboveMKMK_MK <0 926>
+};
+Anchors NoonGhunnaMarkNS {
+	DotsAbove_MK <0 976>
+	MarksAboveMKMK_BS <0 1107>
+	MarksAboveMKMK_MK <-16 882>
+};
+Anchors NoonGhunnaMarkKshmrNS {
+	DotsAbove_MK <1 988>
+	MarksAboveMKMK_BS <15 1146>
+	MarksAboveMKMK_MK <1 931>
+};
+Anchors RadiallahNS {
+	DotsAbove_MK <0 918>
+	MarksAboveMKMK_BS <0 1272>
+	MarksAboveMKMK_MK <0 830>
+};
+Anchors RahmatullahNS {
+	DotsAbove_MK <0 962>
+	MarksAboveMKMK_BS <0 1208>
+	MarksAboveMKMK_MK <0 865>
+};
+Anchors SallallahNS {
+	DotsAbove_MK <0 920>
+	MarksAboveMKMK_BS <0 1184>
+	MarksAboveMKMK_MK <0 848>
+};
+Anchors ShaddaNS {
+	DotsAbove_MK <0 969>
+	MarksAboveMKMK_BS <0 1089>
+	MarksAboveMKMK_MK <0 892>
+};
+Anchors SukunHahNS {
+	DotsAbove_MK <0 969>
+	MarksAboveMKMK_BS <0 1103>
+	MarksAboveMKMK_MK <0 881>
+};
+Anchors SukunJazmNS {
+	DotsAbove_MK <0 975>
+	MarksAboveMKMK_BS <0 1122>
+	MarksAboveMKMK_MK <0 867>
+};
+Anchors SukunNS {
+	DotsAbove_MK <0 966>
+	MarksAboveMKMK_BS <0 1126>
+	MarksAboveMKMK_MK <-9 869>
+};
+Anchors SukunZeroNS {
+	DotsAbove_MK <0 954>
+	MarksAboveMKMK_BS <0 1164>
+	MarksAboveMKMK_MK <0 856>
+};
+Anchors TahSmallNS {
+	DotsAbove_MK <0 934>
+	MarksAboveMKMK_BS <0 1243>
+	MarksAboveMKMK_MK <0 837>
+};
+Anchors Tah2DotsAboveNS {
+	DotsAbove_MK <0 911>
+	MarksAboveMKMK_BS <0 1330>
+	MarksAboveMKMK_MK <0 811>
+};
+Anchors TakhallusNS {
+	DotsAbove_MK <0 995>
+	MarksAboveMKMK_BS <0 1126>
+	MarksAboveMKMK_MK <0 907>
+};
+Anchors Small4UrduAboveNS {
+	DotsAbove_MK <0 560>
+	MarksAboveMKMK_BS <0 770>
+	MarksAboveMKMK_MK <2 464>
+};
+Anchors CircumArabicNS {
+	DotsAbove_MK <0 929>
+	MarksAboveMKMK_BS <0 1067>
+	MarksAboveMKMK_MK <0 841>
+};
+Anchors Fatha2dotsNS {
+	DotsAbove_MK <0 940>
+	MarksAboveMKMK_BS <0 1172>
+	MarksAboveMKMK_MK <0 843>
+};
+Anchors SevenSmallDotNS {
+	DotsAbove_MK <0 920>
+	MarksAboveMKMK_BS <0 1238>
+	MarksAboveMKMK_MK <-7 831>
+};
+Anchors SevenSmallNS {
+	DotsAbove_MK <4 1133>
+	MarksAboveMKMK_BS <0 1238>
+};
+Anchors TahDotAboveNS {
+	DotsAbove_MK <0 925>
+	MarksAboveMKMK_BS <0 1341>
+	MarksAboveMKMK_MK <-5 836>
+};
+Anchors ShortVwlNS {
+	DotsAbove_MK <30 804>
+	MarksAboveMKMK_BS <33 1112>
+	MarksAboveMKMK_MK <30 804>
+};
+Anchors Small2AboveNS {
+	DotsAbove_MK <0 560>
+	DotsAboveAlt_MK <144 852>
+	MarksAboveMKMK_BS <0 770>
+	MarksAboveMKMK_MK <5 464>
+};
+Anchors Small3AboveNS {
+	DotsAbove_MK <0 560>
+	DotsAboveAlt_MK <144 852>
+	MarksAboveMKMK_BS <0 770>
+	MarksAboveMKMK_MK <3 463>
+};
+Anchors ZwarakayNS {
+	DotsAbove_MK <0 988>
+	MarksAboveMKMK_BS <0 1031>
+	MarksAboveMKMK_MK <0 892>
+};
+Anchors DammaRevNS {
+	DotsAbove_MK <10 958>
+	MarksAboveMKMK_BS <8 1172>
+	MarksAboveMKMK_MK <8 926>
+};
+Anchors WavyHamzaAboveNS {
+	DotsAbove_MK <0 912>
+	MarksAboveMKMK_BS <0 1130>
+	MarksAboveMKMK_MK <0 838>
+};
+Anchors HehIni {
+	DotsAboveAlt_BS <122 524>
+	DotsBelow_BS <37 -89>
+	DotsBelowAlt_BS <132 6>
+};
+Anchors TahMed.inD1outD5 {
+	DotsAboveAlt_BS <239 999>
+	DotsBelow_BS <268 -112>
+	MiddleDot_BS <440 811>
+	MiddleRightDot_BS <362 739>
+};
+Anchors OneDotAboveAltNS {
+	DotsAboveAlt_MK <0 920>
+	MarksAboveMKMK_BS <0 1081>
+	MarksAboveMKMK_MK <-5 831>
+};
+Anchors TwoDotsAboveAltNS {
+	DotsAboveAlt_MK <0 922>
+	MarksAboveMKMK_BS <0 1092>
+	MarksAboveMKMK_MK <0 819>
+};
+Anchors ThreeDotsUpAboveAltNS {
+	DotsAboveAlt_MK <0 921>
+	MarksAboveMKMK_BS <0 1234>
+	MarksAboveMKMK_MK <0 819>
+};
+Anchors MaddaAltNS {
+	DotsAboveAlt_MK <0 979>
+	MarksAboveMKMK_BS <0 1148>
+	MarksAboveMKMK_MK <-11 907>
+};
+Anchors Madda.shortAltNS {
+	DotsAboveAlt_MK <0 979>
+	MarksAboveMKMK_BS <0 1099>
+	MarksAboveMKMK_MK <16 907>
+};
+Anchors Madda.shorterAltNS {
+	DotsAboveAlt_MK <0 979>
+	MarksAboveMKMK_BS <0 1099>
+	MarksAboveMKMK_MK <27 907>
+};
+Anchors WaslaAltNS {
+	DotsAboveAlt_MK <0 973>
+	MarksAboveMKMK_BS <0 1117>
+	MarksAboveMKMK_MK <-15 880>
+};
+Anchors HamzaAboveAltNS {
+	DotsAboveAlt_MK <0 940>
+	MarksAboveMKMK_BS <0 1090>
+	MarksAboveMKMK_MK <0 855>
+};
+Anchors HamzaAboveAF_AltNS {
+	DotsAboveAlt_MK <0 917>
+	MarksAboveMKMK_BS <0 1135>
+	MarksAboveMKMK_MK <0 834>
+};
+Anchors AlayhissalamAltNS {
+	DotsAboveAlt_MK <0 918>
+	MarksAboveMKMK_BS <0 1202>
+	MarksAboveMKMK_MK <0 826>
+};
+Anchors AlefSuperiorAltNS {
+	DotsAboveAlt_MK <0 950>
+	MarksAboveMKMK_BS <0 1181>
+	MarksAboveMKMK_MK <-6 850>
+};
+Anchors DammaAltNS {
+	DotsAboveAlt_MK <-2 958>
+	MarksAboveMKMK_BS <0 1172>
+	MarksAboveMKMK_MK <0 926>
+};
+Anchors UltapeshAltNS {
+	DotsAboveAlt_MK <-18 958>
+	MarksAboveMKMK_BS <0 1119>
+	MarksAboveMKMK_MK <0 864>
+};
+Anchors DammatanAltNS {
+	DotsAboveAlt_MK <0 967>
+	MarksAboveMKMK_BS <0 1140>
+	MarksAboveMKMK_MK <0 864>
+};
+Anchors FathaAltNS {
+	DotsAboveAlt_MK <0 958>
+	MarksAboveMKMK_BS <0 1093>
+	MarksAboveMKMK_MK <0 926>
+};
+Anchors FathatanAltNS {
+	DotsAboveAlt_MK <0 958>
+	MarksAboveMKMK_BS <0 1192>
+	MarksAboveMKMK_MK <0 926>
+};
+Anchors NoonGhunnaMarkAltNS {
+	DotsAboveAlt_MK <0 976>
+	MarksAboveMKMK_BS <0 1107>
+	MarksAboveMKMK_MK <-16 882>
+};
+Anchors RadiallahAltNS {
+	DotsAboveAlt_MK <0 918>
+	MarksAboveMKMK_BS <0 1272>
+	MarksAboveMKMK_MK <0 830>
+};
+Anchors RahmatullahAltNS {
+	DotsAboveAlt_MK <0 962>
+	MarksAboveMKMK_BS <0 1208>
+	MarksAboveMKMK_MK <0 865>
+};
+Anchors SallallahAltNS {
+	DotsAboveAlt_MK <0 920>
+	MarksAboveMKMK_BS <0 1184>
+	MarksAboveMKMK_MK <0 848>
+};
+Anchors ShaddaAltNS {
+	DotsAboveAlt_MK <0 969>
+	MarksAboveMKMK_BS <0 1089>
+	MarksAboveMKMK_MK <0 892>
+};
+Anchors Tah2DotsAboveAltNS {
+	DotsAboveAlt_MK <0 911>
+	MarksAboveMKMK_BS <0 1330>
+	MarksAboveMKMK_MK <0 811>
+};
+Anchors SukunHahAltNS {
+	DotsAboveAlt_MK <0 969>
+	MarksAboveMKMK_BS <0 1103>
+	MarksAboveMKMK_MK <0 881>
+};
+Anchors SukunJazmAltNS {
+	DotsAboveAlt_MK <0 975>
+	MarksAboveMKMK_BS <0 1122>
+	MarksAboveMKMK_MK <0 867>
+};
+Anchors WavyHamzaAboveAltNS {
+	DotsAboveAlt_MK <0 912>
+	MarksAboveMKMK_BS <0 1130>
+	MarksAboveMKMK_MK <0 838>
+};
+Anchors SukunAltNS {
+	DotsAboveAlt_MK <0 966>
+	MarksAboveMKMK_BS <0 1126>
+	MarksAboveMKMK_MK <-9 869>
+};
+Anchors SukunZeroAltNS {
+	DotsAboveAlt_MK <0 954>
+	MarksAboveMKMK_BS <0 1164>
+	MarksAboveMKMK_MK <0 856>
+};
+Anchors TahSmallAltNS {
+	DotsAboveAlt_MK <0 934>
+	MarksAboveMKMK_BS <0 1243>
+	MarksAboveMKMK_MK <0 837>
+};
+Anchors TakhallusAltNS {
+	DotsAboveAlt_MK <0 995>
+	MarksAboveMKMK_BS <0 1126>
+	MarksAboveMKMK_MK <0 907>
+};
+Anchors CircumArabicAltNS {
+	DotsAboveAlt_MK <-1 970>
+	MarksAboveMKMK_BS <-13 948>
+	MarksAboveMKMK_MK <-38 906>
+};
+Anchors Fatha2dotsAltNS {
+	DotsAboveAlt_MK <0 940>
+	MarksAboveMKMK_BS <0 1172>
+	MarksAboveMKMK_MK <0 843>
+};
+Anchors FourDotsAboveAltNS {
+	DotsAboveAlt_MK <129 106>
+	MarksAboveMKMK_BS <129 349>
+	MarksAboveMKMK_MK <129 6>
+};
+Anchors SevenSmallDotAltNS {
+	DotsAboveAlt_MK <0 920>
+	MarksAboveMKMK_BS <0 1238>
+	MarksAboveMKMK_MK <-7 831>
+};
+Anchors TahDotAboveAltNS {
+	DotsAboveAlt_MK <0 925>
+	MarksAboveMKMK_BS <0 1341>
+	MarksAboveMKMK_MK <-5 836>
+};
+Anchors ShortVwlAltNS {
+	DotsAboveAlt_MK <30 804>
+	MarksAboveMKMK_BS <33 1112>
+	MarksAboveMKMK_MK <30 804>
+};
+Anchors Small2AboveAltNS {
+	DotsAboveAlt_MK <0 560>
+	MarksAboveMKMK_BS <0 770>
+	MarksAboveMKMK_MK <5 464>
+};
+Anchors Small3AboveAltNS {
+	DotsAboveAlt_MK <0 560>
+	MarksAboveMKMK_BS <0 770>
+	MarksAboveMKMK_MK <3 463>
+};
+Anchors Small4UrduAboveAltNS {
+	DotsAboveAlt_MK <0 560>
+	MarksAboveMKMK_BS <0 770>
+	MarksAboveMKMK_MK <2 464>
+};
+Anchors TwoDotsVertAboveAltNS {
+	DotsAboveAlt_MK <118 106>
+	MarksAboveMKMK_BS <112 406>
+	MarksAboveMKMK_MK <120 9>
+};
+Anchors ZwarakayAltNS {
+	DotsAboveAlt_MK <0 988>
+	MarksAboveMKMK_BS <0 1031>
+	MarksAboveMKMK_MK <0 892>
+};
+Anchors ThreeDotsDownAboveAltNS {
+	DotsAboveAlt_MK <0 921>
+	MarksAboveMKMK_BS <0 1244>
+	MarksAboveMKMK_MK <-4 832>
+};
+Anchors DammaRevAltNS {
+	DotsAboveAlt_MK <10 958>
+	MarksAboveMKMK_BS <8 1172>
+	MarksAboveMKMK_MK <8 926>
+};
+Anchors YBc2 {
+	DotsAboveAlt_MK <0 0>
+	YBMKMK_BS <0 0>
+};
+Anchors OneDotBelowNS {
+	DotsBelow_MK <0 -99>
+	MarksBelowMKMK_BS <0 -258>
+	MarksBelowMKMK_MK <0 -8>
+};
+Anchors TwoDotsBelowNS {
+	DotsBelow_MK <0 -99>
+	MarksBelowMKMK_BS <0 -269>
+	MarksBelowMKMK_MK <0 -2>
+};
+Anchors ThreeDotsDownBelowNS {
+	DotsBelow_MK <0 -98>
+	MarksBelowMKMK_BS <0 -413>
+	MarksBelowMKMK_MK <0 0>
+};
+Anchors TwoDotsVertBelowNS {
+	DotsBelow_MK <118 -98>
+	MarksBelowMKMK_BS <116 -413>
+	MarksBelowMKMK_MK <110 -16>
+};
+Anchors FourDotsBelowNS {
+	DotsBelow_MK <130 -122>
+	MarksBelowMKMK_BS <130 -382>
+	MarksBelowMKMK_MK <130 -40>
+};
+Anchors HamzaBelowNS {
+	DotsBelow_MK <0 -161>
+	MarksBelowMKMK_BS <0 -270>
+	MarksBelowMKMK_MK <0 -67>
+};
+Anchors HamzaBelowAF_NS {
+	DotsBelow_MK <0 -173>
+	MarksBelowMKMK_BS <0 -308>
+	MarksBelowMKMK_MK <0 -44>
+};
+Anchors AlefInferiorNS {
+	DotsBelow_MK <1 -108>
+	MarksBelowMKMK_BS <0 -339>
+	MarksBelowMKMK_MK <28 -8>
+};
+Anchors KasraNS {
+	DotsBelow_MK <0 -82>
+	MarksBelowMKMK_BS <0 -229>
+	MarksBelowMKMK_MK <0 -44>
+};
+Anchors KasratanNS {
+	DotsBelow_MK <0 -82>
+	MarksBelowMKMK_BS <0 -328>
+	MarksBelowMKMK_MK <0 -44>
+};
+Anchors TahSmallBelowNS {
+	DotsBelow_MK <0 -151>
+	MarksBelowMKMK_BS <0 -464>
+	MarksBelowMKMK_MK <8 -54>
+};
+Anchors Tah2DotsBelowNS {
+	DotsBelow_MK <0 -159>
+	MarksBelowMKMK_BS <0 -424>
+	MarksBelowMKMK_MK <5 -59>
+};
+Anchors AlefInferiorYB {
+	DotsBelow_MK <28 -8>
+	YBMKMK_BS <0 -339>
+	YBMKMK_MK <28 -8>
+};
+Anchors HamzaBelowYB {
+	DotsBelow_MK <0 -140>
+	YBMKMK_BS <0 -288>
+	YBMKMK_MK <0 -140>
+};
+Anchors KasraYB {
+	DotsBelow_MK <0 -82>
+	YBMKMK_BS <0 -229>
+	YBMKMK_MK <0 -82>
+};
+Anchors KasratanYB {
+	DotsBelow_MK <0 -82>
+	YBMKMK_BS <0 -328>
+	YBMKMK_MK <0 -82>
+};
+Anchors OneDotBelowYB {
+	DotsBelow_MK <0 -99>
+	YBMKMK_BS <0 -258>
+	YBMKMK_MK <0 -99>
+};
+Anchors ThreeDotsDownBelowYB {
+	DotsBelow_MK <0 -98>
+	YBMKMK_BS <0 -413>
+	YBMKMK_MK <0 -98>
+};
+Anchors TwoDotsBelowYB {
+	DotsBelow_MK <0 -99>
+	YBMKMK_BS <0 -269>
+	YBMKMK_MK <0 -99>
+};
+Anchors HehCommaNS {
+	DotsBelow_MK <157 -159>
+	MarksBelowMKMK_BS <153 -536>
+};
+Anchors HehCommaYB {
+	DotsBelow_MK <128 -250>
+	YBMKMK_BS <153 -536>
+	YBMKMK_MK <157 -159>
+};
+Anchors FourDotsBelowYB {
+	DotsBelow_MK <130 -122>
+	YBMKMK_BS <130 -382>
+	YBMKMK_MK <130 -122>
+};
+Anchors WavyHamzaBelowYB {
+	DotsBelow_MK <0 -83>
+	YBMKMK_BS <0 -401>
+	YBMKMK_MK <0 -83>
+};
+Anchors WavyHamzaBelowNS {
+	DotsBelow_MK <0 -178>
+	MarksBelowMKMK_BS <0 -401>
+	MarksBelowMKMK_MK <0 -83>
+};
+Anchors Small4UrduBelowYB {
+	DotsBelow_MK <0 -180>
+	YBMKMK_BS <0 -398>
+	YBMKMK_MK <0 -180>
+};
+Anchors TwoDotsVertBelowYB {
+	DotsBelow_MK <118 -98>
+	YBMKMK_BS <116 -413>
+	YBMKMK_MK <118 -98>
+};
+Anchors HamzaBelowAF_YB {
+	DotsBelow_MK <0 -173>
+	YBMKMK_BS <0 -308>
+	YBMKMK_MK <0 -44>
+};
+Anchors Tah2DotsBelowYB {
+	DotsBelow_MK <0 -159>
+	YBMKMK_BS <0 -424>
+	YBMKMK_MK <5 -59>
+};
+Anchors TahSmallBelowYB {
+	DotsBelow_MK <0 -151>
+	YBMKMK_BS <0 -464>
+	YBMKMK_MK <8 -54>
+};
+Anchors Small4UrduBelowNS {
+	DotsBelow_MK <0 -180>
+	MarksBelowMKMK_BS <0 -398>
+	MarksBelowMKMK_MK <0 -82>
+};
+Anchors HehCommaAltNS {
+	DotsBelowAlt_MK <157 -159>
+	MarksBelowMKMK_BS <241 -870>
+};
+Anchors OneDotBelowAltNS {
+	DotsBelowAlt_MK <0 -99>
+	MarksBelowMKMK_BS <0 -258>
+	MarksBelowMKMK_MK <0 -8>
+};
+Anchors TwoDotsBelowAltNS {
+	DotsBelowAlt_MK <0 -99>
+	MarksBelowMKMK_BS <0 -269>
+	MarksBelowMKMK_MK <0 -2>
+};
+Anchors ThreeDotsDownBelowAltNS {
+	DotsBelowAlt_MK <0 -98>
+	MarksBelowMKMK_BS <0 -413>
+	MarksBelowMKMK_MK <0 0>
+};
+Anchors HamzaBelowAltNS {
+	DotsBelowAlt_MK <0 -161>
+	MarksBelowMKMK_BS <0 -287>
+	MarksBelowMKMK_MK <0 -67>
+};
+Anchors HamzaBelowAF_AltNS {
+	DotsBelowAlt_MK <0 -173>
+	MarksBelowMKMK_BS <0 -308>
+	MarksBelowMKMK_MK <0 -44>
+};
+Anchors AlefInferiorAltNS {
+	DotsBelowAlt_MK <1 -108>
+	MarksBelowMKMK_BS <0 -339>
+	MarksBelowMKMK_MK <0 1>
+};
+Anchors KasraAltNS {
+	DotsBelowAlt_MK <0 -82>
+	MarksBelowMKMK_BS <0 -229>
+	MarksBelowMKMK_MK <0 -44>
+};
+Anchors KasratanAltNS {
+	DotsBelowAlt_MK <0 -82>
+	MarksBelowMKMK_BS <0 -328>
+	MarksBelowMKMK_MK <0 -44>
+};
+Anchors FourDotsBelowAltNS {
+	DotsBelowAlt_MK <130 -122>
+	MarksBelowMKMK_BS <130 -382>
+	MarksBelowMKMK_MK <130 -40>
+};
+Anchors WavyHamzaBelowAltNS {
+	DotsBelowAlt_MK <0 -178>
+	MarksBelowMKMK_BS <0 -401>
+	MarksBelowMKMK_MK <0 -83>
+};
+Anchors Small4UrduBelowAltNS {
+	DotsBelowAlt_MK <0 -180>
+	MarksBelowMKMK_BS <0 -398>
+	MarksBelowMKMK_MK <0 -82>
+};
+Anchors TwoDotsVertBelowAltNS {
+	DotsBelowAlt_MK <118 -98>
+	MarksBelowMKMK_BS <116 -413>
+	MarksBelowMKMK_MK <119 -16>
+};
+Anchors Tah2DotsBelowAltNS {
+	DotsBelowAlt_MK <0 -159>
+	MarksBelowMKMK_BS <0 -424>
+	MarksBelowMKMK_MK <5 -59>
+};
+Anchors YBc1 {
+	DotsBelowAlt_MK <0 0>
+	YBMKMK_BS <0 0>
+};
+Anchors Crossbar {
+	CrossBarAndRing_MK <0 291>
+};
+Anchors RingNS {
+	CrossBarAndRing_MK <0 518>
+};
+Anchors TwoDotsAboveKNS {
+	CurlyKafDotsAbove_MK <44 926>
+};
+Anchors ThreeDotsAboveKNS {
+	CurlyKafDotsAbove_MK <43 935>
+};
+Anchors OneDotEnclNS {
+	MiddleDot_MK <0 217>
+};
+Anchors ThreeDotsDownEnclNS {
+	MiddleDot_MK <0 217>
+};
+Anchors TwoDotsEnclNS {
+	MiddleDot_MK <0 217>
+};
+Anchors TwoDotsVertEnclNS {
+	MiddleDot_MK <0 236>
+};
+Anchors FourDotsEnclNS {
+	MiddleDot_MK <-15 204>
+};
+Anchors SharetKafNS {
+	MiddleDot_MK <479 549>
+};
+Anchors TahSmallEnclNS {
+	MiddleDot_MK <-5 -271>
+};
+Anchors Tah2DotsEnclNS {
+	MiddleDot_MK <0 -199>
+};
+Anchors Small4UrduEnclNS {
+	MiddleDot_MK <51 582>
+};
+Anchors OneDotEnclTNS {
+	MiddleRightDot_MK <0 217>
+};
+Anchors SharetYehPashtoNS {
+	MiscMark_MK <217 354>
+};
+Anchors OneDotSmallAbove {
+	MiscMark_MK <133 80>
+};
+Anchors OneDotSmallBelowNS {
+	SmallDotsBelow_MK <133 -96>
+};
+Anchors YBc3 {
+	SmallDotsBelow_MK <0 0>
+	YBMKMK_BS <0 0>
+};
+Anchors Sanah {
+	Number_BS <609 323>
+};
+Anchors Footnote {
+	Number_BS <789 318>
+};
+Anchors Safhah {
+	Number_BS <384 305>
+};
+Anchors NumberSign {
+	Number_BS <864 279>
+};
+Anchors AyahEnd {
+	Number_BS <860 452>
+};
+Anchors Samvat {
+	Number_BS <1051 366>
+};
+
+DefineClass @small_and_enclosed_numbers = /\.small$|\.encl$/;
+Anchors @small_and_enclosed_numbers {
+	Number_MK <0 8>
+};
+
+Feature mark {
+	Attach &DotsAboveAlt_BS &DotsAboveAlt_MK;
+	Attach &DotsAbove_BS &DotsAbove_MK;
+	Attach &DotsBelowAlt_BS &DotsBelowAlt_MK;
+	Attach &DotsBelow_BS &DotsBelow_MK;
+	Attach &MiddleDot_BS &MiddleDot_MK;
+	Attach &MiddleRightDot_BS &MiddleRightDot_MK;
+	Attach &MiscMark_BS &MiscMark_MK;
+	Attach &Number_BS &Number_MK;
+	Attach &SmallDotsBelow_BS &SmallDotsBelow_MK;
+	Attach &CrossBarAndRing_BS &CrossBarAndRing_MK;
+	Attach &CurlyKafDotsAbove_BS &CurlyKafDotsAbove_MK;
+};
+
+Feature mkmk {
+	Attach &MarksAboveMKMK_BS &MarksAboveMKMK_MK;
+  Attach &MarksBelowMKMK_BS &MarksBelowMKMK_MK;
+  Attach &YBMKMK_BS &YBMKMK_MK;
+};

@@ -4,13 +4,14 @@ lookup lookup_14 {
     sub LamIni	LamMed	HehFin by Divine_nm_p1;
 } lookup_14;
 
-lookup lookup_13 {
-    #lookupflag MarkAttachmentType @MarkClass1;
-    sub LamIni' lookup lookup_23 LamMed' HehFin'; # Do Nothing
-    sub LamIni' lookup lookup_14 LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
-    sub LamIni' lookup lookup_14 LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
-    sub LamIni' lookup lookup_14 [AlefSuperiorNS FathaNS ShaddaNS]' LamMed' HehFin';
-    sub LamIni' lookup lookup_14 [AlefSuperiorNS FathaNS ShaddaNS]' LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
-    sub LamIni' lookup lookup_14 [AlefSuperiorNS FathaNS ShaddaNS]' LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
-} lookup_13;
-
+feature rlig {
+	lookup lookup_13 {
+	    #lookupflag MarkAttachmentType @MarkClass1;
+	    sub LamIni' lookup lookup_23 LamMed' HehFin'; # Do Nothing
+	    sub LamIni' lookup lookup_14 LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
+	    sub LamIni' lookup lookup_14 LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
+	    sub LamIni' lookup lookup_14 [AlefSuperiorNS FathaNS ShaddaNS]' LamMed' HehFin';
+	    sub LamIni' lookup lookup_14 [AlefSuperiorNS FathaNS ShaddaNS]' LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
+	    sub LamIni' lookup lookup_14 [AlefSuperiorNS FathaNS ShaddaNS]' LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
+	} lookup_13;
+} rlig;

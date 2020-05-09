@@ -36,3 +36,4 @@ include(rlig-stuff-2.fea);
 include(curs-cursive-positioning.fea);
 include(curs-kerning.fea);
 include(anchors.fea);
+include(long-number-marks.fea);

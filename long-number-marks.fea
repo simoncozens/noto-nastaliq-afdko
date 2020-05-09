@@ -1,0 +1,40 @@
+feature mark {
+	pos ligature	NumberSign.alt2 <anchor	661 279> mark @Number_BS
+		ligComponent <anchor	1067 279> mark @Number_BS;
+	pos ligature	NumberSign.alt3	 <anchor 458 279> mark @Number_BS
+		ligComponent	<anchor 864 279> mark @Number_BS
+		ligComponent	<anchor 1271 279> mark @Number_BS;
+	pos ligature	Sanah.alt2	<anchor 888 345> mark @Number_BS
+		ligComponent	<anchor 1294 345> mark @Number_BS;
+	pos ligature	Sanah.alt3	 <anchor 684 345> mark @Number_BS
+		ligComponent	<anchor 1092 345> mark @Number_BS
+		ligComponent	<anchor 1498 345> mark @Number_BS;
+	pos ligature	Sanah.alt4	<anchor 480 345> mark @Number_BS
+		ligComponent	<anchor 888 345> mark @Number_BS
+		ligComponent	<anchor 1294 345> mark @Number_BS
+		ligComponent	<anchor 1701 345> mark @Number_BS;
+	pos ligature	Footnote.alt2	<anchor 903 318> mark @Number_BS
+	ligComponent	<anchor 1309 318> mark @Number_BS;
+	pos ligature	Footnote.alt3	 <anchor 700 318> mark @Number_BS
+		ligComponent	<anchor 1106 318> mark @Number_BS
+		ligComponent	<anchor 1513 318> mark @Number_BS;
+	pos ligature	Safhah.alt2	<anchor 824 309> mark @Number_BS
+	ligComponent	<anchor 1230 309> mark @Number_BS;
+	pos ligature	Safhah.alt3	 <anchor 619 309> mark @Number_BS
+		ligComponent	<anchor 1027 309> mark @Number_BS
+		ligComponent	<anchor 1433 309> mark @Number_BS;
+	pos ligature	Samvat.alt2	<anchor 848 366> mark @Number_BS
+	ligComponent	<anchor 1254 366> mark @Number_BS;
+	pos ligature	Samvat.alt3	 <anchor 643 366> mark @Number_BS
+		ligComponent	<anchor 1051 366> mark @Number_BS
+		ligComponent	<anchor 1457 366> mark @Number_BS;
+	pos ligature	Samvat.alt4	<anchor 440 366> mark @Number_BS
+		ligComponent	<anchor 848 366> mark @Number_BS
+		ligComponent	<anchor 1254 366> mark @Number_BS
+		ligComponent	<anchor 1661 366> mark @Number_BS;
+	pos ligature	AyahEnd.alt2	<anchor 720 452> mark @Number_BS
+	ligComponent	<anchor 1000 452> mark @Number_BS;
+	pos ligature	AyahEnd.alt3	 <anchor 581 452> mark @Number_BS
+		ligComponent	<anchor 860 452> mark @Number_BS
+		ligComponent	<anchor 1140 452> mark @Number_BS;
+} mark;

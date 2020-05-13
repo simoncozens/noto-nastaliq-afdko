@@ -3508,13 +3508,13 @@ Anchors ShortVwlNS {
 };
 Anchors Small2AboveNS {
 	DotsAbove_MK <0 560>
-	DotsAboveAlt_MK <144 852>
+	#DotsAboveAlt_MK <144 852>
 	MarksAboveMKMK_BS <0 770>
 	MarksAboveMKMK_MK <5 464>
 };
 Anchors Small3AboveNS {
 	DotsAbove_MK <0 560>
-	DotsAboveAlt_MK <144 852>
+	#DotsAboveAlt_MK <144 852>
 	MarksAboveMKMK_BS <0 770>
 	MarksAboveMKMK_MK <3 463>
 };

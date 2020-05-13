@@ -1,5 +1,8 @@
+@class5 = [FehxIni.outT2 BehxIni.outT2tall TahIni.outT2 BehxMed.inT2outT2 BehxMed.inT1outT2 LamIni.outT2 LamMed.outT2 SadIni.outT2 GafMed.outT2 SeenIni.outT2 HehDoIni.outT2 HehIni.outT2 MeemIni.outT2 HahIni.outT2 HehDoMed.inD2outT2 FehxMed.inT3outT2 AinMed.inT3outT2 AinIni.outT2 HahMed.inD2outT2 SeenMed.inT2outT2 SadMed.inD1outT2 TahMed.inD1outT2 HehMed.inD5outT2 HehIniAF.outT2 MeemMed.inD2outT2 KafIni.outT2 KafMed.outT2 GafIni.outT2];
+@class6 = [FehxIni.outD1 BehxIni.outD1 TahIni.outD1 BehxMed.inT1outD1 BehxMed.inT1outD1 LamIni.outD1 LamMed.outD1 SadIni.outD1 GafMed.outD1 SeenIni.outD1 HehDoIni.outD1 HehIni.outD1 MeemIni.outD1 HahIni.outD1 HehDoMed.inD2outD1 FehxMed.inT3outD1 AinMed.inT3outD1 AinIni.outD1 HahMed.inD2outD1 SeenMed.inT2outD1 SadMed.inD1outD1 TahMed.inD1outD1 HehMed.inD5outD1 HehIniAF.outD1 MeemMed.inD2outD1 KafIni.outD1 KafMed.outD1 GafIni.outD1];
 
 lookup lookup_29 {
+    # Change .outT2 glyphs for .outD1 ones
     sub @class5 by @class6;
 } lookup_29;
 
@@ -7,34 +10,21 @@ lookup lookup_30 {
     sub [SeenIni.outT2 SeenMed.inT2outT2] by [SeenIni.SWoutT2 SeenMed.SWinAoutT2];
 } lookup_30;
 
-lookup lookup_31 {
-    sub SeenMed.inT2outT2 by SeenMed.SWinBoutT2;
-} lookup_31;
+lookup lookup_31 {sub SeenMed.inT2outT2 by SeenMed.SWinBoutT2; } lookup_31;
+lookup lookup_32 {sub SeenMed.inT2outT2 by SeenMed.SWinCoutT2; } lookup_32;
+lookup lookup_33 {sub SeenMed.inT2outT2 by SeenMed.SWinDoutT2; } lookup_33;
+lookup lookup_34 {sub SeenMed.inT2outT2 by SeenMed.SWinFoutT2; } lookup_34;
+lookup lookup_35 {sub SeenMed.inT2outT2 by SeenMed.SWinFFoutT2; } lookup_35;
+lookup lookup_36 {sub SeenMed.inT2outT2 by SeenMed.SWinGoutT2; } lookup_36;
 
-lookup lookup_32 {
-    sub SeenMed.inT2outT2 by SeenMed.SWinCoutT2;
-} lookup_32;
-
-lookup lookup_33 {
-    sub SeenMed.inT2outT2 by SeenMed.SWinDoutT2;
-} lookup_33;
-
-lookup lookup_34 {
-    sub SeenMed.inT2outT2 by SeenMed.SWinFoutT2;
-} lookup_34;
-
-lookup lookup_35 {
-    sub SeenMed.inT2outT2 by SeenMed.SWinFFoutT2;
-} lookup_35;
-
-lookup lookup_36 {
-    sub SeenMed.inT2outT2 by SeenMed.SWinGoutT2;
-} lookup_36;
-
+# D1 forms
 lookup lookup_65 {
     sub [SadMed TahMed TahMed.low] by [SadMed.inD1 TahMed.inD1 TahMed.inD1];
 } lookup_65;
 
+# D2 forms
+@class15 = [YehxFin QafxFin WawFin MeemMed HehDoMed HahMed YehKashmiriFin];
+@class16 = [YehxFin.inD2alt QafxFin.inD2 WawFin.inD2 MeemMed.inD2 HehDoMed.inD2 HahMed.inD2 YehKashmiriFin.inD2alt];
 lookup lookup_66 { sub @class15 by @class16; } lookup_66;
 
 lookup lookup_67 {
@@ -46,87 +36,160 @@ lookup lookup_69 {sub RehFin by RehFin.inD3MM; } lookup_69;
 lookup lookup_70 {sub RehFin by RehFin.inD4; } lookup_70;
 lookup lookup_71 {sub RehFin by RehFin.inD4B; } lookup_71;
 lookup lookup_73 {sub RehFin by RehFin.postHeh; } lookup_73;
+
+# outT1 forms -> outT2 forms
+@class17 = [BehxMed.inT1outT3 BehxMed.inT1outT2 BehxMed SeenMed BehxMed.inT1outT1 BehxMed.inT1outD1 BehxMed.inT1outD11];
+@class18 = [BehxMed.inT2outT3 BehxMed.inT2outT2 BehxMed.inT2 SeenMed.inT2 BehxMed.inT2outT1 BehxMed.inT2outD1 BehxMed.inT2outD11];
 lookup lookup_75 {sub @class17 by @class18; } lookup_75;
 
+lookup lookup_72 {sub HehMed by HehMed.inD5; } lookup_72;
+lookup lookup_74 {sub BehxMed by BehxMed.inT1; } lookup_74;
 
-lookup lookup_72 {
-    sub HehMed by HehMed.inD5;
-} lookup_72;
+# Convert to T3 forms
+lookup lookup_76 { sub [FehxMed AinMed] by [FehxMed.inT3 AinMed.inT3]; } lookup_76;
 
-lookup lookup_74 {
-    sub BehxMed by BehxMed.inT1;
-} lookup_74;
+# Convert to outS1 form
+@class19 = [HehDoIni BehxIni FehxIni HehIni MeemIni HahIni SeenIni GafMed.V BehxMed LamIni KafMed.V LamMed SadIni AinIni HehIniAF KafIni KafMed GafIni GafMed BehxMed.inT1 BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class20 = [HehDoIni.outS1 BehxIni.outS1 FehxIni.outS1 HehIni.outS1 MeemIni.outS1 HahIni.outS1 SeenIni.outS1 GafMed.VoutS1 BehxMed.inT1outS1 LamIni.outS1 KafMed.VoutS1 LamMed.outS1 SadIni.outS1 AinIni.outS1 HehIniAF.outS1 KafIni.outS1 KafMed.outS1 GafIni.outS1 GafMed.outS1 BehxMed.inT1outS1 BehxMed.inT2outS1 SeenMed.inT2outS1 AinMed.inT3outS1 FehxMed.inT3outS1 SadMed.inD1outS1 TahMed.inD1outS1 HahMed.inD2outS1 HehDoMed.inD2outS1 MeemMed.inD2outS1 HehMed.inD5outS1];
+lookup lookup_77 { sub @class19 by @class20; } lookup_77;
 
-lookup lookup_76 {
-    sub [FehxMed AinMed] by [FehxMed.inT3 AinMed.inT3];
-} lookup_76;
+# Convert to outT2 form
+@class21 = [HehDoIni BehxIni BehxIni.A FehxIni TahIni HehIni MeemIni KafIni.HRlow BehxMed.inT2outT1 HahIni SeenIni GafMed.V BehxMed LamIni KafMed.V LamIni.low LamMed LamMed.low HehDoMed GafIni.HRlow SadIni GafMed.HRlow AinIni KafMed.HRlow HehIniAF KafMed.HR KafIni KafMed GafIni GafMed GafMed.HR BehxMed.inT1 BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5 AinMed.inT3outT1 FehxMed.inT3outT1 SadMed.inD1outT1 TahMed.inD1outT1 HahMed.inD2outT1 MeemMed.inD2outT1 HehMed.inD5outT1 HehDoMed.inD2outT1 SeenMed.inT2outT1 BehxMed.inT1outT1 KafIni.N GafIni.N];
+@class22 = [HehDoIni.outT2 BehxIni.outT2 BehxIni.outT2 FehxIni.outT2 TahIni.outT2 HehIni.outT2 MeemIni.outT2 KafIni.NoutT2 BehxMed.inT2outT2 HahIni.outT2 SeenIni.outT2 GafMed.VoutT2 BehxMed.inT1outT2 LamIni.outT2 KafMed.VoutT2 LamIni.lowKN LamMed.outT2 LamMed.lowKN HehDoMed.inD2outT2 GafIni.NoutT2 SadIni.outT2 GafMed.NoutT2 AinIni.outT2 KafMed.NoutT2 HehIniAF.outT2 KafMed.NoutT2 KafIni.outT2 KafMed.outT2 GafIni.outT2 GafMed.outT2 GafMed.NoutT2 BehxMed.inT1outT2 BehxMed.inT2outT2 SeenMed.inT2outT2 AinMed.inT3outT2 FehxMed.inT3outT2 SadMed.inD1outT2 TahMed.inD1outT2 HahMed.inD2outT2 HehDoMed.inD2outT2 MeemMed.inD2outT2 HehMed.inD5outT2 AinMed.inT3outT2 FehxMed.inT3outT2 SadMed.inD1outT2 TahMed.inD1outT2 HahMed.inD2outT2 MeemMed.inD2outT2 HehMed.inD5outT2 HehDoMed.inD2outT2 SeenMed.inT2outT2 BehxMed.inT1outT2 KafIni.NoutT2 GafIni.NoutT2];
+lookup lookup_78 { sub @class21 by @class22; } lookup_78;
 
-lookup lookup_77 {
-    sub @class19 by @class20;
-} lookup_77;
+# Convert to outT1 form
+@class23 = [BehxMed.inT1 BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class24 = [BehxMed.inT1outT1 BehxMed.inT2outT1 SeenMed.inT2outT1 AinMed.inT3outT1 FehxMed.inT3outT1 SadMed.inD1outT1 TahMed.inD1outT1 HahMed.inD2outT1 HehDoMed.inD2outT1 MeemMed.inD2outT1 HehMed.inD5outT1];
+lookup lookup_79 { sub @class23 by @class24; } lookup_79;
 
-lookup lookup_78 {
-    sub @class21 by @class22;
-} lookup_78;
+# Convert to outT3 form
+@class25 = [HehDoIni BehxIni FehxIni TahIni HehIni MeemIni HahIni SeenIni BehxMed LamIni LamMed SadIni AinIni HehIniAF KafIni KafMed GafIni GafMed BehxMed.inT1 BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class26 = [HehDoIni.outT3 BehxIni.outT3 FehxIni.outT3 TahIni.outT3 HehIni.outT3 MeemIni.outT3 HahIni.outT3 SeenIni.outT3 BehxMed.inT1outT3 LamIni.outT3 LamMed.outT3 SadIni.outT3 AinIni.outT3 HehIniAF.outT3 KafIni.outT3 KafMed.outT3 GafIni.outT3 GafMed.outT3 BehxMed.inT1outT3 BehxMed.inT2outT3 SeenMed.inT2outT3 AinMed.inT3outT3 FehxMed.inT3outT3 SadMed.inD1outT3 TahMed.inD1outT3 HahMed.inD2outT3 HehDoMed.inD2outT3 MeemMed.inD2outT3 HehMed.inD5outT3];
+lookup lookup_80 {sub @class25 by @class26; } lookup_80;
 
-lookup lookup_79 {
-    sub @class23 by @class24;
-} lookup_79;
+# Convert to outT3F form
+lookup lookup_81 {sub BehxIni by BehxIni.outT3F; } lookup_81;
 
-lookup lookup_80 {
-    sub @class25 by @class26;
-} lookup_80;
+# Convert to outD1 form
+@class27 = [HehDoIni BehxIni FehxIni TahIni HehIni MeemIni HahIni SeenIni LamIni LamMed SadIni AinIni HehIniAF KafIni KafMed GafIni GafMed BehxMed.inT1 BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class28 = [HehDoIni.outD1 BehxIni.outD1 FehxIni.outD1 TahIni.outD1 HehIni.outD1 MeemIni.outD1 HahIni.outD1 SeenIni.outD1 LamIni.outD1 LamMed.outD1 SadIni.outD1 AinIni.outD1 HehIniAF.outD1 KafIni.outD1 KafMed.outD1 GafIni.outD1 GafMed.outD1 BehxMed.inT1outD1 BehxMed.inT2outD1 SeenMed.inT2outD1 AinMed.inT3outD1 FehxMed.inT3outD1 SadMed.inD1outD1 TahMed.inD1outD1 HahMed.inD2outD1 HehDoMed.inD2outD1 MeemMed.inD2outD1 HehMed.inD5outD1];
+lookup lookup_82 { sub @class27 by @class28; } lookup_82;
 
-lookup lookup_81 {
-    sub BehxIni by BehxIni.outT3F;
-} lookup_81;
-
-lookup lookup_82 {
-    sub @class27 by @class28;
-} lookup_82;
-
+# Convert to outD2 form
+@class29 = [HehDoIni FehxIni TahIni MeemIni HahIni LamIni AinIni HehIniAF KafIni GafIni AinMed.inT3 FehxMed.inT3 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class30 = [HehDoIni.outD2 FehxIni.outD2 TahIni.outD2 MeemIni.outD2 HahIni.outD2 LamIni.outD2 AinIni.outD2 HehIniAF.outD2 KafIni.outD2 GafIni.outD2 AinMed.inT3outD2 FehxMed.inT3outD2 TahMed.inD1outD2 HahMed.inD2outD2 HehDoMed.inD2outD2 MeemMed.inD2outD2 HehMed.inD5outD2];
 lookup lookup_83 {sub @class29 by @class30; } lookup_83;
+
+# Convert to various outD2 forms...
+@class31 = [HehDoIni BehxIni FehxIni TahIni HehIni MeemIni HahIni SeenIni LamIni LamMed SadIni AinIni HehIniAF KafIni KafMed GafIni GafMed BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+
+# D2D
+@class32 = [HehDoIni.outD2D BehxIni.outD2D FehxIni.outD2D TahIni.outD2D HehIni.outD2D MeemIni.outD2D HahIni.outD2D SeenIni.outD2D LamIni.outD2D LamMed.outD2MD SadIni.outD2D AinIni.outD2D HehIniAF.outD2D KafIni.outD2D KafMed.outD2MD GafIni.outD2D GafMed.outD2MD BehxMed.inT2outD2D SeenMed.inT2outD2D AinMed.inT3outD2D FehxMed.inT3outD2D SadMed.inD1outD2D TahMed.inD1outD2D HahMed.inD2outD2D HehDoMed.inD2outD2D MeemMed.inD2outD2D HehMed.inD5outD2D];
 lookup lookup_84 {sub @class31 by @class32; } lookup_84;
+
+# D2H
+@class33 = [HehDoIni.outD2H BehxIni.outD2H FehxIni.outD2H TahIni.outD2H HehIni.outD2H MeemIni.outD2H HahIni.outD2H SeenIni.outD2H LamIni.outD2H LamMed.outD2H SadIni.outD2H AinIni.outD2H HehIniAF.outD2H KafIni.outD2H KafMed.outD2H GafIni.outD2H GafMed.outD2H BehxMed.inT2outD2H SeenMed.inT2outD2H AinMed.inT3outD2H FehxMed.inT3outD2H SadMed.inD1outD2H TahMed.inD1outD2H HahMed.inD2outD2H HehDoMed.inD2outD2H MeemMed.inD2outD2H HehMed.inD5outD2H];
 lookup lookup_85 {sub @class31 by @class33; } lookup_85;
+
+# D2MM
+@class34 = [HehDoIni.outD2MM BehxIni.outD2MM FehxIni.outD2MM TahIni.outD2MM HehIni.outD2MM MeemIni.outD2MM HahIni.outD2MM SeenIni.outD2MM LamIni.outD2MM LamMed.outD2MM SadIni.outD2MM AinIni.outD2MM HehIniAF.outD2MM KafIni.outD2MM KafMed.outD2MM GafIni.outD2MM GafMed.outD2MM BehxMed.inT2outD2MM SeenMed.inT2outD2MM AinMed.inT3outD2MM FehxMed.inT3outD2MM SadMed.inD1outD2MM TahMed.inD1outD2MM HahMed.inD2outD2MM HehDoMed.inD2outD2MM MeemMed.inD2outD2MM HehMed.inD5outD2MM];
 lookup lookup_86 {sub @class31 by @class34; } lookup_86;
+
+# D2M
+@class35 = [BehxIni TahIni HehIni SeenIni LamMed SadIni KafMed GafMed BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class36 = [BehxIni.outD2M TahIni.outD2M HehIni.outD2M SeenIni.outD2M LamMed.outD2MD SadIni.outD2M KafMed.outD2MD GafMed.outD2MD BehxMed.inT2outD2M SeenMed.inT2outD2M AinMed.inT3outD2 FehxMed.inT3outD2 SadMed.inD1outD2M TahMed.inD1outD2M HahMed.inD2outD2 HehDoMed.inD2outD2 MeemMed.inD2outD2 HehMed.inD5outD2];
 lookup lookup_87 {sub @class35 by @class36; } lookup_87;
+
+# D2Y
+@class37 = [HehDoIni BehxIni FehxIni HehIni MeemIni HahIni SeenIni LamIni LamMed SadIni HehIniAF KafIni KafMed GafIni GafMed BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class38 = [HehDoIni.outD2Y BehxIni.outD2Y FehxIni.outD2Y HehIni.outD2Y MeemIni.outD2Y HahIni.outD2Y SeenIni.outD2Y LamIni.outD2Y LamMed.outD2Y SadIni.outD2Y HehIniAF.outD2Y KafIni.outD2Y KafMed.outD2Y GafIni.outD2Y GafMed.outD2Y BehxMed.inT2outD2Y SeenMed.inT2outD2Y AinMed.inT3outD2Y FehxMed.inT3outD2Y SadMed.inD1outD2Y TahMed.inD1outD2 HahMed.inD2outD2Y HehDoMed.inD2outD2Y MeemMed.inD2outD2Y HehMed.inD5outD2Y];
 lookup lookup_88 {sub @class37 by @class38; } lookup_88;
+
+# D2YB
+@class39 = [HehDoIni BehxIni FehxIni TahIni HehIni MeemIni HahIni SeenIni BehxMed LamIni LamMed SadIni AinIni HehIniAF KafIni KafMed GafIni GafMed BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class40 = [HehDoIni.outD2YB BehxIni.outD2YB FehxIni.outD2YB TahIni.outD2YB HehIni.outD2YB MeemIni.outD2YB HahIni.outD2YB SeenIni.outD2YB BehxMed.inT2outD2YB LamIni.outD2YB LamMed.outD2HYB SadIni.outD2YB AinIni.outD2YB HehIniAF.outD2YB KafIni.outD2YB KafMed.outD2HYB GafIni.outD2YB GafMed.outD2HYB BehxMed.inT2outD2YB SeenMed.inT2outD2YB AinMed.inT3outD2YB FehxMed.inT3outD2YB SadMed.inD1outD2YB TahMed.inD1outD2YB HahMed.inD2outD2YB HehDoMed.inD2outD2YB MeemMed.inD2outD2YB HehMed.inD5outD2YB];
 lookup lookup_89 {sub @class39 by @class40; } lookup_89;
+
+# D2WQ
+@class41 = [BehxIni FehxIni BehxMed.inT1outT3 BehxMed.inT2outT3 LamMed AinIni KafMed GafMed BehxMed.inT1];
+@class42 = [BehxIni.outD2WQ FehxIni.outD2WQ BehxMed.inT1outD2WQ BehxMed.inT2outD2WQ LamMed.outD2WQ AinIni.outT3WQ KafMed.outD2WQ GafMed.outD2WQ BehxMed.inT1outD2WQ];
 lookup lookup_90 {sub @class41 by @class42; } lookup_90;
+
+# D2long
 lookup lookup_91 {sub AinIni by AinIni.outD2long; } lookup_91;
+
+# D3
+@class43 = [HehDoIni TahIni HahIni AinIni HehIniAF AinMed.inT3 FehxMed.inT3 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class44 = [HehDoIni.outD3 TahIni.outD3 HahIni.outD3 AinIni.outD3 HehIniAF.outD3 AinMed.inT3outD3 FehxMed.inT3outD3 TahMed.inD1outD3 HahMed.inD2outD3 HehDoMed.inD2outD3 MeemMed.inD2outD3 HehMed.inD5outD3R];
 lookup lookup_92 {sub @class43 by @class44; } lookup_92;
 
+# D4
 lookup lookup_93 {
     sub [BehxIni FehxIni LamMed KafMed GafMed] by [BehxIni.outD4 FehxIni.outD4 LamMed.outD4 KafMed.outD4 GafMed.outD4];
 } lookup_93;
 
+# D5
+@class45 = [HehDoIni.outD5 BehxIni.outD5 FehxIni.outD5 TahIni.outD5 HehIni.outD5 MeemIni.outD5 HahIni.outD5 SeenIni.outD5 LamIni.outD5 LamMed.outD5 SadIni.outD5 AinIni.outD5 HehIniAF.outD5 KafIni.outD5 KafMed.outD5 GafIni.outD5 GafMed.outD5 BehxMed.inT2outD5 SeenMed.inT2outD5 AinMed.inT3outD5 FehxMed.inT3outD5 SadMed.inD1outD5 TahMed.inD1outD5 HahMed.inD2outD5 HehDoMed.inD2outD5 MeemMed.inD2outD5 HehMed.inD5outD5];
 lookup lookup_94 {sub @class31 by @class45; } lookup_94;
+
+# D11
+@class46 = [HehDoIni BehxIni BehxIni.A FehxIni TahIni HehIni MeemIni HahIni SeenIni LamIni LamIni.low LamMed LamMed.low TahIni.low SadIni AinIni HehIniAF KafIni KafMed GafIni GafMed BehxMed.inT1 BehxMed.inT2 SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class47 = [HehDoIni.outD11 BehxIni.outD11 BehxIni.outD11 FehxIni.outD1 TahIni.outD11 HehIni.outD11 MeemIni.outD11 HahIni.outD11 SeenIni.outD11 LamIni.outD11 LamIni.outD11 LamMed.outD11 LamMed.outD11 TahIni.outD11 SadIni.outD11 AinIni.outD11 HehIniAF.outD11 KafIni.outD11 KafMed.outD11 GafIni.outD11 GafMed.outD11 BehxMed.inT1outD11 BehxMed.inT2outD11 SeenMed.inT2outD11 AinMed.inT3outD11 FehxMed.inT3outD11 SadMed.inD1outD11 TahMed.inD1outD11 HahMed.inD2outD11 HehDoMed.inD2outD11 MeemMed.inD2outD11 HehMed.inD5outD11];
 lookup lookup_95 {sub @class46 by @class47; } lookup_95;
+
+# Convert T2 to T2N form
+@class48 = [FehxIni.outT2 BehxIni.outT2 BehxMed.inT1outT2 LamIni.outT2 KafIni.outT2 GafIni.outT2];
+@class49 = [FehxIni.outT2N BehxIni.outT2N BehxMed.inT1outT2N LamIni.outT2N KafIni.outT2N GafIni.outT2N];
 lookup lookup_96 {sub @class48 by @class49; } lookup_96;
+
 lookup lookup_97 {
     sub BehxMed.inT1outT2 by BehxMed.inT1outT2Seen;
 } lookup_97;
 
+# Replace with wide forms
+@class52 = [HehFin BehxMed.inT2outT1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen BehxMed.inT2outD11 BehxMed.inT2outD2H BehxMed.inT2outD2HF BehxMed.inT2outD2HS HehDoIni.outT2 HahIni.outD2H HehDoMed.inD2outT2 AinIni.outD2H FehxIni.outD2H HehDoIni.outD2H HehIniAF.outD2H AinMed.inT3outD2H FehxMed.inT3outD2H HahMed.inD2outD2H HehDoMed.inD2outD2H];
+@class53 = [HehFin.wide BehxMed.inT2outT1wide BehxMed.inT1outT2wide BehxMed.inT1outT2Nwide BehxMed.inT1outT2SeenWide BehxMed.inT2outD11wide BehxMed.inT2outD2Hwide BehxMed.inT2outD2Hwide BehxMed.inT2outD2Hwide HehDoIni.outT2wide HahIni.outD2Hwide HehDoMed.inD2outT2wide AinIni.outD2Hwide FehxIni.outD2Hwide HehDoIni.outD2Hwide HehIniAF.outD2Hwide AinMed.inT3outD2Hwide FehxMed.inT3outD2Hwide HahMed.inD2outD2Hwide HehDoMed.inD2outD2Hwide];
 lookup lookup_100 {sub @class52 by @class53; } lookup_100;
+
+# Replace with narrow forms
 lookup lookup_101 { sub AlefFin by AlefFin.narrow; } lookup_101;
 
+# Replace with tall forms
 lookup lookup_102 {
     sub [BehxIni.outT2 AinIni] by [BehxIni.outT2tall AinIni.tall];
 } lookup_102;
 
+# Replace with short forms
 lookup lookup_103 {
     sub [MaddaNS Madda.shortNS SeenIni.outT2 HahIni.outT3 SeenMed.inT2outT2] by [Madda.shorterNS Madda.shorterNS SeenIni.outT2short HahIni.outT3short SeenMed.inT2outT2short];
 } lookup_103;
 
 lookup lookup_104 {sub [QafxFin WawFin] by [QafxFin.cut WawFin.cut]; } lookup_104;
 lookup lookup_105 {sub BehxFin by BehxFin.soft; } lookup_105;
+
+# .2 forms(!)
+@class54 = [SeenFin AinFin YehBarreeFin YehBarreeFin_5 YehBarreeFin_4 YehBarreeFin_3 BehxIni.outT3 HehIni.outT3];
+@class55 = [SeenFin.2 AinFin.2 YehBarreeFin.2 YehBarreeFin.2_5 YehBarreeFin.2_4 YehBarreeFin.2_3 BehxIni.outT3En HehIni.outT3En];
 lookup lookup_106 {sub @class54 by @class55; } lookup_106;
+
+# Replace with low forms
+@class56 = [TahIni GafMed.V LamIni KafMed.V LamMed TahMed KafMed.HR KafMed GafMed GafMed.HR];
+@class57 = [TahIni.low GafMed.Vlow LamIni.low KafMed.Vlow LamMed.low TahMed.low KafMed.HRlow KafMed.low GafMed.low GafMed.HRlow];
 lookup lookup_107 {sub @class56 by @class57; } lookup_107;
+
+# Replace with k forms
 lookup lookup_109 {
     sub [KafIni KafMed GafIni GafMed] by [KafIni.k KafMed.k GafIni.k GafMed.k];
 } lookup_109;
+
+# Replace with r forms
+@class62 = [HehIni MeemIni SeenIni BehxMed SeenMed LamMed SadIni SadMed KafMed GafMed SeenMed.inT2 AinMed.inT3 FehxMed.inT3 SadMed.inD1 TahMed.inD1 HahMed.inD2 HehDoMed.inD2 MeemMed.inD2 HehMed.inD5];
+@class63 = [HehIni.r MeemIni.r SeenIni.r BehxMed.inS1outS1 SeenMed.r LamMed.outD4 SadIni.r SadMed.r KafMed.outD4 GafMed.outD4 SeenMed.r AinMed.inT3outD3 FehxMed.inT3outD3 SadMed.r TahMed.inD1outD3 HahMed.inD2outD3 HehDoMed.inD2outD3 MeemMed.inD2outD3 HehMed.inD5outD3R];
 lookup lookup_111 {sub @class62 by @class63; } lookup_111;
+
 lookup lookup_112 {sub AinIni by AinIni.outT3WQ; } lookup_112;
+
 lookup lookup_113 {
     sub [BehxIni.outT2 MeemIni.outT2] by [BehxIni.outT2B MeemIni.outT2B];
 } lookup_113;
@@ -734,8 +797,8 @@ feature rlig {
         sub AinMed.inT3outT2' [SeenIni.outT2 SeenMed.inT2outT2]' lookup lookup_29 [SeenIni.outT2 SeenMed.inT2outT2]' lookup lookup_36 @class108;
         sub AinMed.inT3outT2' lookup lookup_29 [SeenIni.outT2 SeenMed.inT2outT2]' lookup lookup_36 @class108;
         sub BehxMed.inT2outD2H' lookup lookup_114 HahFin;
-        sub BehxMed.inT2outD2H' lookup lookup_114 @class114 HahFin;
-        sub BehxMed.inT2outD2H' lookup lookup_115 @class114 @class114;
+        sub BehxMed.inT2outD2H' lookup lookup_114 @HahMeds HahFin;
+        sub BehxMed.inT2outD2H' lookup lookup_115 @HahMeds @HahMeds;
         sub BehxMed.inT1outT2' [SeenIni.outT2 SeenMed.inT2outT2]' lookup lookup_29 [SeenIni.outT2 SeenMed.inT2outT2]' lookup lookup_30 @class108;
         sub BehxMed.inT1outT2' lookup lookup_29 [SeenIni.outT2 SeenMed.inT2outT2]' lookup lookup_30 @class108;
         sub @class115 BehxMed.inT1outT2' lookup lookup_97 lookup lookup_100 @class108;

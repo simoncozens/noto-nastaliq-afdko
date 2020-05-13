@@ -1,18 +1,15 @@
+@belowmarks    = [OneDotBelowNS TwoDotsBelowNS ThreeDotsDownBelowNS TwoDotsVertBelowNS FourDotsBelowNS HamzaBelowNS HamzaBelowAF_NS AlefInferiorNS KasraNS KasratanNS TahSmallBelowNS Tah2DotsBelowNS HehCommaNS WavyHamzaBelowNS Small4UrduBelowNS];
+@belowmarks_yb = [OneDotBelowYB TwoDotsBelowYB ThreeDotsDownBelowYB TwoDotsVertBelowYB FourDotsBelowYB HamzaBelowYB HamzaBelowAF_YB AlefInferiorYB KasraYB KasratanYB TahSmallBelowYB Tah2DotsBelowYB HehCommaYB WavyHamzaBelowYB Small4UrduBelowYB];
+@medis = [BehxMed SeenMed MeemMed LamMed HehDoMed FehxMed AinMed HahMed SadMed TahMed HehMed KafMed GafMed];
+@inits = [HehDoIni BehxIni FehxIni TahIni HehIni MeemIni HahIni SeenIni LamIni SadIni AinIni HehIniAF KafIni GafIni];
+@initsandmedis = [HehDoIni BehxIni FehxIni TahIni HehIni MeemIni HahIni SeenIni BehxMed SeenMed MeemMed LamIni LamMed HehDoMed FehxMed SadIni AinMed AinIni HahMed SadMed TahMed HehMed HehIniAF KafIni KafMed GafIni GafMed];
 
-lookup lookup_16 {
-    sub YehBarreeFin by YehBarreeFin_3 YBc1;
-} lookup_16;
-
-lookup lookup_17 {
-    sub YehBarreeFin by YehBarreeFin_4 YBc2 YBc1;
-} lookup_17;
-
-lookup lookup_18 {
-    sub YehBarreeFin by YehBarreeFin_5 YBc3 YBc2 YBc1;
-} lookup_18;
+lookup lookup_16 { sub YehBarreeFin by YehBarreeFin_3 YBc1; } lookup_16;
+lookup lookup_17 { sub YehBarreeFin by YehBarreeFin_4 YBc2 YBc1; } lookup_17;
+lookup lookup_18 { sub YehBarreeFin by YehBarreeFin_5 YBc3 YBc2 YBc1; } lookup_18;
 
 lookup lookup_63 {
-    sub @class1 by @class2;
+    sub @belowmarks by @belowmarks_yb;
 } lookup_63;
 
 lookup lookup_22 {
@@ -47,31 +44,31 @@ lookup lookup_22 {
 
 lookup lookup_21 {
     # lookupflag MarkAttachmentType @MarkClass2;
-    sub @class3' @class1' lookup lookup_63;
-    sub @class3' lookup lookup_22 @class4;
+    sub @initsandmedis' @belowmarks' lookup lookup_63;
+    sub @initsandmedis' lookup lookup_22 @medis;
 } lookup_21;
 
 feature rlig {
     lookup lookup_15 {
         # lookupflag MarkAttachmentType @MarkClass4;
-        sub @class98' lookup lookup_21 @class4 @class4 @class4 YehBarreeFin;
-        sub @class98' lookup lookup_21 @class4 @class4 YehBarreeFin;
-        sub @class98' lookup lookup_21 @class4 YehBarreeFin;
-        sub @class99 @class4' lookup lookup_21 @class4;
-        sub @class4' lookup lookup_21 @class4 @class4 @class4 YehBarreeFin;
-        sub @class4' lookup lookup_21 @class4 @class4 YehBarreeFin;
+        sub @inits' lookup lookup_21 @medis @medis @medis YehBarreeFin;
+        sub @inits' lookup lookup_21 @medis @medis YehBarreeFin;
+        sub @inits' lookup lookup_21 @medis YehBarreeFin;
+        sub [@belowmarks_yb ybPre] @medis' lookup lookup_21 @medis;
+        sub @medis' lookup lookup_21 @medis @medis @medis YehBarreeFin;
+        sub @medis' lookup lookup_21 @medis @medis YehBarreeFin;
     } lookup_15;
 
     lookup lookup_19 {
         lookupflag IgnoreMarks;
-        sub @class98' @class4' YehBarreeFin' lookup lookup_16;
-        sub @class98' @class4' @class4' YehBarreeFin' lookup lookup_17;
-        sub @class98' @class4' @class4' @class4' YehBarreeFin' lookup lookup_18;
-        sub @class4' @class4' @class4' @class4' YehBarreeFin' lookup lookup_18;
+        sub @inits' @medis' YehBarreeFin' lookup lookup_16;
+        sub @inits' @medis' @medis' YehBarreeFin' lookup lookup_17;
+        sub @inits' @medis' @medis' @medis' YehBarreeFin' lookup lookup_18;
+        sub @medis' @medis' @medis' @medis' YehBarreeFin' lookup lookup_18;
     } lookup_19;
 
     # Substitute marks for yeh baree forms
     lookup lookup_20 {
-        sub @class2 @class1' lookup lookup_63;
+        sub @belowmarks_yb @belowmarks' lookup lookup_63;
     } lookup_20;
 } rlig;

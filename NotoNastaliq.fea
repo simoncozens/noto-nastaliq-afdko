@@ -26,10 +26,10 @@ include(rlig-divine-name.fea);
 include(rlig-yeh-barree-prep.fea);
 include(rlig-connecting-forms.fea);
 # include(rlig-yeh-barree-handling.fea);
-include(rlig-stuff.fea);
+include(rlig-alt-dot-position.fea);
 include(rlig-kaf-gaf.fea);
 # include(rlig-yeh-barree-finalization.fea);
-include(rlig-stuff-2.fea);
+include(rlig-sum-spacers.fea);
 
 # GPOS
 

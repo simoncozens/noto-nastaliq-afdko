@@ -3,8 +3,8 @@
 @spacersPlus2 = [sp2 sp3 sp4 sp5 sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15 sp15];
 @spacersPlus3 = [sp3 sp4 sp5 sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15 sp15 sp15];
 @spacersPlus4 = [sp4 sp5 sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15 sp15 sp15 sp15];
-@spacersPlus5 = [sp5 sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15 sp15 sp15 sp15];
-@spacersPlus6 = [sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15 sp15 sp15 sp15 sp15];
+@spacersPlus5 = [sp5 sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15 sp15 sp15 sp15 sp15];
+@spacersPlus6 = [sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15 sp15 sp15 sp15 sp15 sp15];
 
 @class140 = [sp1 sp2 sp3 sp4 sp5 sp6 sp7 sp8 sp9 sp10 sp11 sp12 sp13 sp14 sp15];
 
@@ -17,62 +17,62 @@ lookup lookup_134 {sub @allSpacers by @spacersPlus6; } lookup_134;
 
 lookup lookup_117 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' lookup lookup_129;
+    sub @allinits' @allSpacers' lookup lookup_129;
 } lookup_117;
 
 lookup lookup_118 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' lookup lookup_130;
+    sub @allinits' @allSpacers' lookup lookup_130;
 } lookup_118;
 
 lookup lookup_119 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' lookup lookup_131;
+    sub @allinits' @allSpacers' lookup lookup_131;
 } lookup_119;
 
 lookup lookup_120 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' lookup lookup_132;
+    sub @allinits' @allSpacers' lookup lookup_132;
 } lookup_120;
 
 lookup lookup_121 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' lookup lookup_133;
+    sub @allinits' @allSpacers' lookup lookup_133;
 } lookup_121;
 
 lookup lookup_122 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' lookup lookup_134;
+    sub @allinits' @allSpacers' lookup lookup_134;
 } lookup_122;
 
 lookup lookup_123 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' @allspacers' lookup lookup_129;
+    sub @allinits' @allSpacers' @allSpacers' lookup lookup_129;
 } lookup_123;
 
 lookup lookup_124 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' @allspacers' lookup lookup_130;
+    sub @allinits' @allSpacers' @allSpacers' lookup lookup_130;
 } lookup_124;
 
 lookup lookup_125 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' @allspacers' lookup lookup_131;
+    sub @allinits' @allSpacers' @allSpacers' lookup lookup_131;
 } lookup_125;
 
 lookup lookup_126 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' @allspacers' lookup lookup_132;
+    sub @allinits' @allSpacers' @allSpacers' lookup lookup_132;
 } lookup_126;
 
 lookup lookup_127 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' @allspacers' lookup lookup_133;
+    sub @allinits' @allSpacers' @allSpacers' lookup lookup_133;
 } lookup_127;
 
 lookup lookup_128 {
     sub @allinits' lookup lookup_23 ybMk;
-    sub @allinits' @allspacers' @allspacers' lookup lookup_134;
+    sub @allinits' @allSpacers' @allSpacers' lookup lookup_134;
 } lookup_128;
 
 

@@ -43,14 +43,14 @@ lookup lookup_22 {
 } lookup_22;
 
 lookup lookup_21 {
-    # lookupflag MarkAttachmentType @MarkClass2;
+    lookupflag MarkAttachmentType @MarkClass2;
     sub @initsandmedis' @belowmarks' lookup lookup_63;
     sub @initsandmedis' lookup lookup_22 @medis;
 } lookup_21;
 
 feature rlig {
     lookup lookup_15 {
-        # lookupflag MarkAttachmentType @MarkClass4;
+        lookupflag MarkAttachmentType @MarkClass4;
         sub @inits' lookup lookup_21 @medis @medis @medis YehBarreeFin;
         sub @inits' lookup lookup_21 @medis @medis YehBarreeFin;
         sub @inits' lookup lookup_21 @medis YehBarreeFin;

@@ -95,7 +95,7 @@ lookup lookup_62 {
 
 
 lookup lookup_47 {
-    # lookupflag MarkAttachmentType @MarkClass4;
+    lookupflag MarkAttachmentType @MarkClass4;
     sub AlefInferiorYB' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc3' YBc2' YBc1' lookup lookup_48;
     sub AlefInferiorYB' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc2' YBc1' lookup lookup_48;
     sub AlefInferiorYB' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc1' lookup lookup_48;
@@ -189,7 +189,7 @@ lookup lookup_47 {
 } lookup_47;
 
 lookup lookup_45 {
-    # lookupflag MarkAttachmentType @MarkClass4;
+    lookupflag MarkAttachmentType @MarkClass4;
     sub AlefInferiorYB' @preYBmedis' @yehbarrees' YBc1' lookup lookup_48;
     sub AlefInferiorYB' @preYBmedis' @yehbarrees' YBc2' YBc1' lookup lookup_48;
     sub AlefInferiorYB' @preYBmedis' @yehbarrees' YBc3' YBc2' YBc1' lookup lookup_48;
@@ -319,7 +319,7 @@ lookup lookup_42 {
 } lookup_42;
 
 lookup lookup_43 {
-    # lookupflag MarkAttachmentType @MarkClass4;
+    lookupflag MarkAttachmentType @MarkClass4;
     sub @allinits' @belowmarksYB' lookup lookup_45 lookup lookup_46 @allmedis' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc2' YBc1';
     sub @allinits' @belowmarksYB' lookup lookup_47 lookup lookup_64 @belowmarksYB' lookup lookup_45 lookup lookup_46 @allmedis' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc2' YBc1';
     sub @allmedis' @belowmarksYB' lookup lookup_45 lookup lookup_46 @allmedis' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc3' YBc2' YBc1';
@@ -327,7 +327,7 @@ lookup lookup_43 {
 } lookup_43;
 
 lookup lookup_44 {
-    # lookupflag MarkAttachmentType @MarkClass4;
+    lookupflag MarkAttachmentType @MarkClass4;
     sub @allinits' @belowmarksYB' lookup lookup_45 lookup lookup_46 @allmedis' [NullMk ybPre]' @allmedis' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc3' YBc2';
     sub @allinits' @belowmarksYB' lookup lookup_47 lookup lookup_64 @belowmarksYB' lookup lookup_45 lookup lookup_46 @allmedis' [NullMk ybPre]' @allmedis' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc3' YBc2';
     sub @allmedis' @belowmarksYB' lookup lookup_45 lookup lookup_46 @allmedis' [NullMk ybPre]' @allmedis' [NullMk ybPre]' @preYBmedis' @yehbarrees' YBc3' YBc2';

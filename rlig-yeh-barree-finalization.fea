@@ -303,6 +303,7 @@ lookup lookup_159 {
 } lookup_159;
 
 
+ # 161 in FontDame source
 lookup lookup_160 {
     sub sp1 by ybMk sp1;
     sub sp2 by ybMk sp2;
@@ -321,13 +322,16 @@ lookup lookup_160 {
     sub sp15 by ybMk sp15;
 } lookup_160;
 
-lookup lookup_158 {
-    sub @class139' @class140' lookup lookup_160;
-    sub @class139' lookup lookup_159 @class141';
-} lookup_158;
+# 159 in FontDame source
+feature rlig {
+    lookup lookup_158 {
+        sub @class139' @class140' lookup lookup_160;
+        sub @class139' lookup lookup_159 @class141';
+    } lookup_158;
+} rlig;
 
 lookup lookup_167 {
-    # lookupflag MarkAttachmentType @MarkClass2;
+    lookupflag MarkAttachmentType @MarkClass2;
     sub @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni.outT2B' lookup lookup_123 @class77' @class77';
     sub @class77 @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni.outT2B' lookup lookup_123 @class77' @class77';
     sub @class78 @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni.outT2B' lookup lookup_123 @class77' @class77';
@@ -2364,7 +2368,7 @@ lookup lookup_167 {
 
 
 lookup lookup_168 {
-    # lookupflag MarkAttachmentType @MarkClass1;
+    lookupflag MarkAttachmentType @MarkClass1;
     sub @class81 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni.outT2B' lookup lookup_117 @class81';
     sub @class82 @class81 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni.outT2B' lookup lookup_117 @class81';
     sub @class81 @class81 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni.outT2B' lookup lookup_117 @class81';
@@ -3162,7 +3166,7 @@ lookup lookup_168 {
 } lookup_168;
 
 lookup lookup_169 {
-    # lookupflag MarkAttachmentType @MarkClass1;
+    lookupflag MarkAttachmentType @MarkClass1;
     sub @class81 @class82 AlefSep [KafIni.outT2 GafIni.outT2]' lookup lookup_119;
     sub @class81 AlefSep [KafIni.outT2 GafIni.outT2]' lookup lookup_117;
     sub @class82 @class81 AlefSep [KafIni.outT2 GafIni.outT2]' lookup lookup_117;
@@ -3596,7 +3600,7 @@ lookup lookup_169 {
 
 
 lookup lookup_173 {
-    # lookupflag MarkAttachmentType @MarkClass2;
+    lookupflag MarkAttachmentType @MarkClass2;
     sub [DalSep DalFin] @class89' lookup lookup_123 @class77';
     sub @class77 [DalSep DalFin] @class89' lookup lookup_123 @class77';
     sub @class77 @class77 [DalSep DalFin] @class89' lookup lookup_123 @class77';
@@ -3682,7 +3686,7 @@ lookup lookup_173 {
 
 
 lookup lookup_175 {
-    # lookupflag MarkAttachmentType @MarkClass2;
+    lookupflag MarkAttachmentType @MarkClass2;
     sub [WawSep WawFin WawFin.cut WawFin.inD2 WawFin.inD2alt] @class89' lookup lookup_23 @class77';
     sub @class77 [WawSep WawFin WawFin.cut WawFin.inD2 WawFin.inD2alt] @class89' lookup lookup_23 @class77';
     sub @class77 @class77 [WawSep WawFin WawFin.cut WawFin.inD2 WawFin.inD2alt] @class89' lookup lookup_23 @class77';
@@ -3773,7 +3777,7 @@ lookup lookup_175 {
 } lookup_175;
 
 lookup lookup_176 {
-    # lookupflag MarkAttachmentType @MarkClass1;
+    lookupflag MarkAttachmentType @MarkClass1;
     sub @class82 [WawSep WawFin WawFin.cut WawFin.inD2 WawFin.inD2alt] @class89' lookup lookup_117 @class83';
     sub @class82 @class82 [WawSep WawFin WawFin.cut WawFin.inD2 WawFin.inD2alt] @class89' lookup lookup_117 @class83';
     sub @class82 @class82 [WawSep WawFin WawFin.cut WawFin.inD2 WawFin.inD2alt] @class89' lookup lookup_117 @class81';
@@ -3861,7 +3865,7 @@ lookup lookup_176 {
 } lookup_176;
 
 lookup lookup_177 {
-    # lookupflag MarkAttachmentType @MarkClass2;
+    lookupflag MarkAttachmentType @MarkClass2;
     sub @class90 @class89' lookup lookup_123 @class77';
     sub @class77 @class90 @class89' lookup lookup_123 @class77';
     sub @class77 @class77 @class90 @class89' lookup lookup_123 @class77';
@@ -3976,7 +3980,7 @@ lookup lookup_177 {
 } lookup_177;
 
 lookup lookup_178 {
-    # lookupflag MarkAttachmentType @MarkClass1;
+    lookupflag MarkAttachmentType @MarkClass1;
     sub @class81 [RehFin RehFin.inD3 RehFin.postHeh RehFin.inD3MM] @class89' lookup lookup_118 @class84';
     sub @class82 @class81 [RehFin RehFin.inD3 RehFin.postHeh RehFin.inD3MM] @class89' lookup lookup_118 @class84';
     sub @class84 [RehFin.inD4B RehFin.inD4] @class89' lookup lookup_118 @class83';
@@ -4194,7 +4198,7 @@ lookup lookup_178 {
 } lookup_178;
 
 lookup lookup_179 {
-    # lookupflag MarkAttachmentType @MarkClass2;
+    lookupflag MarkAttachmentType @MarkClass2;
     sub [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni' lookup lookup_123 @class80';
     sub @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni' lookup lookup_125 @class80' @class77';
     sub @class77 @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] BehxIni' lookup lookup_125 @class80' @class77';
@@ -4217,7 +4221,7 @@ lookup lookup_179 {
 } lookup_179;
 
 lookup lookup_180 {
-    # lookupflag MarkAttachmentType @MarkClass1;
+    lookupflag MarkAttachmentType @MarkClass1;
     sub @class82 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] [BehxIni BehxIni.outT2]' lookup lookup_117 @class82';
     sub @class82 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] [BehxIni BehxIni.outT2]' lookup lookup_117 @class83';
     sub @class82 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] [BehxIni BehxIni.outT2]' lookup lookup_118 @class83' @class82';
@@ -4236,7 +4240,7 @@ lookup lookup_180 {
 } lookup_180;
 
 lookup lookup_174 {
-    # lookupflag MarkAttachmentType @MarkClass1;
+    lookupflag MarkAttachmentType @MarkClass1;
     sub DalSep @class89' lookup lookup_23 @class82';
     sub @class82 DalSep @class89' lookup lookup_117 @class82';
     sub @class82 @class82 DalSep @class89' lookup lookup_117 @class82';
@@ -4489,7 +4493,7 @@ lookup lookup_174 {
 
 
 lookup lookup_171 {
-    # lookupflag MarkAttachmentType @MarkClass2;
+    lookupflag MarkAttachmentType @MarkClass2;
     sub @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] @class86' lookup lookup_123 @class77';
     sub @class77 @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] @class86' lookup lookup_123 @class77';
     sub @class77 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] @class86' lookup lookup_124 @class80' @class77';
@@ -4676,7 +4680,7 @@ lookup lookup_171 {
 } lookup_171;
 
 lookup lookup_172 {
-    # lookupflag MarkAttachmentType @MarkClass1;
+    lookupflag MarkAttachmentType @MarkClass1;
     sub [AlefSep AlefFin AlefFin.narrow AlefSep.LA] @class87' lookup lookup_23 @class82' @class82' @class88;
     sub @class82 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] @class87' lookup lookup_23 @class82' @class82' @class88;
     sub @class82 @class82 [AlefSep AlefFin AlefFin.narrow AlefSep.LA] @class87' lookup lookup_23 @class82' @class82' @class88;

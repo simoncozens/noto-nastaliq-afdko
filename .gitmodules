@@ -3,6 +3,6 @@
 	url = https://www.github.com/simoncozens/fontFeatures
 	branch = master
 [submodule "fonttools"]
+	branch = class-based-contextuals
 	path = fonttools
-	url = https://www.github.com/simoncozens/fonttools
-	branch = fealib-multiple-lookups
+	url = https://github.com/simoncozens/fonttools

@@ -100,16 +100,37 @@ First, let's have a mapping of what the key lookups here do:
 
 |Lookup ID(s)|Meaning|
 |-|-|
-|42-44|Run the 45/46/47/64 algorithm on sequences of different length|
-|45|Mark handling (more detail below)|
-|46|Replace YB marks with null marks|
+|42-44|Run the mark reordering on sequences of different length|
+|45|Take a YB mark and add it at end (implemented in 48-62)|
+|46|Replace original YB marks with null marks|
 |47|Mark handling (more detail below)|
-|48-62|Add below marks back after a YBC*n* marker glyph|
+|48-62|Add below marks after a YBC*n* marker glyph|
 |63|Replace marks with YB marks (not used here)|
 |64|Delete a mark before a `NullMk`|
 |135-149|Add spacers of various lengths (sp1-sp15)
 
 (XXX More here)
+
+The mark reordering algorithm is found in lookups 42-44. For a single mark, it calls 45, which adds a copy of the mark at the end of the sequence, and then 46, which wipes out the first mark:
+
+    Before 42:   *init/med* ThreeDotsBelowYB *stuff* ybPre
+    42 calls 45: *init/med* ThreeDotsBelowYB *stuff* ybPre ThreeDotsBelowYB
+    42 calls 46: *init/med* NullMk *stuff* ybPree ThreeDotsBelowYB
+
+But for *two* YB marks in a row, the FontDame source does something extremely
+clever:
+
+    #       Classes                     Lookups
+    class   1, 10, 10, 3, 9, 2, 4, 5, 6 3, 45   3, 46   2, 47   2, 64
+
+Huh? Why don't the lookups appear in order, like this:
+
+    #       Classes                     Lookups
+    class   1, 10, 10, 3, 9, 2, 4, 5, 6 2, 47   2, 64   3, 45   2, 46
+
+Turns out the other order is important. We call 45/46 as normal on the glyph in position 3 (the second mark) *and then* we call 47/64 on the glyph in position 2.
+
+45/46/47/64 algorithm
 
 ### Alternate dot placement
 

@@ -82,7 +82,7 @@ lookup lookup_155 {
 
 feature ccmp {
     lookup lookup_156 {
-        # lookupflag MarkAttachmentType @MarkClass6;
+        lookupflag MarkAttachmentType @MarkClass6;
         sub [Sanah Footnote Safhah NumberSign Samvat]' @numbers' lookup lookup_152 @numbers' lookup lookup_154;
         sub [Sanah Footnote Safhah NumberSign Samvat]' @numbers' lookup lookup_152;
         sub @class91 @numbers' lookup lookup_154;

@@ -6,7 +6,7 @@ lookup lookup_14 {
 
 feature rlig {
 	lookup lookup_13 {
-	    #lookupflag MarkAttachmentType @MarkClass1;
+	    lookupflag MarkAttachmentType @MarkClass1;
 	    sub LamIni' lookup lookup_23 LamMed' HehFin'; # Do Nothing
 	    sub LamIni' lookup lookup_14 LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';
 	    sub LamIni' lookup lookup_14 LamMed' [AlefSuperiorNS FathaNS ShaddaNS]' [AlefSuperiorNS FathaNS ShaddaNS]' HehFin';

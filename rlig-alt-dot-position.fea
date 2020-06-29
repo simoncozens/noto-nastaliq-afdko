@@ -24,7 +24,7 @@ lookup lookup_37 { sub @class7 by @class8; } lookup_37;
 
 feature rlig {
     lookup lookup_161 {
-        # lookupflag MarkAttachmentType @MarkClass1;
+        lookupflag MarkAttachmentType @MarkClass1;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @BehMedInT1 @nonspacingmarks;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @BehMedInT1 @nonspacingmarks;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @gafkafmed;
@@ -136,7 +136,7 @@ feature rlig {
     } lookup_161;
 
     lookup lookup_162 {
-        # lookupflag MarkAttachmentType @MarkClass2;
+        lookupflag MarkAttachmentType @MarkClass2;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [LamMed.outT3 LamMed.outD2Y GafMed.outD2Y KafMed.outD2Y];

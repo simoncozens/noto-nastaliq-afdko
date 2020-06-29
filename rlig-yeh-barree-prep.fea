@@ -69,6 +69,7 @@ feature rlig {
 
     # Substitute marks for yeh baree forms
     lookup lookup_20 {
+        lookupflag 0;
         sub @belowmarks_yb @belowmarks' lookup lookup_63;
     } lookup_20;
 } rlig;

@@ -112,7 +112,7 @@ feature rlig {
     } lookup_164;
 
     lookup lookup_165 {
-        # lookupflag MarkAttachmentType @MarkClass8;
+        lookupflag MarkAttachmentType @MarkClass8;
         # Keheh with dot and three dots above
         sub [TwoDotsAboveKNS ThreeDotsAboveKNS] @class168 [GafFin KafFin KafMed GafMed]' lookup lookup_110;
         sub [TwoDotsAboveKNS ThreeDotsAboveKNS] @class169 [GafFin KafFin KafMed GafMed]' lookup lookup_110;

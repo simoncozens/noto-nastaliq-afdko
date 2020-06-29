@@ -4074,7 +4074,7 @@ Feature mark {
 };
 
 Feature mkmk {
+  Attach &YBMKMK_BS &YBMKMK_MK;
 	Attach &MarksAboveMKMK_BS &MarksAboveMKMK_MK;
   Attach &MarksBelowMKMK_BS &MarksBelowMKMK_MK;
-  Attach &YBMKMK_BS &YBMKMK_MK;
 };

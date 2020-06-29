@@ -1,0 +1,14 @@
+LoadPlugin FontEngineering;
+LoadPlugin YehBarree;
+
+DefineClass @yehbarres = [YehBarreeFin YehBarreeFin.2];
+DefineClass @medis = /Med/;
+DefineClass @inits = /Ini/;
+DefineClass @dots = /Dot.*BelowNS/;
+
+DuplicateGlyphs @dots @dots.YB;
+
+Feature rlig {
+	YBFixOverhang @yehbarres @medis @inits;
+	YBReplaceDots @yehbarres @medis @dots @dots.YB;
+};

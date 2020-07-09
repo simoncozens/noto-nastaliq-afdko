@@ -25,111 +25,97 @@ lookup lookup_37 { sub @class7 by @class8; } lookup_37;
 feature rlig {
     lookup lookup_161 {
         lookupflag MarkAttachmentType @MarkClass1;
-        sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @BehMedInT1 @nonspacingmarks;
-        sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @BehMedInT1 @nonspacingmarks;
+        sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks;
+        sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @gafkafmed;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @gafkafmed @gafkafmed;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @variousBehMed1 @nonspacingmarks;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 BehxMed.inT2outD2MM @nonspacingmarks;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @variousBehMed1 @nonspacingmarks;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' BehxMed.inT2outD2MM @nonspacingmarks;
-
         sub BehxIni.outT2' @nonspacingmarks' lookup lookup_37 @variousBehMed1 @nonspacingmarks;
         sub BehxIni.outT2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @variousBehMed1 @nonspacingmarks;
-
-        sub @nonspacingmarks @BehMedHehIniMeemIni @BehMedInT1' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks @BehMedHehIniMeemIni @BehMedInT1' @nonspacingmarks' lookup lookup_37;
-        sub @BehMedInT1' @nonspacingmarks' lookup lookup_37 @variousBehMed1 @nonspacingmarks;
-        sub @BehMedInT1' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @variousBehMed1 @nonspacingmarks;
-        sub @BehMedInT1' @nonspacingmarks' lookup lookup_37 BehxMed.inT2outD2MM @nonspacingmarks;
-        # lookup_100 = replace by wide forms
-        sub @BehMedInT1' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' BehxMed.inT2outD2MM @nonspacingmarks;
-        sub @nonspacingmarks BehxMed.inT2outT1wide @BehMedInT1' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks BehxMed.inT2outT1wide @BehMedInT1' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
-        sub @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin';
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin';
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin';
-        sub @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 [WawFin.cut QafxFin.cut];
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 [WawFin.cut QafxFin.cut];
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 [WawFin.cut QafxFin.cut];
-        sub @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' [WawFin.cut QafxFin.cut];
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' [WawFin.cut QafxFin.cut];
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' [WawFin.cut QafxFin.cut];
-        sub @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @class147;
-        sub @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @class147;
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @class147;
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @class147;
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @class147;
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @class147;
-        sub @T2FehHah @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @T2FehHah @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks @T2FehHah @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @nonspacingmarks @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
-        sub @T2FehHah [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks';
-        sub @nonspacingmarks @T2FehHah [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks';
-        sub @nonspacingmarks @nonspacingmarks @T2FehHah [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks';
-        sub AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 @BehMedInT1 @nonspacingmarks;
-        sub @nonspacingmarks AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 @BehMedInT1 @nonspacingmarks;
-        sub @nonspacingmarks @nonspacingmarks AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @BehMedInT1 @nonspacingmarks;
-        sub AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 @BehMedInT1 @nonspacingmarks @nonspacingmarks;
-        sub @nonspacingmarks AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 @BehMedInT1 @nonspacingmarks @nonspacingmarks;
-        sub @nonspacingmarks @nonspacingmarks AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @BehMedInT1 @nonspacingmarks;
-        sub @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @gafkafmed;
-        sub @nonspacingmarks @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @gafkafmed;
-        sub @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @class148;
-        sub @nonspacingmarks @nonspacingmarks [BehxMed.inT1outT2 BehxMed.inT1outT2wide] [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @class148;
+        sub @BehMedHehIniMeemIni @nonspacingmarks [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' @nonspacingmarks' lookup lookup_37;
+        sub @BehMedHehIniMeemIni @nonspacingmarks @nonspacingmarks [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' @nonspacingmarks' lookup lookup_37;
+        sub [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' @nonspacingmarks' lookup lookup_37 @variousBehMed1 @nonspacingmarks;
+        sub [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @variousBehMed1 @nonspacingmarks;
+        sub [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' @nonspacingmarks' lookup lookup_37 BehxMed.inT2outD2MM @nonspacingmarks;
+        sub [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' BehxMed.inT2outD2MM @nonspacingmarks;
+        sub BehxMed.inT2outT1wide @nonspacingmarks [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub BehxMed.inT2outT1wide @nonspacingmarks @nonspacingmarks [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen]' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' HehFin' lookup lookup_100 @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin';
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin';
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 HehFin';
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' @nonspacingmarks' lookup lookup_37 [WawFin.cut QafxFin.cut];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 [WawFin.cut QafxFin.cut];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 [WawFin.cut QafxFin.cut];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' [WawFin.cut QafxFin.cut];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' [WawFin.cut QafxFin.cut];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' [WawFin.cut QafxFin.cut];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' @nonspacingmarks' lookup lookup_37 @class147;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @class147;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @class147;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @class147;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @class147;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @class147;
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks @nonspacingmarks @variousBehMed2' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [KafMed.k GafMed.k];
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks';
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks';
+        sub [FehxIni.outT2 HahIni.outT2 HahMed.inD2outT2] @nonspacingmarks @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks';
+        sub AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks;
+        sub AinIni.outT2 @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks;
+        sub AinIni.outT2 @nonspacingmarks @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks;
+        sub AinIni.outT2 [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks @nonspacingmarks;
+        sub AinIni.outT2 @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks @nonspacingmarks;
+        sub AinIni.outT2 @nonspacingmarks @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2Seen] @nonspacingmarks;
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @gafkafmed;
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @gafkafmed;
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @class148;
+        sub [BehxMed.inT1outT2 BehxMed.inT1outT2wide] @nonspacingmarks @nonspacingmarks [BehxMed.inT2outT1 BehxMed.inT2outT1wide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @class148;
         sub [BehxMed.inT2outD2H BehxMed.inT2outD2HS BehxMed.inT2outD2Hwide]' lookup lookup_100 @nonspacingmarks' @HahMeds @nonspacingmarks;
         sub [BehxMed.inT2outD2H BehxMed.inT2outD2HS BehxMed.inT2outD2Hwide]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @HahMeds @nonspacingmarks;
         sub [BehxMed.inT2outD2H BehxMed.inT2outD2HS BehxMed.inT2outD2Hwide]' @nonspacingmarks' lookup lookup_37 @HahMeds;
         sub [BehxMed.inT2outD2H BehxMed.inT2outD2HS BehxMed.inT2outD2Hwide]' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @HahMeds;
-
         sub @D2Hforms' lookup lookup_100 @HahMeds @nonspacingmarks;
         sub @D2Hforms' lookup lookup_100 @nonspacingmarks' @HahMeds @nonspacingmarks;
         sub @D2Hforms' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @HahMeds @nonspacingmarks;
-
         sub BehxIni.outS1' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @variousBehMed1 @nonspacingmarks;
         sub BehxIni.outS1' @nonspacingmarks' lookup lookup_37 @variousBehMed1 @nonspacingmarks;
-
-        # Sequences ending in Beh Heh / Heh Heh / Meem Heh
-        sub @nonspacingmarks @BehMedHehIniMeemIni HehFin' lookup lookup_100 @nonspacingmarks';
-        sub @nonspacingmarks @nonspacingmarks @BehMedHehIniMeemIni HehFin' lookup lookup_100 @nonspacingmarks';
-
-        # Sequences starting with Feh
+        sub @BehMedHehIniMeemIni @nonspacingmarks HehFin' lookup lookup_100 @nonspacingmarks';
+        sub @BehMedHehIniMeemIni @nonspacingmarks @nonspacingmarks HehFin' lookup lookup_100 @nonspacingmarks';
         sub FehxIni' @nonspacingmarks' lookup lookup_37 BehxMed.inT1outT2wide @nonspacingmarks;
         sub FehxIni' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' BehxMed.inT1outT2wide @nonspacingmarks;
         sub FehxIni' @nonspacingmarks' lookup lookup_37 @gafkafmed;
         sub FehxIni' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' @gafkafmed;
-
-        # Sequences ending in Dal
-        sub @nonspacingmarks @BehMedHehIniMeemIni DalFin' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks @BehMedHehIniMeemIni DalFin' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks BehxMed.inT2outT1wide DalFin' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks BehxMed.inT2outT1wide DalFin' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks [FehxIni FehxMed.inT3outT1] DalFin' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks [FehxIni FehxMed.inT3outT1] DalFin' @nonspacingmarks' lookup lookup_37;
-
+        sub @BehMedHehIniMeemIni @nonspacingmarks DalFin' @nonspacingmarks' lookup lookup_37;
+        sub @BehMedHehIniMeemIni @nonspacingmarks @nonspacingmarks DalFin' @nonspacingmarks' lookup lookup_37;
+        sub BehxMed.inT2outT1wide @nonspacingmarks DalFin' @nonspacingmarks' lookup lookup_37;
+        sub BehxMed.inT2outT1wide @nonspacingmarks @nonspacingmarks DalFin' @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni FehxMed.inT3outT1] @nonspacingmarks DalFin' @nonspacingmarks' lookup lookup_37;
+        sub [FehxIni FehxMed.inT3outT1] @nonspacingmarks @nonspacingmarks DalFin' @nonspacingmarks' lookup lookup_37;
         sub FehxMed.inT3outT1' @nonspacingmarks' lookup lookup_37 BehxMed.inT1outT2wide @nonspacingmarks;
         sub FehxMed.inT3outT1' @nonspacingmarks' lookup lookup_37 @nonspacingmarks' BehxMed.inT1outT2wide @nonspacingmarks;
-        sub @nonspacingmarks BehxIni.outT2 [BehxMed.inT2outD2Y BehxMed.inT2outD2HF]' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks BehxIni.outT2 [BehxMed.inT2outD2Y BehxMed.inT2outD2HF]' @nonspacingmarks' lookup lookup_37;
+        sub BehxIni.outT2 @nonspacingmarks [BehxMed.inT2outD2Y BehxMed.inT2outD2HF]' @nonspacingmarks' lookup lookup_37;
+        sub BehxIni.outT2 @nonspacingmarks @nonspacingmarks [BehxMed.inT2outD2Y BehxMed.inT2outD2HF]' @nonspacingmarks' lookup lookup_37;
         sub [BehxMed.inT2outD2Y BehxMed.inT2outD2HF]' lookup lookup_100 @nonspacingmarks' @HahMeds @nonspacingmarks;
         sub [BehxMed.inT2outD2Y BehxMed.inT2outD2HF]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @HahMeds @nonspacingmarks;
-        sub @nonspacingmarks BehxIni.outD4 RehFin.inD4B' @nonspacingmarks' lookup lookup_37;
-        sub @nonspacingmarks @nonspacingmarks BehxIni.outD4 RehFin.inD4B' @nonspacingmarks' lookup lookup_37;
-
-        # Hah-jeem combinations
+        sub BehxIni.outD4 @nonspacingmarks RehFin.inD4B' @nonspacingmarks' lookup lookup_37;
+        sub BehxIni.outD4 @nonspacingmarks @nonspacingmarks RehFin.inD4B' @nonspacingmarks' lookup lookup_37;
         sub [HahIni.outD2H HahMed.inD2outD2H]' lookup lookup_100 @HahMeds @nonspacingmarks;
         sub [HahIni.outD2H HahMed.inD2outD2H]' lookup lookup_100 @nonspacingmarks' @HahMeds @nonspacingmarks;
         sub [HahIni.outD2H HahMed.inD2outD2H]' lookup lookup_100 @nonspacingmarks' @nonspacingmarks' @HahMeds @nonspacingmarks;
@@ -149,66 +135,56 @@ feature rlig {
         sub [BehxIni BehxIni.A HehIni MeemIni]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @variousBehMed3 @class151;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 DalFin @class151;
         sub [BehxIni BehxIni.A HehIni MeemIni]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' DalFin @class151;
-
         sub BehxIni.outT2' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @variousBehMed3 @class151;
         sub BehxIni.outT2' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @variousBehMed3 @class151;
-
-        sub @class154 @class155 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2wide BehxMed.inT1outT2Seen]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-        sub @class154 @class154 @class155 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2wide BehxMed.inT1outT2Seen]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub @class155 @class154 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2wide BehxMed.inT1outT2Seen]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub @class155 @class154 @class154 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2wide BehxMed.inT1outT2Seen]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
         sub [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2wide BehxMed.inT1outT2Seen]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @variousBehMed3 @class151;
         sub [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2N BehxMed.inT1outT2wide BehxMed.inT1outT2Seen]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @variousBehMed3 @class151;
-        sub @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @class152;
-        sub @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @class152;
-        sub @class154 @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @class152;
-        sub @class154 @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @class152;
-        sub @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 DalFin;
-        sub @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' DalFin;
-        sub @class154 @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 DalFin;
-        sub @class154 @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' DalFin;
-        sub @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [LamFin GafFin KafFin];
-        sub @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [LamFin GafFin KafFin];
-        sub @class154 @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [LamFin GafFin KafFin];
-        sub @class154 @class154 HahMed.inD2outT2 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [LamFin GafFin KafFin];
-        sub @class154 BehxMed.inT1outT2 BehxMed.inT2outD2H' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-        sub @class154 @class154 BehxMed.inT1outT2 BehxMed.inT2outD2H' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-        sub @class154 BehxMed.inT1outT2 [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-        sub @class154 @class154 BehxMed.inT1outT2 [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-
+        sub HahMed.inD2outT2 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @class152;
+        sub HahMed.inD2outT2 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @class152;
+        sub HahMed.inD2outT2 @class154 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @class152;
+        sub HahMed.inD2outT2 @class154 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @class152;
+        sub HahMed.inD2outT2 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 DalFin;
+        sub HahMed.inD2outT2 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' DalFin;
+        sub HahMed.inD2outT2 @class154 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 DalFin;
+        sub HahMed.inD2outT2 @class154 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' DalFin;
+        sub HahMed.inD2outT2 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [LamFin GafFin KafFin];
+        sub HahMed.inD2outT2 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [LamFin GafFin KafFin];
+        sub HahMed.inD2outT2 @class154 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [LamFin GafFin KafFin];
+        sub HahMed.inD2outT2 @class154 @class154 @variousBehMed4' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [LamFin GafFin KafFin];
+        sub BehxMed.inT1outT2 @class154 BehxMed.inT2outD2H' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub BehxMed.inT1outT2 @class154 @class154 BehxMed.inT2outD2H' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub BehxMed.inT1outT2 @class154 [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub BehxMed.inT1outT2 @class154 @class154 [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
         sub [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 HahFin [OneDotEnclNS ThreeDotsDownEnclNS];
         sub [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' HahFin [OneDotEnclNS ThreeDotsDownEnclNS];
         sub [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @HahMeds @class151;
         sub [BehxMed.inT2outD2HF BehxMed.inT2outD2HS]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @HahMeds @class151;
-        sub @class154 @class155 HahMed.inD2outD2Y' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 YehxFin;
-        sub @class154 @class154 @class155 HahMed.inD2outD2Y' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 YehxFin;
-
+        sub @class155 @class154 HahMed.inD2outD2Y' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 YehxFin;
+        sub @class155 @class154 @class154 HahMed.inD2outD2Y' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 YehxFin;
         sub BehxIni.outS1' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @variousBehMed3 @class151;
         sub BehxIni.outS1' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @variousBehMed3 @class151;
         sub FehxIni.outS1' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @variousBehMed3 @class151;
         sub FehxIni.outS1' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @variousBehMed3 @class151;
-
         sub BehxIni.outT3' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @class157 @class151;
         sub BehxIni.outT3' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @class157 @class151;
         sub BehxIni.outT3' @NSandAltMarksBelowIncludingEncl' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 AinFin';
-
         sub [BehxIni.outT3En HehIni.outT3En]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @class157 @class151;
         sub [BehxIni.outT3En HehIni.outT3En]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @class157 @class151;
         sub [BehxIni.outT3En HehIni.outT3En]' @NSandAltMarksBelowIncludingEncl' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 AinFin';
-
-        sub @class154 @class155 @LamGafMedKafMed' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-        sub @class154 @class154 @class155 @LamGafMedKafMed' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-        sub @class154 BehxIni.outD11 [KafMed.k GafMed.k]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-        sub @class154 @class154 BehxIni.outD11 [KafMed.k GafMed.k]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
-
+        sub @class155 @class154 @LamGafMedKafMed' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub @class155 @class154 @class154 @LamGafMedKafMed' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub BehxIni.outD11 @class154 [KafMed.k GafMed.k]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
+        sub BehxIni.outD11 @class154 @class154 [KafMed.k GafMed.k]' @NSandAltMarksBelowIncludingEncl' lookup lookup_37;
         sub [HehDoIni.outT2 HehDoMed.inD2outT2]' lookup lookup_100 @variousBehMed4' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
         sub [HehDoIni.outT2 HehDoMed.inD2outT2]' lookup lookup_100 @variousBehMed4' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
         sub [HehDoIni.outT2 HehDoMed.inD2outT2]' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' @variousBehMed4' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
         sub [HehDoIni.outT2 HehDoMed.inD2outT2]' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' @variousBehMed4' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
         sub [HehDoIni.outT2 HehDoMed.inD2outT2]' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' @NSandAltMarksBelowIncludingEncl' @variousBehMed4' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
         sub [HehDoIni.outT2 HehDoMed.inD2outT2]' lookup lookup_100 @NSandAltMarksBelowIncludingEncl' @NSandAltMarksBelowIncludingEncl' @variousBehMed4' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' [BehxMed.inT1outS1 BehxMed.inT1outT2 BehxMed.inT1outT2Seen] @class151;
-
         sub BehxIni.outT2tall' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @SeenMed @class151;
         sub BehxIni.outT2tall' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @SeenMed @class151;
-
         sub FehxIni.outT2' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @variousBehMed3 @class151;
         sub FehxIni.outT2' @NSandAltMarksBelowIncludingEncl' lookup lookup_37 @NSandAltMarksBelowIncludingEncl' @variousBehMed3 @class151;
     } lookup_162;

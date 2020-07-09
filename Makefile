@@ -1,6 +1,6 @@
 .EXPORT_ALL_VARIABLES:
 PYTHONPATH = ./fonttools/Lib:./fontFeatures
-ALLFEA = NotoNastaliq.fea add-spacer-glyphs.fea anchors.fea ccmp-decompose-dots.fea ccmp-localisation.fea ccmp-small-and-enclosed-numerals.fea curs-cursive-positioning.fea curs-kerning.fea gdef.fea glyph-classes.fea init-medi-fina.fea long-number-marks.fea rlig-alt-dot-position.fea rlig-connecting-forms.fea rlig-divine-name.fea rlig-kaf-gaf.fea rlig-lam-alef.fea rlig-sum-spacers.fea rlig-yeh-barree-finalization.fea rlig-yeh-barree-handling.fea rlig-yeh-barree-prep.fea yeh-barree-replace-dots.fea yeh-barree-drop-dots.fea
+ALLFEA = NotoNastaliq.fea add-spacer-glyphs.fea anchors.fea ccmp-decompose-dots.fea ccmp-localisation.fea ccmp-small-and-enclosed-numerals.fea curs-cursive-positioning.fea curs-kerning.fea gdef.fea glyph-classes.fea init-medi-fina.fea long-number-marks.fea rlig-alt-dot-position.fea rlig-connecting-forms.fea rlig-divine-name.fea rlig-kaf-gaf.fea rlig-lam-alef.fea rlig-sum-spacers.fea rlig-yeh-barree-finalization.fea yeh-barree-replace-dots.fea yeh-barree-drop-dots.fea
 
 all: master_ttf/NotoNastaliqUrdu-Regular.ttf
 

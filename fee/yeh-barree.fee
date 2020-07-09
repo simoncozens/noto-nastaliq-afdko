@@ -4,15 +4,25 @@ LoadPlugin YehBarree;
 DefineClass @yehbarres = [YehBarreeFin YehBarreeFin.2];
 DefineClass @medis = /Med/;
 DefineClass @inits = /Ini/;
-DefineClass @dots = /Dot.*BelowNS/;
+
+DefineClass @dots = /Dot.*BelowNS$/;
 
 DuplicateGlyphs @dots @dots.YB;
 
+YBSettings MaxChainLength 5;
+
 Feature kern {
-	YBFixOverhang @yehbarres @medis @inits;
+ 	YBFixOverhang @yehbarres @medis @inits;
 };
 
 Feature rlig {
 	YBReplaceDots @yehbarres @medis @inits @dots @dots.YB;
 };
 
+
+DefineClass @belowmarks = [HehCommaNS KasraNS];
+DuplicateGlyphs @belowmarks @belowmarks.YB;
+
+Feature rlig {
+	YBReplaceDots @yehbarres @medis @inits @belowmarks @belowmarks.YB;
+};

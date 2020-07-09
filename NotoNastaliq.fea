@@ -27,9 +27,9 @@ include(rlig-divine-name.fea);
 include(rlig-connecting-forms.fea);
 # include(rlig-yeh-barree-handling.fea);
 include(yeh-barree-replace-dots.fea);
-# include(rlig-alt-dot-position.fea);
-# include(rlig-kaf-gaf.fea);
-# include(rlig-yeh-barree-finalization.fea);
+include(rlig-alt-dot-position.fea);
+include(rlig-kaf-gaf.fea);
+include(rlig-yeh-barree-finalization.fea);
 include(rlig-sum-spacers.fea);
 
 # GPOS

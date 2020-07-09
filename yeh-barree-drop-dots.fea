@@ -1,4 +1,6 @@
 @ybdots = [OneDotBelowNS.YB TwoDotsBelowNS.YB ThreeDotsDownBelowNS.YB TwoDotsVertBelowNS.YB FourDotsBelowNS.YB Tah2DotsBelowNS.YB OneDotSmallBelowNS.YB];
 feature kern {
-	pos @ybdots <0 -80 0 0>;
+  lookupflag IgnoreBaseGlyphs UseMarkFilteringSet @ybdots;
+	pos @ybdots'  <60 0 0 0> @ybdots' <0 -160 0 0>;
+	pos @ybdots <-30 -80 0 0>;
 } kern;

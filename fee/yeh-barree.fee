@@ -8,7 +8,11 @@ DefineClass @dots = /Dot.*BelowNS/;
 
 DuplicateGlyphs @dots @dots.YB;
 
-Feature rlig {
+Feature kern {
 	YBFixOverhang @yehbarres @medis @inits;
-	YBReplaceDots @yehbarres @medis @dots @dots.YB;
 };
+
+Feature rlig {
+	YBReplaceDots @yehbarres @medis @inits @dots @dots.YB;
+};
+

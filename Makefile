@@ -5,7 +5,7 @@ ALLFEA = NotoNastaliq.fea add-spacer-glyphs.fea anchors.fea ccmp-decompose-dots.
 all: master_ttf/NotoNastaliqUrdu-Regular.ttf
 
 clean:
-	rm master_ttf/NotoNastaliqUrdu-Regular*.ttf yeh-barree-replace-dots.fea anchors.fea
+	rm master_ttf/NotoNastaliqUrdu-Regular*.ttf yeh-barree-replace-dots.fea
 
 master_ttf/NotoNastaliqUrdu-Regular-simple.ttf: NotoNastaliqUrdu.glyphs
 	fontmake -o ttf -g NotoNastaliqUrdu.glyphs --master-dir .
@@ -15,9 +15,9 @@ master_ttf/NotoNastaliqUrdu-Regular-simple.ttf: NotoNastaliqUrdu.glyphs
 yeh-barree-replace-dots.fea: fee/yeh-barree.fee master_ttf/NotoNastaliqUrdu-Regular-simple.ttf
 	python3 fontFeatures/fee2fea master_ttf/NotoNastaliqUrdu-Regular-simple.ttf fee/yeh-barree.fee  > yeh-barree-replace-dots.fea
 
-anchors.fea: fee/anchors.fee master_ttf/NotoNastaliqUrdu-Regular-simple.ttf
-	# Create anchors file
-	python3 fontFeatures/fee2fea master_ttf/NotoNastaliqUrdu-Regular-simple.ttf fee/anchors.fee > anchors.fea
+#anchors.fea: fee/anchors.fee master_ttf/NotoNastaliqUrdu-Regular-simple.ttf
+#	# Create anchors file
+#	python3 fontFeatures/fee2fea master_ttf/NotoNastaliqUrdu-Regular-simple.ttf fee/anchors.fee > anchors.fea
 
 master_ttf/NotoNastaliqUrdu-Regular.ttf: $(ALLFEA) master_ttf/NotoNastaliqUrdu-Regular-simple.ttf
 	python3 -m fontTools.feaLib -o master_ttf/NotoNastaliqUrdu-Regular.ttf NotoNastaliq.fea master_ttf/NotoNastaliqUrdu-Regular-simple.ttf

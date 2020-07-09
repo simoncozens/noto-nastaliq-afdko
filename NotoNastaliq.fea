@@ -23,9 +23,7 @@ include(init-medi-fina.fea);
 
 include(rlig-lam-alef.fea);
 include(rlig-divine-name.fea);
-# include(rlig-yeh-barree-prep.fea);
 include(rlig-connecting-forms.fea);
-# include(rlig-yeh-barree-handling.fea);
 include(yeh-barree-replace-dots.fea);
 include(rlig-alt-dot-position.fea);
 include(rlig-kaf-gaf.fea);

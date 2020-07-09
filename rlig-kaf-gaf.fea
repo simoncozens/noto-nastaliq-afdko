@@ -114,13 +114,13 @@ feature rlig {
     lookup lookup_165 {
         lookupflag MarkAttachmentType @MarkClass8;
         # Keheh with dot and three dots above
-        sub [TwoDotsAboveKNS ThreeDotsAboveKNS] @class168 [GafFin KafFin KafMed GafMed]' lookup lookup_110;
-        sub [TwoDotsAboveKNS ThreeDotsAboveKNS] @class169 [GafFin KafFin KafMed GafMed]' lookup lookup_110;
+        sub @class168 [TwoDotsAboveKNS ThreeDotsAboveKNS] [GafFin KafFin KafMed GafMed]' lookup lookup_110;
+        sub @class169 [TwoDotsAboveKNS ThreeDotsAboveKNS] [GafFin KafFin KafMed GafMed]' lookup lookup_110;
         sub @class169 [GafFin KafFin KafMed GafMed]' lookup lookup_110;
-        sub [TwoDotsAboveKNS ThreeDotsAboveKNS] @class168 @KafGafMed' lookup lookup_110;
-        sub [TwoDotsAboveKNS ThreeDotsAboveKNS] @class169 @KafGafMed' lookup lookup_110;
+        sub @class168 [TwoDotsAboveKNS ThreeDotsAboveKNS] @KafGafMed' lookup lookup_110;
+        sub @class169 [TwoDotsAboveKNS ThreeDotsAboveKNS] @KafGafMed' lookup lookup_110;
         sub @class169 @KafGafMed' lookup lookup_110;
-        sub [TwoDotsAboveKNS ThreeDotsAboveKNS] @class168 [KafMed.HR GafMed.HR]' lookup lookup_110;
+        sub @class168 [TwoDotsAboveKNS ThreeDotsAboveKNS] [KafMed.HR GafMed.HR]' lookup lookup_110;
         sub @class168 [KafMed.HR GafMed.HR]' lookup lookup_110;
     } lookup_165;
 } rlig;
